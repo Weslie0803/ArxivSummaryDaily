@@ -3,12 +3,12 @@ layout: default
 title: Arxiv论文总结报告
 ---
 
-[查看所有摘要归档](archive.md) | 更新日期: 2026-10-14
+[查看所有摘要归档](archive.md) | 更新日期: 2026-10-15
 
 # Arxiv论文总结报告
 
 ## 基本信息
-- 生成时间：2026-10-13 12:13:03
+- 生成时间：2026-10-15 12:08:29
 - 使用模型：gemini-2.5-flash
 - 论文数量：200 篇
 
@@ -16,1396 +16,2198 @@ title: Arxiv论文总结报告
 
 ## 论文总结
 
-### [An entangling Hubbard quasiparticle collider on a digital quantum processor](http://arxiv.org/abs/2610.13946v1)
-- **作者:** Chan Bin Bark, Hanbyul Kim, Yoonil Koo, SeungBeom Hong, Seik Pak, Kwang Jun Ahn, Sangmo Cheon, Youngseok Kim, Moon Jip Park
-- **研究目的:** 在数字量子处理器上实现并研究Fermi-Hubbard模型中准粒子（双子和空穴）的散射实验。
-- **主要发现:** 首次在量子硬件上测量了Hubbard模型准粒子的传输概率，并发现碰撞通过叠加透射和反射分量产生纠缠。
+
+论文 1：
+标题：Nodal nematic superconductivity in moiré graphene
+作者：Shuwen Sun, Grgur Palle, Kenji Watanabe, Takashi Taniguchi, Rafael M. Fernandes, Pablo Jarillo-Herrero, Jeong Min Park
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20605v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 2：
+标题：Landau quantization of $C\_3$ high-fold fermions in honeycomb lattices
+作者：Luisa Madail, Joaquín Fernández-Rossier
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20595v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 3：
+标题：Exchange Interactions and Magnon Spectra in bcc Fe(001) Thin Films: A Computational Study
+作者：Joanna Marciniak, Wojciech Marciniak, Jorge Luis Briseño-Gómez, Jan Rusz
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20564v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 4：
+标题：Metallic electron crystals in rhombohedral graphene as a bridge to twisted WSe$\_2$
+作者：Wentai Deng, Chenyuan Li, Naoto Nakatsuji, Fang Xie, Lei Chen, Qimiao Si, Jennifer Cano
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20553v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 5：
+标题：Growth-induced trade-off between polarity, electrical isolation, and structural quality in AlN grown on Si(111) by plasma-assisted molecular beam epitaxy
+作者：Hossein Yazdani, Nhu Tran, Xin Du, Vit Hornik, Roman Gröger, YongJin Cho
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20523v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 6：
+标题：Anyons at impurities: Fractional charge measurement and "wrong sign" binding
+作者：Haydn S. Adlong, Arthur Christianen, Atac Imamoglu, Glenn Wagner
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20522v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 7：
+标题：Structural identification in general crystalline systems via Voronoi cell topology
+作者：Emanuel A. Lazar, Chris H. Rycroft
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20498v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 8：
+标题：Magnetic Susceptibility of Superconducting Films in the Meissner-London Regime
+作者：Ruslan Prozorov
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20455v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 9：
+标题：Orbitronics in Zero-dimensional Graphene Nanoflakes via Electrode Coupling
+作者：Washington F. dos Santos, Eudes Gomes da Silva, Denis R. Candido, Alexandre Reily Rocha
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20454v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 10：
+标题：Large-Tiny Spin-Stripe SDW Order in La$\_3$Ni$\_2$O$\_7$ via $^{139}$La-NQR Spectroscopy: Reconsideration Based on the $Am2m$ Structure
+作者：Mitsuharu Yashima, Hongnam Lee, Takumi Ino, Nina Seto, Masataka Kakoi, Hiroya Sakurai, Yoshihiko Takano, Hidekazu Mukuda
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20446v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 11：
+标题：Universal enhancement of the pairing gap in a dilute Fermi superfluid
+作者：Silas R. Beane, Roland C. Farrell, Cameron P. Shotwell
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20434v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 12：
+标题：Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \bar1 00)$ surface
+作者：D. A. Usanov, A. B. Hellenes, S. Hahn, M. Leandersson, J. Osiecki, K. Uhlířová, D. Evtushinsky, L. Šmejkal, T. Jungwirth, J. H. Dil
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20383v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 13：
+标题：Designing Hamiltonians with Exactly Flat Higher-Vortexable Bands
+作者：Daniel Spasic-Mlacak, Nigel R. Cooper
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20380v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 14：
+标题：Modeling electrodeposition of thin films with compact, dendritic, and random morphologies
+作者：Fábio D. A. Aarão Reis, Dung di Caprio, Sidiney G. Alves, Ismael S. S. Carrasco
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20361v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 15：
+标题：Coherent and dissipative coupling of multiple photon-magnon hybrids in a chiral microwave resonator
+作者：Supanat Chantarattana, Charlie W. F. Freeman, Daniel Prestwood, Nimisha Arora, Vincent Castel, Hidekazu Kurebayashi
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20314v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 16：
+标题：Making Weak Interlayer Excitons Absorb: Manipulating the Effective Oscillator Strength via Purcell Engineering of Critical Coupling
+作者：Saroj Poudyal, Anabel Atash Kahlon, Michael Klein, Matan Meshulam, Yonatan Gershuni, Thomas Poirier, James H. Edgar, Mukesh Kumar, Seth Ariel Tongay, Itai Epstein
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20307v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 17：
+标题：Transport regimes in tunnel ferromagnetic Josephson junctions
+作者：R. Satariano, A. A. Golubov, E. Raja, R. Ferraiuolo, F. Calloni, H. G. Ahmad, A. Vettoliere, N. Poccia, L. Parlato, G. Ausanio, C. Granata, G. P. Pepe, M. Yu. Kupriyanov, F. Tafuri, D. Montemurro, D. Massarotti
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20268v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 18：
+标题：Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12
+作者：Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20249v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 19：
+标题：A Topological\-Geometrical Descriptor (TGD) for Scalable and Interpretable Modeling of Two\-Dimensional Carbon Networks
+作者：Rômulo Uriel Liberal de Oliveira, Raphael Matozo Tromer
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20216v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 20：
+标题：High-Frequency Mass Transfer Enabling Over-Limiting Currents in Porous Electrodes
+作者：Md Abdul Hamid, Kyle C. Smith
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20211v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 21：
+标题：Access Rate-Dependent Endurance Behavior of Ferroelectric Hafnium Zirconium Oxide Capacitors
+作者：Roberto Guido, Julie Laguerre, Pramoda Vishnumurthy, Florian Wunderwald, Kristina Holsgrove, Thomas Mikolajick, Sou-Chi Chang, Alfred Kersch, Uwe Schroeder
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20154v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 22：
+标题：Near-field contributions to cavity-mediated radiative heat transfer
+作者：Antonio Mastropasqua, Martin Eckstein, Daniele Fausti, Francesca Fassioli
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20130v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 23：
+标题：Disorder-Induced Griffiths like Phase and Charge Localization in Sr2FeRuO6
+作者：Koustav Pal, Shuvendu Ghosh, I. Das
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20128v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 24：
+标题：Identification of carbon-related color centers in hBN by high-resolution ab initio photoluminescence modeling
+作者：Vytautas Žalandauskas, Marek Maciaszek, Marianne Etzelmüller Bathen, Julius Janušonis, Tadas Paulauskas, Lukas Razinkovas
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20127v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 25：
+标题：Polaritonic self-hybridized critical coupling by Brillouin zone folding induced quasi-bound states in the continuum in bulk WS2 metasurfaces
+作者：Kuidong Wang, Xiongwei Guo, Fu Liu, Jinhai Si, Xun Hou
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20103v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 26：
+标题：Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential
+作者：Nils-Ruben Skogemyr, Albin Sjöstedt, Isak Wernroth, Isak Häggqvist, Isac Ljungwald, Hans-Ove Åkesson, Henricus R. A. ten Eikelder, Rickard Armiento, Joel Davidsson
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20063v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 27：
+标题：Transverse magneto-gyrotropy driven by spin-induced ferroaxiality
+作者：Yoshihiro Okamura, Takumi Kagawa, Ayano Nakamura, Shinichi Nishihaya, Masaki Uchida, Susumu Minami, Ryotaro Arita, Youtarou Takahashi
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.20061v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 28：
+标题：Deep Learning of Phase Transitions for Bilinear-Biquadratic Spin-1 Chains from Correlation Aspects
+作者：Ming-Chiang Chung, Yu-Ting Kuo, Ian McCulloch, Yuan-Hong Tsai
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19995v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 29：
+标题：High-Harmonic Generation Probes Quantum Nuclear Fluctuations in Liquid Water
+作者：George Trenins, Nicolas Tancogne-Dejean, Angana Mondal, Angel Rubio, Hans Jakob Wörner, Aaron Kelly, Ofer Neufeld, Mariana Rossi
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19967v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 30：
+标题：Observation of correlations beyond the single-particle picture in fermionic counting statistics
+作者：Johann Zöllner, Hendrik Mannel, Daniel Oppers, Martin Geller, Axel Lorke, Jürgen König
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19950v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 31：
+标题：Majorana Edge Modes Reshape Kibble-Zurek Scaling in Kitaev Honeycomb Ribbons
+作者：Hyesung Choi, Antonio Mandarino, Mahn-Soo Choi
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19923v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 32：
+标题：Beyond DFT electronic band structures via dual-space orbital learning
+作者：Minhyuk Kang, Beom Seok Kang, Nikolai Argatoff, Miguel Nouman, Danish Khan, William A. Goddard, Anima Anandkumar
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19919v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 33：
+标题：Andreev-reflection spectroscopy of SrPt3P single crystals
+作者：Valeriy A. Stepanov, Nikolai D. Zhigadlo, Erik Piatti, Dario Daghero
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19851v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 34：
+标题：A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials
+作者：Xintian Wang, Xinyu Zhang, Denys Butenko, Bolong Hong, Jinlong Zhu, Peichen Zhong
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19846v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 35：
+标题：Nonadiabatic polaron dynamics from machine-learned hopping trajectories
+作者：Daniela Mangano, Luca Leoni, Zhongfei Xu, Li-Min Liu, Cesare Franchini
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19842v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 36：
+标题：Error-controlled switching between discrete and continuum dislocations in a unified defect framework
+作者：Albert Linda
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19841v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 37：
+标题：Magnetic field induced modulation of heat transport in CrPS$\_4$ probed by TaIrTe$\_4$ transverse Seebeck thermometry
+作者：Krishnaraajan Sundararajan, Sergio Alvarruiz, Cédric A. Cordero-Silis, Majid Ahmadi, Marcos H. D. Guimarães, Jagoda S\lawińska, Joseph Barker, Bart J. van Wees
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19833v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 38：
+标题：Nonadiabatic dynamics under slow parametric modulation in nonlinear graphene resonators
+作者：Chris F. D. Wattjes, Haemin Lim, Pierpaolo Belardinelli, John E. Sader, Peter G. Steeneken, Farbod Alijani
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19816v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 39：
+标题：Interplay of electric field and electronic correlations in pairing competition in bilayer nickelates
+作者：Yanmei Cai, Yicheng Xiong, Ying Liang, Tianxing Ma
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19809v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 40：
+标题：Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets
+作者：Yihan Zhang, Zheng Qin, Donghui Xu, Junjie Zeng, Zhen Ning, Rui Wang
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19793v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 41：
+标题：Beyond Kitaev exchange: $Γ'$-driven magnetism in Ag$\_3$LiRh$\_2$O$\_6$
+作者：Efrain Insuasti Pazmino, Shi Feng, Ramesh Dhakal, Ioannis Rousochatzakis, Stephen M. Winter, Johannes Knolle, Alexander A. Tsirlin
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19770v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 42：
+标题：Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants
+作者：Goro Nozue, Hidenori Fujiwara, Satoru Hamamoto, Yuto Torii, Mai Sakaguchi, Sho Nakajima, Takuya D. Nakamura, Nonoka U. Sakamoto, Takayuki Kiss, Masaki Oura, Akira Yasui, Kotaro Higashi, Naomi Kawamura, Kojiro Mimura, Arata Tanaka, Asuka Ishikawa, Farid Labib, Shintaro Suzuki, Takafumi D. Yamamoto, Ryuji Tamura, Akira Sekiyama
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19727v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 43：
+标题：Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric
+作者：Teng-Fei Ying, Jianqi Zhong, Songyuan Geng, Fangjie Chen, Haoxiang Li, Benjamin T. Zhou
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19713v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 44：
+标题：Dynamical Decoupling of Nonclassical States in a Biased-Noise Spin Qudit
+作者：Arjen Vaartjes, Namit Anand, Rocky Y. Su, Akram Youssry, Ritik Sareen, Jeffrey Marshall, Mark R. van Blankenstein, Danielle Holmes, Benjamin Wilhelm, Bibek Pokharel, Xi Yu, Laura A. O'Neill, Martin Nurizzo, Alexander M. Jakob, Fay E. Hudson, Kohei M. Itoh, Andrew S. Dzurak, David N. Jamieson, Andrea Morello
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19676v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 45：
+标题：Emergent medium-range order in amorphous silicon
+作者：Zhen Zhang, Stephen R. Elliott, Yujie Wang, Walter Kob
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19620v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 46：
+标题：Seismology of Glasses
+作者：Zhiyu Cao, Peter G. Wolynes
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19602v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 47：
+标题：Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$\_2$/CrI$\_3$ heterostructures
+作者：Natalie Kuhn, Marc Schütte, Joachim Emming, Felix Hellenkamp, Leo Dreyer, Frank Volmer, Kenji Watanabe, Takashi Taniguchi, Lutz Waldecker, Christoph Stampfer, Bernd Beschoten
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19582v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 48：
+标题：Two-Way Coupled Dynamics of Quantized Vortex Bundle Formation in Spatially Periodic Normal-Fluid Turbulence
+作者：Hiromichi Kobayashi, Makoto Tsubota, Rio Yokota
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19577v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 49：
+标题：Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices
+作者：Wenbing Li, Tianhao Yue, Wenjian Su, Zhexu Shan, Chen Xu, Jichen Zhou, Kenji Watanabe, Takashi Taniguchi, Liguo Ma, Yuanfeng Xu, Shiyao Zhu, Yang Gao, Yanhao Tang
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19542v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 50：
+标题：Multiple Superconducting Phases under Pressure for Different Field Directions in UTe2
+作者：Dai Aoki, Atsushi Miyake, Ai Nakamura, Yoshiya Homma, Dexin Li, Shota Mizuno, Georg Knebel, Daniel Braithwaite, Jean-Pascal Brison, Jacques Flouquet
+发布日期：2026-10-14
+arXiv链接：https://arxiv.org/pdf/2610.19406v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+### [ActMOF: Mapping Reticular Synthesis through Active Learning](http://arxiv.org/abs/2610.19404v1)
+- **作者:** Hongrui Sheng, Shutian Liang, Reid A. Coyle, Shyam Chand Pal, Peter Walther, Bin Feng, Xinyu Ding, Zhiling Zheng
+- **研究目的:** 创建一个基于实验的基准（ActMOF），用于比较金属有机框架（MOF）合成中的主动学习策略，并验证其可迁移性。
+- **主要发现:** ActMOF将高斯过程（GP）系列确定为稀疏合成景观中主动学习的领先策略，并成功指导了六种网状相关铝MOF的微波合成，在固定预算内均获得了结晶产物。
 
 ---
 
-### [$q$-deformed Weil-Petersson Volumes from the Spectral Edge of DSSYK and Supersymmetric Extensions](http://arxiv.org/abs/2610.13899v1)
-- **作者:** Wasif Ahmed, Joydeep Naskar, Krishan Saraswat
-- **研究目的:** 证明$q$-形变的Weil-Petersson体积可以从双尺度SYK模型的软边获得，并将其方法推广到超对称DSSYK模型以获得候选$q$-形变超Weil-Petersson体积。
-- **主要发现:** $q$-形变的Weil-Petersson体积可从DSSYK模型谱边缘的软边获得，并且通过相同程序获得的候选$q$-形变$\mathcal{N}=1$超Weil-Petersson体积在$q \to 1$极限下与已知结果一致。
+### [Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer](http://arxiv.org/abs/2610.19383v1)
+- **作者:** Jakkapat Seeyangnok, Udomsilp Pinsook, Graeme J Ackland
+- **研究目的:** 利用第一性原理计算和全各向异性Migdal-Eliashberg理论，研究二维三元硼碳化物MB$\_4$C$\_2$ (M = Ca, Mg) 的相稳定性、电子结构和超导性质。
+- **主要发现:** CaB$\_4$C$\_2$和MgB$\_4$C$\_2$单层在动力学、热学和机械上均稳定，预测为无节点双能隙超导体，临界温度($T\_c$)分别为33.4 K和33.8 K，使其成为纳米级超导应用的潜在候选材料。
 
 ---
 
-### [Necessary conditions for benchmarking next-generation AI in materials discovery](http://arxiv.org/abs/2610.13885v1)
-- **作者:** Daniel E Widdowson, Tatiana V Kurlina, Olga D Anosova, Vitaliy A Kurlin
-- **研究目的:** 提出下一代人工智能在材料发现中应满足的必要条件，以解决当前大规模材料数据库中结构重复性过高的问题。
-- **主要发现:** 通过基于晶体不变量的分析，揭示了GNoME等大型材料数据库中存在大量重复，并提出了在声称新材料之前应自动执行的必要条件。
+### [Odd-to-Even-Layer Switch of Spontaneous Excitonic State in $\rm{TiSe\_{2}}$ Thin Films](http://arxiv.org/abs/2610.19370v1)
+- **作者:** Kaili Wang, Zhuowei Liu, Yuyang Mu, Zhujuan Li, Zhenjie Fan, Yu Gui, Xiaodong Qiu, Baigeng Wang, Rui Wang, Yi Zhang, Qi-Kun Xue
+- **研究目的:** 利用变温角分辨光电子能谱（VT-ARPES）直接观察和操控$\rm{TiSe\_{2}}$薄膜中自发激子态的形成。
+- **主要发现:** 在$\rm{TiSe\_{2}}$薄膜中观察到自发激子态形成明显的奇偶层切换，其中偶数层薄膜显示出清晰的光谱特征，表明自发激子形成，这归因于层间带间耦合。
 
 ---
 
-### [Doubly Metastable Synthesis for Accelerated Quantum Materials Discovery](http://arxiv.org/abs/2610.13859v1)
-- **作者:** Kyuho Lee, Berit H. Goodge, Soonhyun Kwon, Yash Anand, Theo Manev, Maximilien F. Debbas, Weiliang Luo, Takehito Suzuki, Heather J. Kulik, Joseph G. Checkelsky
-- **研究目的:** 开发一种结合扩散和外延两种亚稳态合成方法的新技术——扩散激活外延，以扩大亚稳态合成窗口并发现新型量子材料。
-- **主要发现:** 扩散激活外延技术成功稳定了四种不同的相，其中三种的晶体结构与现有数据库不符，表明该方法能有效扩大亚稳态合成窗口。
+### [Evidence for hidden order and its potential correlation with electron-hole asymmetry in iridate superlattices](http://arxiv.org/abs/2610.19334v1)
+- **作者:** Zhihan Qiao, Han Zhang, Hangtian Wang, Deyang Li, Haiyang Zhang, Enyang Men, Junlei Jiang, Jingxin Chen, Yizhou Liu, Sang-Youn Park, Xiangnan Xie, MingLiang Tian, Haifeng Du, Ning Hao, Lin Hao
+- **研究目的:** 探索掺杂铱酸盐超晶格中绝缘态与反铁磁（AFM）态之间的耦合，并寻找隐藏序的迹象。
+- **主要发现:** 发现绝缘态与反铁磁态之间存在意想不到的电子-空穴不对称耦合，并且在空穴掺杂区域出现了隐藏序的证据，该隐藏序与反铁磁态密切相关并具有异常强的磁相干性。
 
 ---
 
-### [Phononic Frequency Combs in Twisted Bilayer Transition Metal Dichalcogenide Heterostructures from First Principles](http://arxiv.org/abs/2610.13825v1)
-- **作者:** Naman Arora, Adarsh Ganesan
-- **研究目的:** 利用密度泛函理论从第一性原理预测扭曲双层过渡金属二硫化物异质结构中声子频率梳的存在及其激发阈值。
-- **主要发现:** 在扭曲的$\mathrm{MoSSe}$和$\mathrm{MoSMoSe}$双层中，通过第一性原理计算预测了声子频率梳的存在，并确定了其激发阈值，发现其主要由信号模式的品质因数$Q\_2$决定。
+### [Chern insulator optics](http://arxiv.org/abs/2610.19284v1)
+- **作者:** Jason G. Kattan, J. E. Sipe
+- **研究目的:** 利用最近开发的Chern绝缘体场论，研究Chern绝缘体独特的光学性质，特别是其非自然光学活性。
+- **主要发现:** Chern绝缘体在圆偏振光传播中表现出显著的方向不对称性，即使在长波长极限下也存在，并且预测在$\mathrm{Mn}\mathrm{Bi}\_2\mathrm{Te}\_4$薄膜中，法拉第和克尔转角比拓扑平庸介质大几个数量级。
 
 ---
 
-### [Improved screening of doped ZrO$\_2$ catalysts for CO$\_2$ hydrogenation from graph-based machine learning](http://arxiv.org/abs/2610.13795v1)
-- **作者:** Karsten Walz Jensen, Mie Andersen, Raffaele Cheula
-- **研究目的:** 改进基于图的机器学习方法Wasserstein Weisfeiler-Lehman高斯过程回归（WWL-GPR），以更有效地筛选掺杂$\mathrm{ZrO}\_2$催化剂用于$\mathrm{CO}\_2$加氢反应。
-- **主要发现:** WWL-GPR通过引入新的电子结构和局部环境特征，显著提高了反应中间体能量的预测精度，并在微动力学计算中给出了更接近DFT结果的$\mathrm{CH}\_3\mathrm{OH}$产率。
+### [Signatures of symmetry-stabilized Dirac fermions in correlated oxide CaNbO3 thin films](http://arxiv.org/abs/2610.19276v1)
+- **作者:** Yunkyu Park, Seoung-Hun Kang, Jeongkeun Song, Minsik Kong, Seohee Kim, Shan Lin, Eun Sang Choi, Km Rubi, Hua Zhou, Sangmoon Yoon, Hu Miao, Satoshi Okamoto, Jong Mok Ok, Ho Nyung Lee
+- **研究目的:** 证明氧八面体旋转可以作为一种对称性控制参数，用于在CaNbO3外延薄膜中稳定类狄拉克电子态。
+- **主要发现:** CaNbO3薄膜中独特的氧八面体旋转模式，通过应变控制，保持了非共形对称性，并导致了具有高迁移率和有限贝里相贡献的类狄拉克电子态，从正交相中的节点线带交叉演变为四方相中的狄拉克电子特征。
 
 ---
 
-### [Anomaly induced transport in holographic superconductors](http://arxiv.org/abs/2610.13727v1)
-- **作者:** Ashis Tamang, Nishal Rai, Javier Esteban, Eugenio Megias
-- **研究目的:** 研究全息超导体中异常诱导的输运性质，特别是在自发对称性破缺下其对非异常扇区的影响。
-- **主要发现:** 自发对称性破缺使得异常诱导的输运不仅限于异常电流，还能显著影响非异常扇区，且这种影响与标量场量子化方式无关。
+### [Atomic ironing for conformal interfaces in freestanding oxide nanomembranes](http://arxiv.org/abs/2610.19275v1)
+- **作者:** Jeongkeun Song, Keaghan Knight, Keun-Yeol Park, Young-Hoon Kim, Tyler J. Sachs, Hu Miao, Jiaqiang Yan, Celesta S. Chang, Ambrose Seo, Ho Nyung Lee
+- **研究目的:** 演示一种通过后转移热处理抑制独立氧化物纳米膜中转移引起的结构不均匀性，从而实现原子级良好界面的方法。
+- **主要发现:** 后转移热处理，被称为“原子熨烫”，显著减少了独立SrTiO3膜中的结构紊乱，使其恢复到块体状结晶度，并在扭曲异质结构中形成了原子键合的共形界面，从而恢复了其固有的功能性。
 
 ---
 
-### [Dislocation mediated twin boundary faceting in $β$-Sn](http://arxiv.org/abs/2610.13714v1)
-- **作者:** John Israel, Ian Chesser, Khanh Dang, Vinamra Agrawal
-- **研究目的:** 通过分子动力学模拟研究$\beta$-Sn中位错介导的孪晶界刻面化反应。
-- **主要发现:** 模拟显示$\langle c\rangle$位错吸收导致$\beta$-Sn中$(301)$孪晶界发生刻面化反应，刻面长度随吸收位错数量增长，且与考虑了不对称孪晶刻面散位错特征的弹性理论一致。
+### [Spectral signatures of spin textures and the emergence of a pseudogap](http://arxiv.org/abs/2610.19269v1)
+- **作者:** Matteo Quinzi, Andrea Pintus, Tommaso Chiarotti, Massimo Capone, Nicola Marzari
+- **研究目的:** 揭示在破坏平移对称性的平均场解中，频率和动量相关的自能如何出现，并展现强关联的特征指纹，特别是在二维Hubbard模型中。
+- **主要发现:** 在掺杂反铁磁二维Hubbard模型中，具有反铁磁纹理的平均场解可以产生具有赝能隙现象的谱函数，包括自能的节点-反节点二分法、费米弧和互补的Luttinger表面。
 
 ---
 
-### [A new approach to the Kondo effect: sophomore's dream function and Lee-Yang zeros](http://arxiv.org/abs/2610.13666v1)
-- **作者:** V. Yu. Irkhin
-- **研究目的:** 发展一种基于有效配分函数和Lee-Yang零点的新分析方法来描述Kondo效应，并将其推广到其他杂质模型。
-- **主要发现:** Kondo交叉可由复平面上Lee-Yang零点的等距阶梯表示，通过求和得到$\Gamma(\alpha+ T\_K/(2 \pi T))$作为通用交叉骨架，并提供了一个紧凑的温度空间Fano线形描述。
+### [On the Mathematical Structure of Helical Shear in Anelastic Continua](http://arxiv.org/abs/2610.19221v1)
+- **作者:** Souhayl Sadik, Giuseppe Saccomandi, Luigi Vergori
+- **研究目的:** 研究由不可压缩、各向同性超非弹性固体构成的厚壁管中的螺旋剪切，该管带有径向对称分布的轴向螺位错。
+- **主要发现:** 位错耦合了方位角和轴向剪切模式，当应变能随第一不变量增加时会使管子变硬，并可能限制材料的容许性，而弱非线性分析显示手性耦合在二阶出现，刚度修正在三阶出现。
 
 ---
 
-### [Parametric Glassiness in Graphene-based Electronic Lévy Glass](http://arxiv.org/abs/2610.13638v1)
-- **作者:** Caue N. da Silva, Diego B. Fonseca, Adauto J. F. de Souza, Antônio M. S. Macêdo, Luiz Felipe C. Pereira, Anderson L. R. Barbosa
-- **研究目的:** 在石墨烯基电子Lévy玻璃中研究类副本对称性破缺的重叠现象和参数敏感的介观玻璃态。
-- **主要发现:** 通过调节费米能级，在石墨烯基电子Lévy玻璃中观察到重叠分布从窄中心到宽或双峰的重入变化，表明了相干输运中分层组织传输路径之间的关联和介观混沌。
+### [On optimal Wannier decay in dimension three](http://arxiv.org/abs/2610.19195v1)
+- **作者:** Simon Becker, Zhongkai Tao, Mengxuan Yang
+- **研究目的:** 为三维环面上的Chern非平凡Bloch束构建一个具有最佳点态衰减的正交Wannier基。
+- **主要发现:** 成功构建了一个正交Wannier基，其点态衰减达到最优的$\mathcal{O}(\|x\|^{-5/2})$，其中除了一个生成元外，所有生成元都呈指数衰减。
 
 ---
 
-### [Ferroelectric Domain-Wall Motion, Stability, and Frequency Responses under Different Screening-Charge Conservation Laws](http://arxiv.org/abs/2610.13619v1)
-- **作者:** Sergei V. Kalinin
-- **研究目的:** 分析铁电畴壁运动、形状和内部结构，重点关注极化与屏蔽电荷耦合以及不同屏蔽电荷守恒定律的影响。
-- **主要发现:** 屏蔽电荷守恒定律对畴壁运动、空间不稳定性、长距离输运以及频率响应具有显著影响，并揭示了在不同电学边界条件下畴壁动力学和结构转变的多种机制。
+### [Cavity-assisted dynamic nuclear polarisation](http://arxiv.org/abs/2610.19180v1)
+- **作者:** Tristan Lorriaux, Yutian Wen, Patrice Bertet, Benjamin Huard, Audrey Bienfait
+- **研究目的:** 引入并实现一种基于腔体的动态核极化（DNP）机制，该机制利用电子自旋通过珀塞尔效应的辐射弛豫来极化核自旋。
+- **主要发现:** 在与超导谐振器耦合的硅中铋施主自旋系综上实施的基于腔体的DNP协议，实现了$4.6\pm0.2$的累积核自旋极化增强，证明了辐射DNP在毫开尔文温度下是一种可行的机制。
 
 ---
 
-### [Altermagnetic Control of Charge-4e Superconductivity](http://arxiv.org/abs/2610.13584v1)
-- **作者:** Yan-Guang Yue, Jie Lou, Yan Chen
-- **研究目的:** 首次理论实现通过交变磁性结耦合的常规超导体二维阵列中的独立电荷$4e$相。
-- **主要发现:** 调节交变磁性分裂可以抑制单对隧穿，同时保持强双对耦合，从而在交错和均匀电荷$2e$态之间产生有限的电荷$4e$区域，并表现出Berezinskii-Kosterlitz-Thouless标度及半磁通响应。
+### [Symmetry-selected extreme shear compliance in a stable carbon monolayer](http://arxiv.org/abs/2610.19168v1)
+- **作者:** J. W. González, M. Pachecho, J. D. Correa
+- **研究目的:** 探究内部原子弛豫是否能导致机械稳定的碳单层中极端的剪切柔顺性，使弹性尺度相差一个数量级。
+- **主要发现:** 密度泛函理论计算表明，双T-石墨烯由于对称性限制的应变诱导弛豫，表现出极端的剪切柔顺性（$C\_{66}=3.03$ N m$^{-1}$，比石墨烯低近50倍），同时保持机械稳定和半导体能隙。
 
 ---
 
-### [Giant geometric nonlinear transport in inhomogeneously strained Bi$\_2$Se$\_3$ single crystalline slabs](http://arxiv.org/abs/2610.13542v1)
-- **作者:** Igor Veremchuk, Pavlo Makushko, Anita Guarino, Muhammad Waqee Ur Rehman, Rosalba Tatiana Fittipaldi, Tobias Kosub, Alexej Pashkin, Fabian Ganss, Oleg A. Petrenko, Proloy T. Das, Rui Xu, Rhonald Burgos Atencia, Debottam Mandal, Antonio Vecchione, Carmine Ortix, Denys Makarov
-- **研究目的:** 探索在非均匀应变$\mathrm{Bi}\_2\mathrm{Se}\_3$单晶薄板中实现巨几何非线性输运，以提高非线性响应度。
-- **主要发现:** 非均匀应变$\mathrm{Bi}\_2\mathrm{Se}\_3$单晶薄板实现了$10^4\,\mu\mathrm{m/V}$的创纪录非线性响应度，比薄膜对应物高六个数量级，这归因于由材料内部复杂应变梯度驱动的经典几何非线性输运效应。
+### [Pseudo-relativistic fermions and topological states in zinc-blende semiconductors and their heterostructures (Habilitation thesis)](http://arxiv.org/abs/2610.19140v1)
+- **作者:** Sergey S. Krishtopenko
+- **研究目的:** 呈现从半导体纳米结构中的多体物理到拓扑量子物质的科学路径，重点关注闪锌矿半导体及其异质结构中的伪相对论费米子和拓扑态。
+- **主要发现:** 论文概述了在HgCdTe块体中的Kane费米子、HgTe量子阱中的压致/温致/无序致相变（包括二维高阶拓扑绝缘体相），以及InAs/Ga(In)Sb量子阱作为无质量狄拉克费米子和宽能隙量子自旋霍尔绝缘体的平台，多项预测已得到实验验证。
 
 ---
 
-### [Aubry-André transition in photonic time quasicrystals](http://arxiv.org/abs/2610.13538v1)
-- **作者:** Shuhang Chen, Qi Zhu
-- **研究目的:** 探究光子时间准晶体中是否存在Aubry-André转变，即由准周期势引起的局域化转变。
-- **主要发现:** 光子时间准晶体中存在Aubry-André转变，且该转变发生在动量而非能量的迁移边，将光按波数分类为传播分量和停止增长分量。
+### [Kinetic Equations and Turbulence in Large $N$ Vector and SYK-like Models](http://arxiv.org/abs/2610.19130v1)
+- **作者:** Vladimir Rosenhaus, Daniel Schubring
+- **研究目的:** 应用大$N$展开技术，为具有$O(N)$对称性的强耦合、远离平衡态的场论推导动力学方程，包括大$N$矢量模型和SYK类模型。
+- **主要发现:** 对于大$N$矢量模型，动力学遵循标准动力学方程；对于SYK类模型，动力学方程没有局域时间碰撞积分，并发现了具有潜在新强湍流标度指数的定态、标度不变红外解的证据。
 
 ---
 
-### [Latin squares as a model of perfect mixing of high-entropy alloys](http://arxiv.org/abs/2610.13519v1)
-- **作者:** P. S. Grinchuk
-- **研究目的:** 提出使用拉丁方作为模型来描述高熵合金的完美混合结构，并量化其理想混合程度和热力学稳定性。
-- **主要发现:** 拉丁方模型能够定量描述高熵合金的理想混合，即任何给定合金元素都不会有相同的元素作为最近邻，并估算了形成理想混合多组分合金的极低概率。
+### [Engineering Correlated Transparent Conductors via Metal-Insulator Transition Proximity](http://arxiv.org/abs/2610.19112v1)
+- **作者:** Amit Cohen, Nofar Tuval, Maria Baskin, Tien-Lin Lee, Tom Tiwald, Scott A. Chambers, Sophie D. Beck, Lior Kornblum
+- **研究目的:** 利用金属-绝缘体转变（MIT）的邻近性作为设计原理，在关联氧化物透明导体中平衡光学透明度和电导率。
+- **主要发现:** 掺钛$SrVO\_3$外延薄膜展示了光学窗口向硅光伏相关区域的系统性拓宽，通过Haacke品质因数分析确定了MIT附近的最佳组分范围，在该范围中，金属传输的损失伴随着近费米能级谱权重的持续存在，表明无序辅助局域化与关联驱动的谱权重再分配共存。
 
 ---
 
-### [The effects of non-stoichiometric lattice structure and secondary phase α-Fe2O3 on modifying the magnetic, electrical, and magneto-electric properties of Eu doped BaFe12O19 hexaferrite](http://arxiv.org/abs/2610.13499v1)
-- **作者:** Gara Kishor, R. N. Bhowmik, P. D. Babu
-- **研究目的:** 研究非化学计量晶格结构和次生相$\alpha$-$\mathrm{Fe}\_2\mathrm{O}\_3$对Eu掺杂$\mathrm{BaFe}\_{12}\mathrm{O}\_{19}$六方铁氧体磁性、电学和磁电性能的影响。
-- **主要发现:** 增加Eu/Ba比例系统性地降低了饱和磁化强度，显著提高了矫顽力，并改变了电导率机制，同时材料表现出对自旋电子器件有用的新型磁电特性。
+### [Cooperative Boundary Switching of Mesoscopic Real Spectra in a Non-Hermitian Chain Family](http://arxiv.org/abs/2610.19061v1)
+- **作者:** Chengxi Li, Hao Zhu, Tie-Fu Zhang, Wanzi Sun, Wuming Li
+- **研究目的:** 探究在固定体临界性下，边界势如何影响非厄米链开放解析族中实特征值的数量。
+- **主要发现:** 单端实势能保留了不断增长的局域实特征值数量（$\sim \sqrt{N}$），而双端实势能则消除了这一数量，边界振幅准则确定了最小控制端数，并且这种区别可以在无源厄米双链中转化为分离的共振。
 
 ---
 
-### [Controlling the Atomic Reconstruction in Twisted MoSe$\_2$/WSe$\_2$ with a Monolayer hBN Spacer](http://arxiv.org/abs/2610.13493v1)
-- **作者:** Johannes Figueiredo, Kaiyuan Chen, Aubrey Penn, Mirco Troue, Sebastian Loy, Kenji Watanabe, Takashi Taniguchi, Frances M. Ross, Julian Klein, Alexander W. Holleitner
-- **研究目的:** 研究单层hBN间隔层如何控制扭曲$\mathrm{MoSe}\_2/\mathrm{WSe}\_2$异质双层中的原子重构，以提高结构均匀性。
-- **主要发现:** 单层hBN间隔层能有效抑制$\mathrm{MoSe}\_2/\mathrm{WSe}\_2$异质双层中的原子重构，显著提高异质双层的结构均匀性，使其更接近理想的刚性莫尔超晶格模型。
+### [A Conservative Darcy-Brinkman-Stokes Formulation for PHREEQC-Coupled Reactive Transport with Cell-Based Surface Complexation](http://arxiv.org/abs/2610.19057v1)
+- **作者:** Hannah P. Menke, Florian Doster, Julien Maes
+- **研究目的:** 提出一种质量守恒的达西-布林克曼-斯托克斯（DBS）公式，用于图像基多孔介质中与PHREEQC耦合的、基于单元格表面络合的反应性传输。
+- **主要发现:** 开发的DBS公式，在GeoChemFoam中实现，在各种测试案例中（包括双尺度锂微模型）精确再现了水相和吸附相的物质存量，并支持在已分辨和未分辨孔隙结构中进行保守的表面络合建模，与污染物滞留和放射性核素传输相关。
 
 ---
 
-### [Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study](http://arxiv.org/abs/2610.13444v1)
-- **作者:** Feihao Pan, Yishui Zhou, Sabreen Hammouda, Yinghao Zhu, Soohyeon Shin, Karin Schmalzl, Wolfgang Schmidt, Eric Ressouche, Oscar Fabelo, Yixi Su
-- **研究目的:** 通过单晶中子衍射研究交变磁体$\alpha$-$\mathrm{MnTe}$中磁场诱导的取向畴去孪生现象。
-- **主要发现:** 施加沿$[-1,1,0]$方向的磁场可在$\alpha$-$\mathrm{MnTe}$中诱导形成单一磁畴取向，饱和磁场约为$2$ T，并揭示了在$60-88$ K温度范围内选择性反射的异常行为。
+### [Topological superconductivity in layered d-wave altermagnetic metals](http://arxiv.org/abs/2610.19017v1)
+- **作者:** Yijie Mo, Zhongbo Yan
+- **研究目的:** 研究具有奇宇称螺旋p波配对的多层d波交变磁性金属中的拓扑超导性。
+- **主要发现:** 在最小双层系统中，层间隧穿重构了自旋分裂的费米面，导致具有不同数量螺旋马约拉纳边缘模式对和额外反向传播对的相，这些相可以通过镜像陈数和沿高对称线定义的缠绕数共同表征；结合Rashba自旋轨道耦合，可以产生具有孤立或双重马约拉纳角模式的二阶拓扑相，以及边缘模式与角模式共存的混合阶相。
 
 ---
 
-### [Predicting Nanofabrication Variance: A Conditional Diffusion Model](http://arxiv.org/abs/2610.13420v1)
-- **作者:** Wenhan Zhang, Ben Mills, Oleksandr Buchnev, Kevin F. MacDonald
-- **研究目的:** 提出一种条件扩散模型来预测聚焦离子束（FIB）铣削纳米结构制造过程中固有的结构变异性。
-- **主要发现:** 该条件扩散模型能够学习并预测FIB铣削过程输出样本结构的统计分布，准确再现边缘形态、线宽变化和缺陷概率，从而实现制造变异性分析和制造感知设计优化。
+### [Nanoscale Mapping of Strain-engineered Excitons in Monolayer WSe$\_2$](http://arxiv.org/abs/2610.19006v1)
+- **作者:** Anna S. Roche, Nicholas V. Proscia, Paul D. Cunningham, Kathleen M. McCreary, Dante J. O'Hara, Hsun Jen Chuang, Cory Cress, Collin Sanborn, Samuel W. LaGasse, Jose J. Fonseca, Jeremy T. Robinson, Takashi Taniguchi, Kenji Watanabe, John R. Schaibley, Brian J. LeRoy
+- **研究目的:** 利用低温散射型扫描近场光学显微镜（s-SNOM）直接探测单层WSe$\_2$中应变调制的激子光谱，并比较不同的应变工程技术。
+- **主要发现:** s-SNOM揭示了WSe$\_2$中纳米压痕（压缩蓝移）和图案化衬底（主导拉伸应变）导致的不同激子共振位移和应变分布，表明纳米压痕应变远小于先前推断值，这归因于单层穿孔，暗示单光子发射源于复杂的应变介导相互作用。
 
 ---
 
-### [VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation](http://arxiv.org/abs/2610.13418v1)
-- **作者:** Yuntong Huang, Zhihao Li, Shuyang Dai, Chang Ma, Yang Xiang
-- **研究目的:** 引入一种基于von Neumann-Mullins定律的二维图晶粒生长模拟（VN-GraphGG）方法，以高效模拟多晶材料的晶粒生长过程。
-- **主要发现:** VN-GraphGG方法通过将晶粒尺度动力学与微结构重建分离，实现了对von Neumann-Mullins动力学和粗化统计的准确预测，并显著提高了模拟速度。
+### [Anomalies, higher symmetries, and homotopy theory I: crossed precosheaves and a nonabelian Cech construction](http://arxiv.org/abs/2610.19004v1)
+- **作者:** Anton Kapustin, Shixiong Xu
+- **研究目的:** 提出一种基于算子代数方法中局域对称性结构的't Hooft反常的同伦理论定义，利用交叉预层和非阿贝尔Cech构造。
+- **主要发现:** 发展了一种将指向连通同伦类型（Cech-Loday分类空间）与交叉预层和区域族关联起来的方法，提供了一个框架，其中't Hooft反常由Postnikov不变量编码，其非平凡性阻碍了规范化，并恢复了量子自旋系统中的已知指数。
 
 ---
 
-### [Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits](http://arxiv.org/abs/2610.13417v1)
-- **作者:** Luis Bueno Blanco, Juan Manuel Pérez-Pardo
-- **研究目的:** 提出一种纯量子力学模型来描述约瑟夫森结，该模型通过边界条件在希尔伯特空间中直接构建，旨在提供超导量子比特的高保真模型。
-- **主要发现:** 该模型从第一性原理再现了约瑟夫森关系，并预测了对纯$\sin\delta$定律的修正，这与描述超导量子比特谱所需的更高阶约瑟夫森谐波一致。
+### [Electron-Mediated Phonon Polaritons in Quantum Cavities](http://arxiv.org/abs/2610.18999v1)
+- **作者:** Mattia Udina, David Hagenmüller, Indranil Paul
+- **研究目的:** 发展一种规范不变的腔声子极化子理论，该理论能捕捉电子屏蔽、耗散和杂化，并研究其对NbSe2、hBN和有能隙石墨烯等材料的影响。
+- **主要发现:** 电子屏蔽可以抑制金属中的极化子形成，而时间反演对称有能隙系统中的带间电子共振可以显著增强声子-光子耦合，即使存在电子吸收也能在单层极限下实现稳健的极化子形成；规范不变性还强制光子与临界软声子解耦，建立了光子凝聚的普遍禁行机制。
 
 ---
 
-### [Temperature evolution of spin dynamics in extended Kitaev models within an Abrikosov fermion theory beyond mean field](http://arxiv.org/abs/2610.13401v1)
-- **作者:** Daiki Sasamoto, Joji Nasu
-- **研究目的:** 发展一种超越平均场理论的Abrikosov费米子理论，以计算扩展Kitaev模型在有限温度下的自旋动力学，特别关注非Kitaev相互作用的影响。
-- **主要发现:** 该方法成功再现了纯Kitaev模型的动力学自旋结构因子及其温度演化，并揭示了铁磁Kitaev-$\Gamma$模型中静态响应的有限动量软化，以及铁磁态中宽泛的parton连续谱与类磁振色散结构的共存。
+### [Instability of Markov chains under infinitesimal coherent dissipation](http://arxiv.org/abs/2610.18983v1)
+- **作者:** Amir-Reza Negari, Yijian Zou, Timothy H. Hsieh
+- **研究目的:** 探究在局域Lindbladian演化下，条件互信息及其相关马尔可夫长度尺度增长的速度及其对相稳定性的影响。
+- **主要发现:** 任意短的、严格局域的Lindbladian可以从乘积态生成无限马尔可夫长度，尽管这些态具有长程条件关联，但它们可以快速收敛到具有代数衰减条件互信息的稳态，并且可以通过亚线性深度电路与乘积态进行局域可逆连接。
 
 ---
 
-### [Quantitative Eshelby stability: local and finite-shape theory through AI-assisted mechanics](http://arxiv.org/abs/2610.13400v1)
+### [Transmission representation of the Josephson free energy beyond the short-junction limit](http://arxiv.org/abs/2610.18980v1)
+- **作者:** Anton R. Akhmerov
+- **研究目的:** 将Beenakker公式推广到短结限之外，将时间反演对称s波约瑟夫森结的自由能表示为对具有频率依赖透射率的通道的松原求和。
+- **主要发现:** 推广的约瑟夫森自由能透射表示式被推导并正式验证，它约束了自由能的小相展开，特别是证明了其四次和二次系数的归一化比率在有限温度下满足$-1 \le \alpha\_r \le 7/80$，并构造了一个$\alpha\_r>0$的四位点结，驳斥了$\alpha\_r \le 0$的猜想上限。
+
+---
+
+### [Programmable Polaron Models and Tomography in Trapped-Ion Quantum Simulators](http://arxiv.org/abs/2610.18970v1)
+- **作者:** Filip Marijanovic, Utso Bhattacharya, Abhishek Menon, Visal So, Guido Pagano, Eugene Demler
+- **研究目的:** 提出一种捕获离子量子模拟器方案，用于实现具有可编程空间耦合的自旋-声子哈密顿量，从而研究极化子物理和层析成像。
+- **主要发现:** 提出了一种捕获离子量子模拟器设计，可实现可编程自旋-声子哈密顿量（Holstein和Fröhlich型相互作用），并引入了使用位移格林函数和自旋-声子相关性测量的方法，以光谱方式获取极化子能带谱、结合能、声子激发边带以及声子包覆云的结构。
+
+---
+
+### [Non-Abelian quantum Hall states at strong Landau level mixing: finding anyons with first-principles AI](http://arxiv.org/abs/2610.18967v1)
+- **作者:** Pierre-Antoine Graham, Ahmed Abouelkomsan, Liang Fu
+- **研究目的:** 首次利用第一性原理AI方法，为填充因子$\nu = 3/2$的自旋极化电子，提供包含所有电子和所有朗道能级的非阿贝尔量子霍尔问题的完整解决方案。
+- **主要发现:** 仅基于微观哈密顿量优化的动量分辨神经网络变分波函数，在$\nu = 3/2$处发现了一个简并基态流形，其纠缠揭示了量子维度为$\sqrt{2}$的任意子（Ising型非阿贝尔序），并表明朗道能级混合有利于反Pfaffian态。
+
+---
+### [Measurement-induced criticality for non-Abelian anyons: The monitored golden chain](http://arxiv.org/abs/2610.18965v1)
+- **作者:** Zhaohui Zhi, Bo Han, Romain Vasseur, Andreas W. W. Ludwig, Simon Trebst, Guo-Yi Zhu
+- **研究目的:** 研究非阿贝尔任意子链在仅测量动力学下的临界行为，特别关注监测黄金链（$k=3$）作为非阿贝尔学习问题的基本示例。
+- **主要发现:** 监测黄金链展示了$1/L$标度的Lyapunov间隙、弦长对数纠缠标度以及测量记录香农熵中的有效中心荷，并建立其为弱自对偶环面码（$k=2$）的非阿贝尔推广。
+
+---
+
+### [Invertible subalgebras for chiral semion topological order](http://arxiv.org/abs/2610.18953v1)
+- **作者:** Yu-An Chen, Meng Sun, Nathanan Tantivasadakarn, Zongyuan Wang, Bowen Yang
+- **研究目的:** 构建并研究支持手性半子拓扑序的可逆子代数（ISA），及其与量子蜂窝自动机和堆叠玻色子任意子理论的关系。
+- **主要发现:** 成功构建了支持手性半子的ISA及其反半子对易子，并展示了通过ISA泵浦可以定义一个三维非Clifford量子蜂窝自动机，且可用于实现所有玻色子阿贝尔任意子理论的Witt类。
+
+---
+
+### [A hierarchy of exact lower bounds on the Laughlin spectral gap](http://arxiv.org/abs/2610.18854v1)
+- **作者:** Michael G. Scheer, Eslam Khalaf
+- **研究目的:** 发展一种自举方法，用于推导Laughlin谱隙的精确下界，并将其推广到热力学极限。
+- **主要发现:** 提出了一种结合解析边界和半正定规划（SDP）的自举方法，能够为Laughlin谱隙提供数值精确的下界，并提供了一种将数值SDP界转化为严格数学证明的通用方法。
+
+---
+
+### [Single anyons and anyon binding in a quantum Hall dot](http://arxiv.org/abs/2610.18817v1)
+- **作者:** Marco Valentini, Will Wang, Amir Shapour Mohammadi, Noah Samuelson, Chengxuan Li, Liam Cohen, Mark Zakharyan, Jiechao Feng, Taige Wang, Takashi Taniguchi, Kenji Watanabe, Michael P. Zaletel, Andrea F. Young
+- **研究目的:** 在基于石墨烯的量子点中，实验演示并研究单个任意子的捕获、电荷加法谱以及任意子之间的相互作用。
+- **主要发现:** 成功实现了单个任意子的捕获，观察到非规则的电荷加法能谱，并发现任意子之间存在吸引相互作用，导致任意子结合能与充电能相当。
+
+---
+
+### [Spin textures at the Fermi surface of ferromagnets and associated torque](http://arxiv.org/abs/2610.18800v1)
+- **作者:** T. Valet, J. Li, H. Jaffrès, V. Cros, M. Chshiev, R. Raimondi
+- **研究目的:** 理论上建立中心对称铁磁金属费米面处横向自旋织构的普遍存在性，并研究其在纳米尺度几何结构中诱导的新型电流梯度扭矩。
+- **主要发现:** 理论和第一性原理计算证实了中心对称铁磁金属费米面处存在横向自旋织构，并预测了一种新的电流梯度诱导扭矩，该扭矩的厚度依赖性与轨道扭矩测量结果一致。
+
+---
+
+### [Emergent Loop Geometry in Gauge-Equivariant Graph Neural Networks](http://arxiv.org/abs/2610.18742v1)
+- **作者:** Ali Rayat, Gia-Wei Chern
+- **研究目的:** 探究规范等变图神经网络中通过局部消息传递生成的规范链路有序乘积的几何结构，特别是其内部结构的演化。
+- **主要发现:** 分析和数值结果揭示了轮廓长度快速增长与空间膨胀缓慢增长之间的分离，表明网络深度在扩展空间范围和丰富内部表示方面扮演着互补的角色。
+
+---
+
+### [Superexchange coupling between a dilute Gd3+ probe and orphan spins in a valence-bond glass](http://arxiv.org/abs/2610.18722v1)
+- **作者:** Patrick Colgan, Artur Solodovnyk, Jeremy P. Carlo, Scott Dietrich
+- **研究目的:** 通过稀释的Gd$^{3+}$探针，利用电子顺磁共振技术研究价键玻璃Ba$\_{2}$YMoO$\_{6}$中Mo$^{5+}$单线态与残余顺磁“孤儿自旋”之间的超交换耦合。
+- **主要发现:** Gd$^{3+}$探针的线宽增倍是由于$J \sim 0.2$ K的转移f-d超交换耦合引起的，这提供了一种探测价键玻璃中孤儿自旋耦合和动力学的方法。
+
+---
+
+### [Explicitly correlated ground states with a feedback-free variational hybrid algorithm](http://arxiv.org/abs/2610.18681v1)
+- **作者:** Benjamin Corbett, Akimasa Miyake
+- **研究目的:** 提出一种无反馈变分混合算法，用于计算强关联电子系统的显式关联基态，以解决经典算法中基组不匹配的问题。
+- **主要发现:** 该算法通过量子处理器制备低纠缠动量空间矩阵乘积态，并允许在经典后处理中优化关联器，在Quantinuum H2-2上实现了$4 \times 4$费米-哈伯德模型的基态能量相对误差为$3.5 \pm 0.5\%$。
+
+---
+
+### [Composition-controlled optical fingerprints and anisotropy of self-trapped excitons in double perovskites](http://arxiv.org/abs/2610.18665v1)
+- **作者:** Simone Grillo, Offir Zachs Maishlos, Liya Koren, Rotem Strassberg, Rachel Lifer, Edi Maizenberg, Umberto De Giovannini, Angel Rubio, Yehonadav Bekenstein, Ofer Neufeld
+- **研究目的:** 结合光学光谱和从头计算，研究Sb掺杂Cs$\_{2}$BInCl$\_{6}$双钙钛矿纳米晶体中自陷激子（STE）的光学特性和各向异性，并探究B位合金化对其的影响。
+- **主要发现:** 发现B位合金化可以调节光致发光能量，而吸收特性保持不变，且STE的PL偏振各向异性随B位组分变化，为理解掺杂和合金化在无铅双钙钛矿中的作用提供了实验指纹。
+
+---
+
+### [Virtual-Alloy Physics-Aware Semantic System for extrapolative prediction of perovskite solar cells](http://arxiv.org/abs/2610.18949v1)
+- **作者:** Qiwei Han, Chi Zhou
+- **研究目的:** 开发一种能够对新型材料制成的钙钛矿太阳能电池进行外推预测的机器学习模型，解决现有模型在处理未记录合金或不熟悉电池架构时的局限性。
+- **主要发现:** 提出的V-PaSS系统通过插值纯$ABX\_3$端点化合物的弛豫晶体图并结合维加德定律和能带弯曲效应，在机构分组协议下实现了最低的预测误差（2.861% MAE），尤其在未见过的吸收体合金和新实验室的混合吸收体上表现出显著改进。
+
+---
+
+### [Dark state preparation in a zero-field-split molecular triplet](http://arxiv.org/abs/2610.18661v1)
+- **作者:** Maria Pfahler, Andrea Donarini
+- **研究目的:** 提出一种在零场分裂分子三重态中制备和探测暗态的协议，以扩展基于原子力显微镜的电子自旋共振（ESR-AFM）技术。
+- **主要发现:** 模拟了V型三能级系统的相干操控，并计算了理想场景和戊烯ESR-AFM实际参数化下的暗态特征，为在ESR-AFM中制备和探测暗态提供了理论基础。
+
+---
+
+### [Plasmon modes in triple-point semimetal, its quadratic cousin, and Hopf semimetal](http://arxiv.org/abs/2610.18629v1)
+- **作者:** Ipsita Mandal
+- **研究目的:** 在随机相近似下，研究赝自旋-1三重点半金属及其二次修正对应物中的集体电荷激发，并与Weyl和Hopf半金属进行比较。
+- **主要发现:** 发现三重点半金属的二次修正使平带具有色散性并形成费米面，从而影响整体响应，且Drude权重由费米面和带速度决定，而带间屏蔽、等离子体色散和Friedel振荡则反映了本征态的量子几何。
+
+---
+
+### [Time-Resolved Phonon Dispersions of Thermally Excited Graphite at the Nanoscale](http://arxiv.org/abs/2610.18561v1)
+- **作者:** Mairi McCauley, Christoph T. Koch, Benedikt Haas
+- **研究目的:** 利用时间分辨动量分辨振动电子能量损失谱（EELS）技术，在微秒时间尺度上观察热激发石墨的声子色散动态变化。
+- **主要发现:** 实验观察到随着温度升高，光学声子支的能量降低且峰宽增加，这与温度依赖的声子重整化和非谐相互作用引起的散射一致，展示了纳米尺度下时间分辨声子色散光谱的能力。
+
+---
+
+### [Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor](http://arxiv.org/abs/2610.18550v1)
+- **作者:** Baikui Li, Zecheng Yang, Wenhao Yin, Zijing Wu, Haitao Zhao, Yunwei Sheng, Honglei Wu, Jiannong Wang
+- **研究目的:** 报告通过氮等离子体辅助脉冲激光沉积直接生长结晶尖晶石型$\gamma$-GaON薄膜，并确定其晶体结构、组分和电子性质。
+- **主要发现:** 成功生长了结晶尖晶石型$\gamma$-GaON薄膜，并通过结构和元素分析证实了其尖晶石结构和氮掺入，温度依赖的光电流光谱揭示了其室温下接近4.3 eV的宽带隙。
+
+---
+
+### [A Transferable Machine-Learned Potential Enabling Large-Scale Copper-Carbon Simulations from Equilibrium to Extreme Conditions](http://arxiv.org/abs/2610.18545v1)
+- **作者:** Feiyu Zhou, Wei Qiu, Yan Chen, Jiahui Liu, Yilun Liu, Shengying Yue, Penghua Ying
+- **研究目的:** 开发一种可转移的神经进化势（NEP-CuC），以实现从平衡态到极端条件下的大规模铜-碳材料模拟，涵盖金属铜、多种碳键合、异质Cu-C相互作用及近原子接触。
+- **主要发现:** NEP-CuC势在广泛的铜-碳系统上展现出高保真度，成功模拟了非晶碳形成、铜的冲击压缩以及铜/金刚石界面的沉积、退火和拉伸响应，为连接Cu-C系统的加工、界面结构和物理响应提供了原子尺度框架。
+
+---
+
+### [Imaging Gate-Tunable Single-Layer Molecular Kagome Lattices](http://arxiv.org/abs/2610.18539v1)
+- **作者:** Ziyi Wang, Rafal Zuzak, Weichen Tang, Haowen Pang, Yutang Qiao, Dhanvanth Balakrishnan, Yuqiao Yan, Aining Hu, Andrew Sun, Takashi Taniguchi, Kenji Watanabe, Feng Wang, Steven G. Louie, Michael F. Crommie
+- **研究目的:** 在范德华衬底上生长单层Ni$\_{3}$(HITP)$\_{2}$金属有机框架（MOF）卡戈米晶格，并利用栅极电压对其电子态进行调控和成像。
+- **主要发现:** 成功在范德华衬底上生长了单层Ni$\_{3}$(HITP)$\_{2}$ MOF，并利用低温扫描隧道光谱和栅极电压实现了对卡戈米衍生平带和范霍夫奇点谱特征的静电调控，证实了化学可编程二维卡戈米电子晶格的可调谐性。
+
+---
+
+### [Flexoelectricity and Flexomagnetism](http://arxiv.org/abs/2610.18525v1)
+- **作者:** Alexander Edström, Massimiliano Stengel
+- **研究目的:** 综述挠曲电性（flexoelectricity）和挠曲磁性（flexomagnetism）的理论概念、微观机制、在二维材料中的表现以及第一性原理计算方法。
+- **主要发现:** 详细阐述了应变梯度与曲率的几何关系，回顾了挠曲电性的复杂定义、微观机制和计算方法，并提出了广义的挠曲磁性概念，涵盖了磁性与应变梯度之间的所有耦合现象，包括曲率诱导的Dzyaloshinskii-Moriya相互作用。
+
+---
+
+### [Quantitative Modelling of Solvation in 2D Materials via Alchemical Decoupling and Potential Energy Surfaces](http://arxiv.org/abs/2610.18490v1)
+- **作者:** Lindsey N. Ioos, Duncan A. Peterson, Scott C. Warren
+- **研究目的:** 提出一种改进的策略，通过炼金解耦和势能面定量建模二维材料的溶剂化和稳定性，以更好地理解其聚集和剥离机制。
+- **主要发现:** 该方法通过溶剂化自由能校准两个独立的势能面，预测了二维材料在不同溶剂中的稳定性，结果与实验高度吻合，并揭示了材料完全去溶剂化需要更高的能垒，表明聚集材料层间仍保留单层溶剂。
+
+---
+
+### [Substrate-controlled epitaxial-like growth of photochromic yttrium oxyhydride thin films](http://arxiv.org/abs/2610.18448v2)
+- **作者:** M. Zubkins, E. Strods, E. Letko, H. Mändar, D. Moldarev, K. Mizohata, K. Sarakinos, V. Vibornijs, K. Kundzins, J. Purans
+- **研究目的:** 通过反应磁控溅射和后沉积氧化，研究衬底取向对光致变色氧化钇氢化物（YHO）薄膜的微观结构、晶体取向、组分和光学性质的影响。
+- **主要发现:** 发现衬底取向对YHO薄膜的微观结构和晶体织构有显著影响，实现了外延生长，但光致变色响应主要由组分决定，且漂白时间常数随光照下对比度增加呈指数增长。
+
+---
+
+### [Altermagnetic Ground States on the Ammann--Beenker Tiling](http://arxiv.org/abs/2610.18441v1)
+- **作者:** SeungBeom Hong, YunHo Kim, Moon Jip Park, GiBaik Sim
+- **研究目的:** 在准晶体Ammann-Beenker密铺上，识别经典海森堡模型的精确交变磁基态，并研究其自旋分辨输运特性。
+- **主要发现:** 通过利用四维超立方晶格的宇称结构，确定了Ammann-Beenker密铺上的共面交变磁序基态，并展示了其$g$-波对称性的自旋分辨输运，证实了非周期系统中交变磁性的几何起源。
+
+---
+
+### [The role of dependency range in thermally coupled superconducting networks](http://arxiv.org/abs/2610.18418v1)
+- **作者:** Nahala Yadid, Bnaya Gross, Shlomo Havlin, Nadav M. Shnerb
+- **研究目的:** 研究热耦合非晶超导网络中依赖范围的作用，其中依赖性源于电流再分配和热扩散介导的相互作用。
+- **主要发现:** 发现长程热耦合可以稳定超导相，这与几何模型中依赖性导致不稳定的作用相反，并且级联失效表现为一维前沿传播的各向异性。
+
+---
+
+### [Reversible Magneto-ionic Modification of Metallic Magnetic Thin Films](http://arxiv.org/abs/2610.18396v1)
+- **作者:** Md Golam Hafiz, Hari Babu Vasili, Philippa Shepley, Mannan Ali, Andrew J. Britton, Oscar Cespedes, Weibin Li, Manuel Valvidares, Rohit Pachat, Wilfried Fotso, Mourad Cherif, Shimpei Ono, Yves Roussigne, Mohamed Belmeguenai, Gavin Burnell
+- **研究目的:** 报告通过离子液体门控电驱动氧离子迁移，对具有结构反演不对称、垂直磁各向异性（PMA）和大Dzyaloshinskii-Moriya相互作用（DMI）的金属磁性薄膜进行可控、非易失性且可逆的局部磁离子改性。
+- **主要发现:** 实验提供了重金属/铁磁体界面氧化态改变的直接证据，观察到有效各向异性常数（$K\_{\text{eff}}$）和矫顽场（$H\_{\text{c}}$）随氧化而增加，随氧离子还原而减少，且磁矩和DMI随负电压而降低，这对于自旋电子器件应用具有潜在益处。
+
+---
+
+### [Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory](http://arxiv.org/abs/2610.18317v1)
+- **作者:** Chuntian Wu, Jiaxiang Li, Qiang Xu, Xuecheng Shao, Congwei Xie, Yu Xie, Yanming Ma
+- **研究目的:** 提出一种将深度学习哈密顿量方法准确推广到平面波密度泛函理论（PW DFT）计算的方法，特别是针对包含非局域算符的混合泛函。
+- **主要发现:** 提出了一种投射性引导的非正交原子轨道（AO）哈密顿量构建方法，能够用更小的AO基组准确重现PW能带，并使PBE和HSE哈密顿量可被等变神经网络学习，从而扩展了PW DFT计算在AO哈密顿量学习中的应用范围。
+
+---
+
+### [Complex materials engineering via Provenance Action Graphs: potential, structure and demonstration](http://arxiv.org/abs/2610.18314v1)
+- **作者:** Yevgeny Rakita, Paul Todd, James R. Neilson, Simon J. L. Billinge
+- **研究目的:** 探讨并验证利用溯源行动图（Provenance Action Graphs）进行复杂材料合成的潜力，旨在通过学习算法编码多维合成路径，加速材料发现。
+- **主要发现:** 反应图能够有效捕捉材料合成中的反应步骤和结果，为固态合成过程提供了前向预测和逆向学习模式，有助于构建全球知识库，从而加速材料发现。
+
+---
+
+### [Transition-Metal-Induced Uniaxial Anisotropy in YFe$\_3$](http://arxiv.org/abs/2610.18303v1)
+- **作者:** M. Nur Hasan, Bruno L. Fertig, Santa Pile, Rafael M. Vieira, Alena Vishina, Alexander Kovacs, Gotthard Rieger, Stefan Denneler, Samuel J. R. Holt, Martin Lang, Swapneel Pathak, Andrea Petrocchi, Hans Fangohr, Thomas George Woodcock, Thomas Schrefl, Heike C. Herper
+- **研究目的:** 通过选择性过渡金属取代，研究如何在YFe$\_{3}$中实现单轴磁晶各向异性，同时保持高磁化强度和热稳定性。
+- **主要发现:** 第一性原理筛选发现V、Nb和Ta是有效的掺杂剂，其中YFe$\_{2.33}$Ta$\_{0.67}$表现出2.3 MJ/m$^{3}$的大单轴磁晶各向异性，并通过蒙特卡洛模拟证实了其强大的铁磁序和高热稳定性，为开发富铁永磁体提供了新途径。
+
+---
+### [A Topological Spin on Racetrack Memory](http://arxiv.org/abs/2610.18297v1)
+-   **作者:** Benjamin Zingsem
+-   **研究目的:** 探究空心铁磁管中360°畴壁如何作为赛道存储器的局部载体，同时实现快速运动、抗扰动和可检测信号。
+-   **主要发现:** 空心铁磁管中的360°畴壁形成了一个稳定、可移动且可检测的磁比特，展示了快速、电流驱动的传输和抗解缠绕能力，为高性能管状磁比特提供了物理基础。
+
+---
+
+### [Role of dissipation dilution in achieving high mechanical quality factors in van der Waals resonators](http://arxiv.org/abs/2610.18288v1)
+-   **作者:** Lukas Schleicher, Leonard Geilen, Alexander Musta, Niklas Walter, Anne Rodriguez, Philipp Bredol, Alexander W. Holleitner, Eva M. Weig
+-   **研究目的:** 探究耗散稀释在范德华 (vdW) 谐振器中实现高机械品质因子 ($Q$) 的作用，特别是在单层MoS$\_2$鼓膜中。
+-   **主要发现:** 耗散稀释是实现高$Q$范德华谐振器的主要机制，单层MoS$\_2$鼓膜因高稀释因子实现了高达$372{,}000\pm37{,}000$的创纪录$Q$值，尽管其本征品质因子在原子厚度下受表面损耗限制。
+
+---
+
+### [Phonon-Mediated Superconductivity near Phase Boundaries in Rhombohedral Multilayer Graphene](http://arxiv.org/abs/2610.18286v1)
+-   **作者:** Konstantinos Sourounis, Peter M. Oppeneer
+-   **研究目的:** 深入探究未扭曲菱形多层石墨烯中声子介导超导电性的作用，特别是在相边界附近，以解释实验观察到的超导区域。
+-   **主要发现:** 结合相互作用驱动的电子基态对称性破缺的声子介导配对机制，可以满意地解释菱形石墨烯中几个实验观察到的超导区域，并预测了具有可比$T\_c$和能隙的其他未发现超导相。
+
+---
+
+### [Coherent Phonon Generation from Prethermal Carrier Populations in a Semiconductor](http://arxiv.org/abs/2610.18279v1)
+-   **作者:** Mingyu Shi, Matteo Savoini, Patrick Friebel, Andrea Annunziata, Thomas Metzger, Yunpei Deng, Laura Cattaneo, Steven L. Johnson
+-   **研究目的:** 通过研究碲中超快激光驱动相干声子产生的光子能量依赖性，检验其是否源于热化瞬态载流子群或预热效应。
+-   **主要发现:** 碲中接近带隙激发的相干声子产生受跃迁选择性和具有飞秒激发态寿命的预热力控制，而非热化的总载流子密度。
+
+---
+
+### [Zeeman spin quantum geometry and intrinsic gyrotropic spin current](http://arxiv.org/abs/2610.18224v1)
+-   **作者:** Srijan Chatterjee, Tarun Kanti Ghosh
+-   **研究目的:** 揭示并表征由振荡磁场驱动的本征回旋自旋电流 (IGSC)，该电流源于塞曼自旋量子几何。
+-   **主要发现:** 塞曼自旋量子几何产生了由振荡磁场驱动的本征回旋自旋电流 (IGSC)，该电流与电荷电流垂直且存在$π/2$的相移，从而开辟了节能自旋电子学的纯自旋电流通道。
+
+---
+
+### [MINFF: A Family of Classical Force Fields for Minerals with Tunable Angle Terms](http://arxiv.org/abs/2610.18220v1)
+-   **作者:** Michael Holmboe, Nathan Lavauzelle, Rogers E. Swai
+-   **研究目的:** 引入MINFF，一种用于多种金属氧化物和氢氧化物分层及非分层矿物的经典力场家族，旨在通过可调角度项提高矿物原子模拟的准确性和可迁移性。
+-   **主要发现:** MINFF及其可调角度项和精细参数化，能够准确再现多种矿物的实验晶胞参数、键长和键角，性能优于现有力场，并提供了可迁移性与保真度之间权衡的直接控制。
+
+---
+
+### [Unexpected stabilization of a single-$q$ charge density wave in pristine 1T-TiSe$\_2$](http://arxiv.org/abs/2610.18211v1)
+-   **作者:** Kimoon Higashihira Han, Dongju Hwang, Dongsin Kim, Yeojin Ahn, Jaehun Cha, Seonggeon Gim, Gyubin Lee, Mingi Jho, Chan-young Lim, Sae Hee Ryu, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Jonathan D. Denlinger, Makoto Hashimoto, Donghui Lu, Young Woo Choi, Gil Young Cho, Yeongkwan Kim
+-   **研究目的:** 重新审视电荷密度波 (CDW) 系统1T-TiSe$\_2$，以理解其子组分的性质和发展顺序，挑战了长期以来关于$2 \times 2$三重$q$有序具有等效子组分的范式。
+-   **主要发现:** 原始1T-TiSe$\_2$表现出电荷密度波序的顺序发展，其中单向$2 \times 1$单$q$序首先稳定，随后在较低温度下出现其他两个分量，这归因于三个子分量之间的排斥耦合。
+
+---
+
+### [Quantitative Impact of Occupation Smearing Methods on Conventional Superconductivity: from Electronic Structure through Lattice Dynamics to Electron-Phonon Coupling](http://arxiv.org/abs/2610.18185v1)
+-   **作者:** Zhongyu Wan
+-   **研究目的:** 以六氢化铯CsH$\_6$为基准，系统研究占据展宽方法及其参数对声子介导超导第一性原理计算的定量影响。
+-   **主要发现:** 占据展宽方法的选择显著影响超导性质的预测，传统展宽参数会导致费米能级偏移、声子硬化/软化甚至动态不稳定等误差，而优化四面体方法揭示CsH$\_6$在环境压力下动态稳定且$T\_c$高达121 K，并推导出了展宽宽度的标度关系以实现精确的参数选择。
+
+---
+
+### [Orientation-Resolved Nanoindentation of Single Crystal Ti-15Mo: Inverted Elastic Anisotropy and Yield-Onset Behavior Beyond Simple CRSS Predictions](http://arxiv.org/abs/2610.18181v1)
+-   **作者:** Kidus Abebe, David Gaetano, Aurelia Moriyama-Gurish, Jana Šmilauerová, Yanfei Gao, Udo D. Schwarz, Amit Datye
+-   **研究目的:** 通过取向分辨纳米压痕量化单晶Ti-15Mo的纳米力学各向异性，以理解其弹性及塑性响应，超越简单的临界分切应力 (CRSS) 预测。
+-   **主要发现:** 单晶Ti-15Mo表现出与立方晶体预测相反的弹性各向异性（在$\langle111\rangle$方向附近模量最低），其取向相关的屈服起始行为无法通过简单的CRSS/Schmid因子模型解释，表明残余非热$\omega$相可能是非弹性顺应性的贡献者。
+
+---
+
+### [High-throughput screening of Heusler alloys for thermoelectrics combining machine-learned densities of states and first-principles transport](http://arxiv.org/abs/2610.18179v2)
+-   **作者:** Shivam Randive, Rahul Dixit, Himanshu Pandey
+-   **研究目的:** 开发并测试一种结合机器学习态密度 (DOS) 和第一性原理输运计算的高通量筛选方法，用于寻找热电赫斯勒合金。
+-   **主要发现:** 结合机器学习态密度和第一性原理输运计算，可以高效地高通量筛选赫斯勒合金，识别出80个热电计算候选材料（其中61个未见报道），证明了态密度可以有效选择化合物进行进一步计算，但能带结构对于确认带隙至关重要。
+
+---
+
+### [Non-Hermitian Statistical Geometry](http://arxiv.org/abs/2610.18175v1)
+-   **作者:** Xi Hu, Yan-Qiong Ma, Su-Peng Kou
+-   **研究目的:** 发展非厄米统计几何理论，以探索放宽厄米性如何影响超越玻色子-费米子二分法的量子统计，特别是在粒子交换中。
+-   **主要发现:** 非厄米性揭示了更丰富的交换几何，其中编织和融合数据被软化为谱和相对几何自由度的复杂空间，非零投影Kato曲率表明路径依赖的几何交换，而编织一致性和融合相干性重新锁定这些坐标。
+
+---
+
+### [Effects of the choice of the exchange-correlation functional on high-temperature superconductivity predictions in covalent-cage M(BN)5 family](http://arxiv.org/abs/2610.18171v1)
+-   **作者:** Zhongyu Wan, Guo-Hua Zhong, Cheng-wei Ju, Ruiqin Zhang, Hai-Qing Lin
+-   **研究目的:** 量化不同交换-关联 (XC) 泛函对共价笼M(BN)$\_5$家族超导体中电子-声子耦合 (EPC) 和高温超导性预测的影响。
+-   **主要发现:** 交换-关联泛函的选择显著影响共价笼M(BN)$\_5$材料的高温超导性预测，PBE泛函高估了晶格体积和EPC，而PBEsol（对短程相互作用更准确）消除了不稳定性，并预测Rb(BN)$\_5$在环境压力下的$T\_c$为113 K。
+
+---
+
+### [Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations](http://arxiv.org/abs/2610.18137v1)
+-   **作者:** Albert Linda
+-   **研究目的:** 介绍并评估局部分辨率密度泛函理论 (LRes-DFT) 方案，用于线性标度Kohn-Sham计算，该方案通过仅使用单电子分辨器的对角线来避免绝缘体中的轨道计算。
+-   **主要发现:** 局部分辨率密度泛函理论 (LRes-DFT) 通过使用单电子分辨器的对角线，为绝缘体中的Kohn-Sham计算提供了一种准确且线性标度的方法，在分子晶体中与Kohn-Sham高度一致，并为大型系统提供了计算效率。
+
+---
+
+### [Local error correction prolongs time-crystalline memory](http://arxiv.org/abs/2610.18124v1)
+-   **作者:** Benedikt Fauseweh
+-   **研究目的:** 探究随机局部比特翻转纠错是否能延长驱动、空间无序二维伊辛模型在超导量子处理器上的时间晶体响应。
+-   **主要发现:** 在超导量子处理器上实现的随机局部比特翻转纠错，成功将驱动伊辛模型的时间晶体记忆延长了高达两倍，其中恢复过程稳定了空间有序并抑制了不一致的键。
+
+---
+
+### [Chirality Inversion and Giant Optical Activity in Scalable Self-Assembled Metamaterials](http://arxiv.org/abs/2610.18116v1)
+-   **作者:** Antonio Carone, Aso Rahimzadegan, Birgül Kalkan, Thomas G. Parton, Tony Jin, Zihao Lu, Clemens Schmitt, Emeline Raguin, Bruno Frka-Petesic, Kevin Vynck, Silvia Vignolini
+-   **研究目的:** 开发一种可扩展的自组装策略，从金属纳米粒子和几丁质纳米晶体构建分层螺旋超材料，旨在实现强而可重现的光学活性和可控手性。
+-   **主要发现:** 一种可扩展的共组装策略产生了具有巨大等离子体光学活性（不对称因子为0.55）的分层螺旋超材料，展示了通过改变螺旋间距来反转光学手性而无需改变模板手性的前所未有的能力，从而解耦了几何手性与光学手性。
+
+---
+
+### [Tellurium trioxide as an n-type wide-gap semiconductor with ultrahigh work functions from first principles](http://arxiv.org/abs/2610.18076v1)
+-   **作者:** Tianwei Wang, Teruya Nagafuji, Kota Hanzawa, Hidenori Hiramatsu, Fumiyasu Oba
+-   **研究目的:** 使用第一性原理计算，探索$\beta$-TeO$\_3$作为一种具有极端功函数潜力的下一代n型宽带隙半导体。
+-   **主要发现:** $\beta$-TeO$\_3$被确认为一种有前景的n型宽带隙半导体（带隙超过3 eV），具有高达$\sim 8$ eV的超高功函数，其中间隙H、Li、Na、Cu、Mg、Zn杂质和替代F杂质是浅施主，强调了控制氧化学势以保持其优异电子性能的重要性。
+
+---
+
+### [Hydrogen partial pressure as a key parameter in the reactive sputtering of photochromic YHO thin films](http://arxiv.org/abs/2610.18068v2)
+-   **作者:** E. Strods, M. Zubkins, E. Letko, V. Vibornijs, A. Sarakovskis, J. Purans
+-   **研究目的:** 探究反应磁控溅射过程中氢分压（H$\_2$/Ar气体流量比）对含氧氢化钇 (YHO) 薄膜结构、光学和光致变色性能的影响。
+-   **主要发现:** 低氢分压在反应溅射过程中对于合成具有高光学透明度、增强的光致变色对比度（高达14%）和更快漂白动力学的YHO薄膜至关重要，证明了其作为控制薄膜性能的关键参数的作用。
+
+---
+
+### [Knowledge-Guided Construction of Machine Learning Potentials for Reactive Behavior in Energetic Materials](http://arxiv.org/abs/2610.17987v1)
+-   **作者:** Guanchen Dong, Huanrong Liu, Lin Wang, Yuxuan Chen, Zhengyu Tu, Qing-an Li, Bin Xu, Jian Li, Shan Zhang, Xiaotong Li, Linghua Tan, Guangcheng Yang, Jun Kang, Rui Su, Pengfei Guan
+-   **研究目的:** 通过整合知识引导的关键事件和精细的基组，增强机器学习势 (MLPs) 在描述含能材料复杂反应行为方面的可靠性。
+-   **主要发现:** 通过结合精细的球谐基组 (sphmulti) 和超活性学习以及知识引导的关键事件，NNAP可以在相对较小的数据集上高效训练，准确捕捉含能材料中的复杂反应行为，如异构化势垒、热解活化能和冲击Hugoniot行为。
+
+---
+
+### [Direct view of exciton and carrier dynamics in twisted bilayer graphene](http://arxiv.org/abs/2610.17984v1)
+-   **作者:** Gianmarco Gatti, Anders S. Mortensen, Zhihao Jiang, Alfred J. H. Jones, Gesa-R. Siemann, Thomas S. Nielsen, Søren Ulstrup, Naina Kushwaha, Bruce Weaver, Yu Zhang, Emma Springate, Charlotte E. Sanders, Vibha Reddy, Ulrich Starke, Philip Hofmann
+-   **研究目的:** 使用位置、时间分辨和角分辨光电子能谱 (ARPES) 直接观察并理解氢插层碳化硅上扭曲双层石墨烯 (tBLG) 中的激子和载流子动力学。
+-   **主要发现:** 时间分辨ARPES揭示了tBLG杂化诱导带隙内存在非氢原子“幽灵-Fano”激子，并且两个石墨烯层中电子峰值温度显著不同，表明由层间电场驱动的超快层间电子能量再分配。
+
+---
+
+### [Field-free Magnetoacoustic Nonreciprocity via Exchange-bias Engineering](http://arxiv.org/abs/2610.17979v1)
+-   **作者:** Weiqi Du, Mingyuan Ma, Zheng Sun, Chong Chen, Shixuan Liang, Deqi Tao, Shihai An, Yifan Fu, Sulei Fu, Feng Pan, Cheng Song
+-   **研究目的:** 在多层系统中演示无场磁声非互易性，旨在克服磁声器件中实现显著非互易性需要外部偏置磁场的限制。
+-   **主要发现:** 通过交换偏置工程，在IrMn/FeGaB/Cu/FeGaB多层结构中实现了无场磁声非互易性，该工程稳定了剩余磁态并调整了自旋波色散，以在零场下实现共振磁声耦合，隔离度达到21 dB/mm。
+
+---
+
+### [All-electron machine-learned orbital-free density functional for periodic CHNO systems](http://arxiv.org/abs/2610.17975v1)
+-   **作者:** Marc K. Ickler, Andreas Hermann, Fred A. Hamprecht
+-   **研究目的:** 引入STRUCTURES-P，一种用于周期性CHNO系统的全电子机器学习无轨道密度泛函，能够进行变分密度优化和能量评估。
+-   **主要发现:** STRUCTURES-P，一种全电子机器学习无轨道密度泛函，能准确恢复周期性CHNO系统的Kohn-Sham基态，在保留晶体上实现了低密度和能量误差，并能推广到更大的晶胞，证明了该方法在变分密度优化中的可行性。
+
+---
+
+### [Thermal stability and structural ordering of thick Co$\_2$MnAl films grown on MgO and Si substrates](http://arxiv.org/abs/2610.17955v1)
+-   **作者:** David Robles-Cuenca, Juan Antonio González, Juan Pedro Andrés, Miguel Ángel Arranz, Mohamed Salaheldeen, Ricardo López Antón
+-   **研究目的:** 研究在MgO和Si衬底上生长的厚Co$\_2$MnAl (CMA) 薄膜的热稳定性和结构有序性，以建立其在需要更大磁体积应用中的热集成路线图。
+-   **主要发现:** 厚Co$\_2$MnAl薄膜在MgO衬底上于600 $^\circ$C时表现出最佳的B2有序度，而在Si衬底上，由于Si的相互扩散和硅化物形成，薄膜在500 $^\circ$C以上会发生向A2相的无序转变，从而限制了其热集成窗口。
+
+---
+
+### [WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions](http://arxiv.org/abs/2610.17943v1)
+-   **作者:** Oscar Moreno Segura, Dorye L. Esteras, Andrei Shumilin, Gonzalo Rivero-Carracedo, Riku Tuovinen, José J. Baldoví
+-   **研究目的:** 提出WannierSTM，一个基于Python的程序，通过结合最大局域化Wannier函数和非平衡格林函数形式论，实现超导扫描探针显微镜 (STM) 的高效模拟。
+-   **主要发现:** WannierSTM提供了一个统一且计算高效的框架，用于模拟超导混合纳米结构，能够以封闭解析形式快速计算电流-电压特性和微分电导，适用于具有自旋轨道耦合和磁性纹理的复杂系统。
+
+---
+
+### [Conformal soft modes at elastic instabilities](http://arxiv.org/abs/2610.17920v1)
+-   **作者:** Lars Franke, Nick Sander, Markus Garst
+-   **研究目的:** 在线性弹性理论框架内，研究晶体在连续弹性相变附近临界涨落（特别是软模）的性质。
+-   **主要发现:** 弹性不稳定性处的临界软模遵循类似于共形Killing方程的条件，导致等结构不稳定性产生四种临界模式（一种膨胀和三种特殊共形变换），而晶体对称性破缺不稳定性则包含连续的模式（包括二维闵可夫斯基空间的共形变换）。
+
+---
+
+### [Imaging atomic-scale surface structure and superconducting gap of the misfit layered compound (SnS)1.17NbS2](http://arxiv.org/abs/2610.17879v1)
+-   **作者:** Dongming Zhao, Shamarita Deb, Lichen Ji, Souvik Das, Paul Simon, Raúl Cardoso-Gil, Steffen Wirth, Walter Schnelle, Sushmita Chandra, Jian-Feng Ge, Claudia Felser
+-   **研究目的:** 使用结构表征和低温扫描隧道显微镜 (STM) 研究失配层状化合物(SnS)$\_{1.17}$NbS$\_2$的原子尺度表面结构和局部超导能隙。
+-   **主要发现:** STM揭示(SnS)$\_{1.17}$NbS$\_2$表面存在大尺寸的SnS和NbS$\_2$终止台阶，其表面原子排列与体相失配结构不同，但隧道谱显示两种终止面上的超导能隙几乎相同，且能隙的空间变化未显示与失配晶格对应的调制。
+
+---
+### [On-chip optical isolators](http://arxiv.org/abs/2610.17862v1)
+- **作者:** Abanoub Mikhail, Nikolay Solodovchenko, Sen Xu, Fan Zhang, Maksim Tumashov, Mingzhao Song, Sergei Makarov, Andrey Bogdanov
+- **研究目的:** 综述并建立一个通用框架，以评估片上光隔离器的现有解决方案，解决打破洛伦兹互易性并抑制所有相关反向通道的挑战。
+- **主要发现:** 该综述区分了成对非互易性、强度非对称传输和真实隔离，比较了磁光偏置、外部驱动时空调制和非线性光学过程三种实现集成非互易响应的物理途径，并探讨了隔离度、插入损耗、带宽等方面的基本限制和权衡。
+
+---
+
+### [Emergent Non-Biorthogonal Born Rule at Dynamical Quantum Phase Transitions](http://arxiv.org/abs/2610.17855v1)
+- **作者:** Wei-Wei Yang, Henning Schomerus, Jiangping Hu, Zhesen Yang
+- **研究目的:** 通过将动力学量子相变 (DQPTs) 从参考态推广到物理子空间，为非厄米动力学中左右本征态提供明确的概率解释。
+- **主要发现:** 这种推广建立了一个新兴的非双正交玻恩法则，其中自归一化的左右态的相互重叠决定了直接可访问的动力学跃迁率，并识别出本征态在临界传播子处合并的例外点DQPTs (EP-DQPTs)，从而将非厄米量子力学的概率解释建立在厄米量子力学的坚实基础上。
+
+---
+
+### [ARES: a plane-wave density-functional-theory code in Rust](http://arxiv.org/abs/2610.17854v1)
+- **作者:** Zehan Liu, Qian Wang, Xiangyu Zheng, Jiaxiang Li, Chuntian Wu, Yongshuo Chen, Xuecheng Shao, Qiang Xu, Yu Xie, Yanming Ma
+- **研究目的:** 介绍ARES，一个完全用Rust编写的平面波密度泛函理论 (DFT) 代码，并展示其设计、功能和严格的验证机制。
+- **主要发现:** ARES支持范数守恒赝势和PAW方法，结合LDA和PBE泛函，并在六种材料上与Quantum ESPRESSO的带能一致性达到中位数低于$0.4$ meV，赝势验证的中位数delta因子为$0.696$ meV/atom，证明了其高精度和可靠性。
+
+---
+
+### [Colossal Spin--Lattice--Charge Coupling in Noncollinear Ferrimagnetic NbMnX$\_2$ ($X$ = S, Se, Te) Monolayers](http://arxiv.org/abs/2610.17849v1)
+- **作者:** Peng Wang, Nanshu Liu, Hongkuan Yuan, Xue Jiang, Jijun Zhao
+- **研究目的:** 识别并表征稳定的NbMnX$\_2$ ($X$ = S, Se, Te) 单层材料，作为一种多功能平台，展现非共线亚铁磁性和巨大的自旋-晶格-电荷耦合。
+- **主要发现:** 第一性原理计算揭示了NbMnX$\_2$单层具有高达$313$ K的居里温度的非共线亚铁磁基态，磁化旋转可使NbMnTe$\_2$的弹性模量改变高达$36\%$，NbMnSe$\_2$在$100$ K时产生高达$10,000\%$的各向异性磁电阻比，并连续关闭约$0.13$ eV的带隙。
+
+---
+
+### [Theory of deeply subwavelength electromagnetic structuring of semiconductors due to thermal-ionization instability](http://arxiv.org/abs/2610.17847v1)
+- **作者:** I. V. Oladyshkin, D. I. Kulshin, E. O. Smolina
+- **研究目的:** 发展一种电离辅助不稳定性理论，解释强电磁脉冲作用下半导体表面形成深亚波长电磁结构的原因。
+- **主要发现:** 理论表明，热扩散和衍射近场减弱之间的竞争为具有特定波数的温度扰动的指数增长创造了条件，该波数由脉冲重复率、泵浦场和材料参数决定，准确描述了实验中观察到的深亚波长结构的周期及其对泵浦强度、波长和脉冲数量的依赖性。
+
+---
+
+### [Orthoexciton-to-paraexciton conversion rate in Cu$\_2$O at sub-Kelvin temperatures](http://arxiv.org/abs/2610.17812v1)
+- **作者:** Yusuke Morita, Yukihiro Akiyama, Yuki Haita, Yuga Hirota, Kosuke Yoshioka
+- **研究目的:** 在亚开尔文温度下，使用稀释制冷机测量Cu$\_2$O中$1$s正激子到$1$s仲激子的转换率。
+- **主要发现:** 在$64$ mK和$2.2$ kbar应力下，转换率为$5.9 \times 10^7$ s${^{-1}}$，在$64$到$800$ mK之间，转换率对温度依赖性较弱，且低于$2$ K时的值，表明转换率在$2$ K以下持续下降，且正激子的动量分布在此低温下未与晶格达到平衡。
+
+---
+
+### [Polarons in Lead-Halide Perovskites: What the Structural Evidence Does and Does Not Establish](http://arxiv.org/abs/2610.17809v1)
+- **作者:** Inhee Maeng, Young Mi Lee, Jinwoo Park, Seung Jae Oh, Min-Cherl Jung
+- **研究目的:** 基于最近的结构、维度和输运研究，批判性地重新审视卤化铅钙钛矿中大极化子的证据及其在缺陷容忍性中的作用。
+- **主要发现:** 最新发现质疑了已有的极化子图像，表明晶格热运动可解释有效质量增加，载流子-晶格耦合随维度和耦合通道变化，且直接缺陷容忍性测试未能证实极化子屏蔽作用，提示需要新实验来阐明光生载流子行为。
+
+---
+
+### [Learning from fracture: Teaching language models to design through physical experience](http://arxiv.org/abs/2610.17804v1)
 - **作者:** Bo Ni
-- **研究目的:** 探索如何利用人工智能辅助力学研究Eshelby稳定性问题，建立全内部应变异质性与几何形状之间的非线性关系。
-- **主要发现:** 建立了全内部应变异质性与椭球族几何距离之间的非线性双边关系，并开发了有限形状理论，通过椭球减法获得了系统收敛的上下界，与有限元计算结果一致。
+- **研究目的:** 引入FracLearn框架，旨在通过物理经验，使语言模型学习并优化物理设计。
+- **主要发现:** FracLearn在受俄罗斯方块启发的断裂游戏中，通过假设修正展示了渐进式改进和恢复能力，最终的综合得分比经验阶段记录高出$11.0\%$，这归因于模型学会了裂纹偏转、临时捕获和增加残余载荷能力等增韧机制。
 
 ---
 
-### [Pulse-by-pulse imaging of reversible, collective reshaping in laser-excited gold nanorods](http://arxiv.org/abs/2610.13383v1)
-- **作者:** Mees Dieperink, Loriane Monin, Ichiro Ohnishi, Takeo Sasaki, Yu Jimbo, Erik Garnett, Wiebke Albrecht
-- **研究目的:** 利用脉冲同步原位电子显微镜技术，逐脉冲成像激光激发金纳米棒中可逆的集体重塑动态过程。
-- **主要发现:** 金纳米棒在激光激发下进入一个意想不到的动态重塑状态，表现出材料在颗粒内部和颗粒之间重新分布、孪晶界形核和传播、以及数百纳米远的纳米棒协同重塑，甚至个体纳米棒几乎消失后恢复原状的结构记忆。
+### [Hydrogen-Bond Density Drives the Order-Disorder Phase Transition from Orientational to Vibrational in Polyalcohol Plastic Crystals](http://arxiv.com/abs/2610.17774v1)
+- **作者:** Ares Sanuy, Carlos Escorihuela-Sayalero, Pol Lloveras, María del Barrio, Hassan Allouchi, Josep-Lluís Tamarit, Luis Carlos Pardo, Claudio Cazorla
+- **研究目的:** 探究多醇塑料晶体中有序-无序相变过程中熵变的微观性质，以及如何通过分子设计系统地调控。
+- **主要发现:** 经典分子动力学模拟表明，随着氢键连接性增加，相变熵的性质发生完全反转，从主要取向无序转变为主要晶格振动，使氢键密度成为调控热响应幅度和压力鲁棒性的实用化学可及设计手段。
 
 ---
 
-### [Interplay of disorder and spin liquid physics in the triangular-lattice antiferromagnet YbZn2GaO5](http://arxiv.org/abs/2610.13346v1)
-- **作者:** Hafsa Zeroual, Shams Sohel Islam, Toni Shiroka, Thomas James Hicken, Rabindranath Bag, Sara Haravifard, Hubertus Luetkens, Philippe Mendels, Edwin Kermarrec, Fabrice Bert
-- **研究目的:** 利用$^{71}\mathrm{Ga}$核磁共振（NMR）和μ子自旋弛豫（μSR）技术，微观探测三角晶格反铁磁体$\mathrm{YbZn}\_2\mathrm{GaO}\_5$的结构和磁性性质，以理解无序对其自旋液体物理的影响。
-- **主要发现:** $\mathrm{YbZn}\_2\mathrm{GaO}\_5$存在显著的结构无序（$\mathrm{Ga}^{3+}/\mathrm{Zn}^{2+}$位点混合），但自旋动力学持续到极低温度，表明尽管存在无序，类量子自旋液体激发仍可能存活。
+### [A Full-Spectrum Theory of Moiré Superlattices](http://arxiv.org/abs/2610.17749v1)
+- **作者:** Tong Liu, X. R. Wang, Jiansheng Wu
+- **研究目的:** 建立一个统一、无近似的广义莫尔体系分析形式，克服传统低能狄拉克锥近似和第一层间耦合截断的局限性。
+- **主要发现:** 该新框架在低能极限下完美恢复了Bistritzer-MacDonald模型，并扩展到异质应变和高能区域，揭示了莫尔晶格的内在尺度自相似性，并预测了由次级简并性驱动的高阶魔角和可调平坦带的出现。
 
 ---
-### [Atomic Edge Resonators Flatten Phonon Bands in Biphenylene Nanoribbons](http://arxiv.org/abs/2610.13342v1)
-- **作者:** V. L. Katkov, N. M. Chtchelkatchev, V. A. Osipov
-- **研究目的:** 揭示联苯纳米带中的H-F边缘复合物如何作为原子谐振器，影响低频声子带并进而影响热学性质。
-- **主要发现:** H-F边缘复合物在联苯纳米带中充当内在原子谐振器，能使低频声子带平坦化，并通过局部共振机制显著促进热带隙变窄。
 
----
-
-### [Ultrafast laser-stimulated field emission from a metal: a non-equilibrium Green's functions approach](http://arxiv.org/abs/2610.13251v1)
-- **作者:** Luciano Jacopo D'Onofrio, Adolfo Avella, Martin Eckstein
-- **研究目的:** 提出一个基于非平衡格林函数形式的理论框架，以模拟强驱动物质-真空界面处非平衡电子动力学，特别是超快激光辅助场发射。
-- **主要发现:** 该框架揭示了强场发射与多光子发射机制的相互作用，并表明电子关联效应和光学场驱动的动态反作用机制能显著重塑远场电子谱。
-
----
-
-### [Zak Phase Quantization without Global Symmetry through Destructive Interference](http://arxiv.org/abs/2610.13250v1)
-- **作者:** Geonwoo Hwang, Jun-Won Rhim
-- **研究目的:** 演示一种即使在全局保护对称性被明确打破的情况下，也能实现一维能带结构中Zak相精确量子化的机制。
-- **主要发现:** 通过局部支持对称性和破坏性干涉，即使全局对称性被破坏，Zak相仍能保持精确量子化，这表明波函数支持而非单独的全局对称性可以保护一维系统中的量子几何。
-
----
-
-### [Theory of exciton-exciton interactions in crystalline systems](http://arxiv.org/abs/2610.13246v1)
-- **作者:** L. Maisel Licerán, H. T. C. Stoof
-- **研究目的:** 提出一个普适的激子-激子相互作用微观理论，适用于包括能带拓扑、量子几何和莫尔效应在内的各种晶体半导体系统。
-- **主要发现:** 提出了一个普适的激子-激子相互作用理论，适用于包含非平凡量子几何的晶体半导体系统，并发现量子几何能显著改变双激子谱。
-
----
-
-### [Percolation of Data Constraints and Reorganization of Boolean Function States in Parity Learning](http://arxiv.org/abs/2610.13233v1)
-- **作者:** Han Ma
-- **研究目的:** 研究在奇偶学习中，随着训练数据的积累，神经网络如何重组其学习到的布尔函数。
-- **主要发现:** 数据约束的渗透固定了可识别的支持，而训练产生的约化态即使在该支持停止变化后仍会继续重组，揭示了学习过程中约束可识别性、函数态组织和预测准确性之间的非单调关系。
-
----
-
-### [Graphene double quantum dot as a solid-state two-level system in the THz range](http://arxiv.org/abs/2610.13196v1)
-- **作者:** Alexis Wietzke, Solen Coeymans, Benjamin Hue, Simon Messelot, Aurelien Schmitt, Michael Rosticher, Kenji Watanabe, Takashi Taniguchi, Jerome Tignon, Sukhdeep Dhillon, Rebeca Ribeiro, Audrey Cottet, Matthieu Delbecq, Takis Kontos, Juliette Mangeney
-- **研究目的:** 证明hBN封装的石墨烯双量子点可以实现一个在太赫兹（THz）光谱范围内的固态两能级系统。
-- **主要发现:** 实验证明石墨烯双量子点可实现一个转换频率高达$0.145$ THz的固态两能级系统，为片上集成THz量子技术提供了关键构建模块。
-
----
-
-### [Equal-Spin local and nonlocal Andreev reflection in altermagnet/superconductor/altermagnet junction](http://arxiv.org/abs/2610.13193v1)
-- **作者:** Kai-Yi Lyu, Xing Wang, Yu-Xian Li
-- **研究目的:** 探究交变磁体/超导体/交变磁体 (AM/SC/AM) 结中的等自旋安德烈夫反射现象，并重点关注晶体取向角和尼尔矢量对其的影响。
-- **主要发现:** 尼尔矢量旋转是AM/SC/AM结中等自旋安德烈夫反射的直接原因，通过调谐晶体取向角和尼尔矢量可以实现取向依赖的常规和等自旋安德烈夫反射。
-
----
-
-### [Insights on the volume variation of LiCoxMn2-xO4 electrode upon cycling: a correlative operando XRD and XAS study](http://arxiv.org/abs/2610.13189v1)
-- **作者:** Eunike Mahayoni, Louiza Larbi, Romain Batiot, Anatole Weill, Damien Brégiroux, Antonella Iadecola, Arnaud Perez
-- **研究目的:** 通过联用操作原位X射线衍射 (XRD) 和X射线吸收光谱 (XAS) 研究LiCo$\_x$Mn$\_{2-x}$O$\_4$尖晶石正极材料在循环过程中的体积变化及其与阳离子氧化还原过程的关联。
-- **主要发现:** 增加Co含量能显著抑制电化学诱导的结构应变，将总体积变化从$5.0\%$降至$1.6\%$ (XAS) 或从$5.8\%$降至$2.1\%$ (XRD)，直接建立了阳离子特异性氧化还原活性与体积演变之间的联系。
-
----
-
-### [X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$\_2$O$\_{5+δ}$ ($δ\sim 0.65$)](http://arxiv.org/abs/2610.13155v1)
-- **作者:** Himanshu Pant, S. Khalid, R. Bindu
-- **研究目的:** 利用X射线吸收近边结构 (XANES) 谱学结合多重散射和第一性原理计算，研究缺氧双钙钛矿氧化物NdBaCo$\_2$O$\_{5+δ}$ ($δ\sim 0.65$) 的氧空位分布、磁不均匀性和电荷传输。
-- **主要发现:** 结果表明氧空位可能出现在基底位点而非仅限于顶端位点，这解释了观察到的格里菲斯相和变程跳跃传导机制，并为优化氧离子迁移率和氧传感性能提供了新见解。
-
----
-
-### [Orbital transfer reveals material-selective structure in Rydberg excitons](http://arxiv.org/abs/2610.13149v1)
-- **作者:** Mengli Wang, Peng Chen, Wenqi Xue, Haonan Xia, Hong Zhang, Benniu Zhang
-- **研究目的:** 检验标量Rytova-Keldysh (RK) 哈密顿量在预测里德堡激子轨道转移方面的准确性，并揭示材料选择性结构。
-- **主要发现:** RK哈密顿量在不同材料中对未包含的$3p$态的预测偏差符号相反，揭示了材料依赖的轨道模式，表明激子谱模型可以用于测试可转移的物理信息。
-
----
-
-### [Electron- and hole-doped superconductivity in two-dimensional electride ZrX$\_2$ (X = Cl, Br, I)](http://arxiv.org/abs/2610.13124v1)
-- **作者:** Tian-Xin Liu, Xin-Yang Li, Zuo-Wei Yin, Jing Jiang, Ben-Chao Gong, Wei Fan, Xiao-Le Qiu, Kai Liu
-- **研究目的:** 利用第一性原理计算研究二维半导体电化物ZrX$\_2$ (X = Cl, Br, I) 在电子和空穴掺杂下的声子介导超导电性。
-- **主要发现:** 单层ZrX$\_2$在电子掺杂下展现出高超导转变温度，其中ZrBr$\_2$在$0.01$ $e$/f.u.时$T\_c = 30.0$ K，而空穴掺杂需要更高浓度才能激活超导，揭示了平坦导带最小值和范霍夫奇点对高$T\_c$超导的重要性。
-
----
-
-### [Assessing quantitative phase reliability in electron ptychography using a twisted trilayer WS2 thickness staircase](http://arxiv.org/abs/2610.13115v1)
-- **作者:** Hu Bao, Qilong Feng, Kun Ye, Tianyu Xue, Stephen J. Pennycook, Yihan Zhu, Anmin Nie, Shoucong Ning, Jing Tao
-- **研究目的:** 利用扭曲三层WS$\_2$厚度阶梯作为内部参考，评估电子叠层衍射中定量相位测量的可靠性，并研究其对样品厚度、多重散射和投影原子重叠的敏感性。
-- **主要发现:** W柱相位随厚度呈非线性增加，从单层到双层增加约$13.2\%$，而从双层到三层仅增加$4.7\%$，同时短程投影W-W重叠能使相位增加约$8-9\%$，为多层WS$\_2$中的定量相位测量提供了基准。
-
----
-
-### [Role of composition-tuned disorder on magnetic exchange interactions in NiRuMnGa](http://arxiv.org/abs/2610.13107v1)
-- **作者:** Manikantha Panda, Prabuddha Kant Mishra, Vinod Kumar, Wilfrid Prellier, Rahul Sharma, Tapas Paramanik
-- **研究目的:** 通过实验和第一性原理计算研究四元Heusler合金NiRuMnGa中组分调控的无序对磁交换相互作用的影响。
-- **主要发现:** NiRuMnGa中Ni/Ru和Mn/Ga位点间存在显著的B2型无序，导致铁磁和反铁磁相互作用竞争，从而稳定了团簇玻璃态，表现出场敏感的玻璃态和未饱和的磁化强度。
-
----
-
-### [Evolution and breakdown of chiral anomaly in Weyl semiconductor tellurium](http://arxiv.org/abs/2610.13084v1)
-- **作者:** Zhifeng Xue, Jiaji Zhao, Yi Ji, Fuyang Chen, Nannan Tang, Gangjian Jin, Bing Shen, Bin Wang, Yang Wang, Mingxi Chi, Jin-Zhu Zhao, Ruiqiang Wang, Qizhong Zhu, He Wang, Huakun Zuo, Donghui Guo, Dingyong Zhong, Mingxun Deng, Huichao Wang
-- **研究目的:** 研究外尔半导体碲中手性反常的演化和破裂，及其如何通过费米能级和磁场进行调控。
-- **主要发现:** 掺杂碲展现出巨大的负纵向磁阻，可通过费米能级和磁场高度调控，并在极端量子极限下发生从负到正的磁阻反转，预示着由增强的电子-电子相互作用驱动的集体电子态相变。
-
----
-
-### [Parity-Anomalous Hall Response of Chiral Lifshitz Fermions](http://arxiv.org/abs/2610.13017v1)
-- **作者:** Yanmiao Han, Rundong Zhao, Yu-Hao Wan
-- **研究目的:** 研究二维手性Lifshitz费米子的宇称反常霍尔响应，特别是对于具有低能耦合$(q\_x + iq\_y)^N$的节点。
-- **主要发现:** 对于手性Lifshitz费米子，费米环绕数$W=N$导致反常霍尔响应$\sigma\_{xy}^{\mathrm{anom}} = (W/2)e^2/h$，这是一种由环绕数控制的高阶宇称反常霍尔响应，不同于量子反常霍尔绝缘态。
-
----
-
-### [Odd-Parity Crystalline Electric Field and Multipoles in Icosahedral Quasicrystal and Approximant: Magnetic Toroidal and Electric Dipoles in Ce-Based Systems](http://arxiv.org/abs/2610.13009v1)
-- **作者:** Shinji Watanabe, Syunta Furuya, Mitsuaki Kawamura
-- **研究目的:** 提出Ce基二十面体准晶和近似晶体中奇宇称晶体电场 (CEF) 和多极矩的理论，并研究其对磁性和电磁效应的影响。
-- **主要发现:** 奇宇称CEF在Ce位点打破局部反演对称性，导致$4f$和$5d$态的杂化波函数产生磁环形偶极和电偶极等奇宇称多极矩，并揭示了二十面体团簇基态中非共线磁结构的稳定机制。
-
----
-
-### [Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers](http://arxiv.org/abs/2610.12996v1)
-- **作者:** Rishabh Saraswat, Mantasha Ansari, Rekha Verma, Sitangshu Bhattacharya
-- **研究目的:** 结合群论和从头算多体微扰理论，研究镜面对称单层材料中暗激子的实时弛豫动力学，并推导激子-声子散射选择规则。
-- **主要发现:** 建立了适用于整个布里渊区的精确激子-声子选择规则，揭示了最低激子带的宇称沿闭合轮廓变化，并发现偶宇称声子连接相同宇称态，而奇宇称声子连接相反宇称态。
-
----
-
-### [High-Throughput Discovery of Chiral Carbon-Boron Semimetals with Weyl Topology and Phonon-Mediated Superconductivity](http://arxiv.org/abs/2610.12965v1)
-- **作者:** Lizhou Yang, Wenneng Zhao, Ye Yang, Weiwei Chen, YongKeat Chan, Chen-Hao Lv, Qing-Bo Liu, Yujia Xiang, Xinming Qin, Zedong Li. Weiyi Wang, Jinlong Yang, Wei Hu
-- **研究目的:** 通过高通量第一性原理计算和Wyckoff位置结构生成，发现具有Weyl拓扑和声子介导超导电性的手性碳-硼半金属。
-- **主要发现:** 发现了六种稳定的手性碳-硼晶体，它们具有多样的拓扑半金属态，其中$(\mathrm{C}\_3\mathrm{B}\_2)\_8$展现出螺旋转称保护的电荷三Weyl点和高达$31.1\,\mathrm{K}$的超导转变温度，扩展了拓扑半金属与声子介导超导的材料范围。
-
----
-
-### [Vacuum-field-mediated Landau-level reconstruction in a cavity-coupled two-dimensional electron gas](http://arxiv.org/abs/2610.12956v1)
-- **作者:** Zi-Heng Zhu, Yu Chen
-- **研究目的:** 研究在静态非共振极限下，腔耦合二维电子气中真空场介导的朗道能级重构。
-- **主要发现:** 虚拟光子交换产生周期性动能重整化和抗磁标量势，形成一个有限$k\_0$动量阶梯，该阶梯重构了朗道能级带结构并重新分布了相关的手性边缘态，但并未改变整数拓扑。
-
----
-
-### [Symmetry-Enforced Topology and Van Hove Saddle Points in Hexagonal TiAs](http://arxiv.org/abs/2610.12925v1)
-- **作者:** Azizur Rahman, Shashi B Mishra, Sheraz Khan, Khushnood Shah, Xun Ma, Xiaoyang Lin, Tomasz Sobol, Lei Zhang, Weisheng Zhao, Min Zhang, Zahir Muhammad
-- **研究目的:** 首次成功生长六方TiAs单晶，并对其振动、电子、拓扑和磁输运性质进行全面研究。
-- **主要发现:** 六方TiAs展现出由对称性强制的非平庸能带拓扑（$\mathbb{Z}\_4 = 2$，$ν\_0 = 1$），并在费米能级以下约$0.5$ eV处存在范霍夫鞍点，伴随显著的各向异性磁阻和空穴主导的输运。
-
----
-
-### [Alter-excitons in Altermagnets: Symmetry, Splitting and Dispersion](http://arxiv.org/abs/2610.12900v1)
-- **作者:** Yuanfan Xiong, Liangyu Wang, Xuan Wu, Wei Hu, Jinlong Yang
-- **研究目的:** 揭示交变磁体中自旋空间群对称性对电子和激子激发施加的不同限制，并预测新型自旋分裂激子——交变激子。
-- **主要发现:** 交变磁体中激子谱在特定动量下能带简并性被内禀解除，产生新型自旋分裂激子（交变激子），其分裂仅源于激子的多体性质，为对称性工程多体现象提供了新途径。
-
----
-
-### [Room-temperature ferroelectric p-wave magnet](http://arxiv.org/abs/2610.12892v1)
-- **作者:** Kaiwen Shen, Nicoly Hembeck, Warlley H. Campos, Jianting Dong, Bin Li, Yuhang Li, Gui Wang, Jan Priessnitz, Yifan Gao, Yingfen Wei, Hao Jiang, Xumeng Zhang, Ming Wang, Jia Zhang, Wu Shi, Qi Liu, Libor Šmejkal, Xianzhe Chen, Ming Liu
-- **研究目的:** 演示一种无需$T\mathbf{t}$对称性，基于非公度自旋螺旋序实现室温铁电$p$波磁性的新途径。
-- **主要发现:** 多铁性BiFeO$\_3$的摆线磁结构在室温下内禀地实现了与铁电极化共存的$p$波磁性，并伴随约$100$ meV的非相对论自旋分裂，其特征性圆光伏效应响应的符号可通过电控摆线手性实现可逆切换。
-
----
-
-### [Ground-State Phase Diagram of the Effective Model with Antiferromagnetic Nearest-Neighbor and Ferromagnetic Next-Nearest-Neighbor Interactions in 1/1 Periodic Approximants to Icosahedral Quasicrystals](http://arxiv.org/abs/2610.12840v1)
-- **作者:** Shinji Watanabe
-- **研究目的:** 通过完全枚举磁矩构型，确定二十面体准晶$1/1$周期近似体中具有反铁磁最近邻$J\_1$和铁磁次最近邻$J\_2$相互作用的有效模型的基态相图。
-- **主要发现:** 揭示了根据$J\_2/J\_1$比值和晶体电场引起的磁各向异性，可以稳定各种非共线亚铁磁序和反铁磁序，并识别了它们的磁空间群。
-
----
-
-### [Analog quantum simulation of Shastry-Sutherland Ising materials](http://arxiv.org/abs/2610.12800v1)
-- **作者:** Vahagn Mkhitaryan, Milan Kornjača, Mao Lin, Alexander Schuckert, Majd Hamdan, Sergio H. Cantú, Ammar Ali, Tommaso Macrí, Nathan Gemelke, Alexander Keesling, Peter Komar, Travis S. Humble, Alexei Bylinski, Pedro L. S. Lopes, Fangli Liu, Alexandra Boltasseva, Mikhail D. Lukin, Arnab Banerjee, Vladimir M. Shalaev, Sheng-Tao Wang
-- **研究目的:** 利用可编程里德堡原子阵列实现Shastry-Sutherland晶格上的横向和纵向场Ising模型，并探索其量子相图。
-- **主要发现:** 量子模拟和DMRG计算揭示了在有限横向场下存在两个经典极限中不存在的新相：一个$2/5$填充平台和一个对称性保持的量子二聚体区域，实验结果与计算相图定性一致。
-
----
-
-### [Drude, Where's My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes](http://arxiv.org/abs/2610.12799v1)
-- **作者:** Artur Lyssenko, KyuJung Jun, Rafael Gomez-Bombarelli
-- **研究目的:** 提出AutoDrude框架，用于直接从DFT能量、力、偶极子参数化可极化Drude力场，以准确模拟聚合物电解质中的离子传输。
-- **主要发现:** AutoDrude模型在重现PEO-LiTFSI的实验离子电导率方面与最佳电荷标度模型一样准确，并且能够捕捉阳离子迁移数随盐浓度的增加以及低浓度下不存在Li-TFSI接触离子对的现象，表明明确包含极化对于准确描述离子传输至关重要。
-
----
-### [Quadratic XY-anisotropy correction to the spontaneous staggered magnetization of the gapped XYZ spin-$1/2$ chain](http://arxiv.org/abs/2610.12798v1)
-- **作者:** Felipe Taha Sant'Ana
-- **研究目的:** 旨在推导间隙XYZ自旋-$1/2$链中自发交错磁化强度对XY各向异性的二次响应系数的闭合形式。
-- **主要发现:** 成功推导了该系数的闭合形式，其由一个有理项和一个Lambert级数组成，并发现其在各向同性点附近以五分之二的幂律发散，且与DMRG计算结果一致。
-
----
-
-### [Realizing Two-Dimensional Altermagnets with 100% Spin Polarization along the [110] Direction in Ambidentate-Ligand Based Square Organometallic Lattices](http://arxiv.org/abs/2610.12791v1)
-- **作者:** Qing-Bo Liu, Xin-Yi Chen, Xiangyang Li, Xingxing Li, Jinlong Yang
-- **研究目的:** 旨在开发一种简单且可行的化学策略，通过使用双齿配体构建二维有机金属交变磁体，并实现特定方向上的100%自旋极化。
-- **主要发现:** 提出了一种基于双齿配体的有机金属交变磁体构建策略，并通过第一性原理计算筛选出三种材料，它们在[110]方向上具有100%的价带自旋极化和显著的压磁行为。
-
----
-
-### [Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments](http://arxiv.org/abs/2610.12771v1)
-- **作者:** Kirill Sobolev, Nagaprasad Reddy Samala, Mariela J. Pavan, Sharon Hazan, Vladimir Ezersky, Shakked Schwartz, Omer Bartov, Adi Yakir, Michal Leskes, Tamar Goldzak Mizrachi, Yevgeny Rakita
-- **研究目的:** 旨在全面研究Ti$\_3$C$\_2$T$\_x$ MXenes在卤化物钙钛矿前驱体环境中的化学稳定性和表面演化，以揭示其复杂的相互作用。
-- **主要发现:** 发现元素碘和多碘化物是侵蚀性氧化剂，导致MXene快速降解，而碘化铅引起较慢的氧化，同时甲基碘化铵则通过氢键吸附在MXene表面，起到稳定作用。
-
----
-
-### [Nonlocal Josephson coupling and current redistribution in a large-area graphene multiterminal Josephson junction](http://arxiv.org/abs/2610.12753v1)
-- **作者:** Luojia Zhang, Kushagra Aggarwal, Jay D. Sau, Ethan G. Arnault, Kenji Watanabe, Takashi Taniguchi, Valla Fatemi
-- **研究目的:** 旨在在石墨烯霍尔条结构中实现多端约瑟夫森结，并研究其中非局域约瑟夫森耦合和电流再分配现象。
-- **主要发现:** 观察到近开关电流处显著的负微分纵向电阻，并通过包含非局域约瑟夫森耦合和非局域常态电导相互作用的网络模型成功重现了这一响应。
-
----
-
-### [Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles Calculations](http://arxiv.org/abs/2610.12749v1)
-- **作者:** Willian O. Santos, José A. S. Laranjeira, Kleuton A. L. Lima, Douglas S. Galvão, David L. Azevedo
-- **研究目的:** 旨在通过密度泛函理论模拟，提出并研究波纹状铌烯纳米片（c-Nb）的结构、能量、振动、机械、电子和光学性质。
-- **主要发现:** 发现波纹状铌烯纳米片具有中心对称结构，表现出动力学和机械稳定性，各向同性面内弹性，以及由Nb $4d$ 轨道主导的多带金属性。
-
----
-
-### [The quantum geometry of the chemical bond](http://arxiv.org/abs/2610.12746v1)
-- **作者:** Gabrielle Carrel, Nishchhal Verma, Fatmagül Katmer, Leslie M. Schoop, Raquel Queiroz
-- **研究目的:** 旨在将化学键合指数与量子几何张量 (QGT) 联系起来，以揭示化学键合如何决定能带的动量空间结构。
-- **主要发现:** 发现QGT可以分解为三中心键指数，并揭示了非共线三中心键是固体中贝里曲率的来源，从而将化学键合模式与材料的拓扑性质联系起来。
-
----
-
-### [Predictive Synthesis of MOFs and COFs](http://arxiv.org/abs/2610.12739v1)
-- **作者:** Bin Feng, Reid A. Coyle, Shyam Chand Pal, Peter Walther, Saeun Park, Zhiling Zheng
-- **研究目的:** 旨在探讨金属有机框架（MOFs）和共价有机框架（COFs）的预测性合成，并讨论从化学直觉驱动实验到人工智能和机器学习整合的演变。
-- **主要发现:** 强调了预测性合成将试错法转变为可量化的化学推理的重要性，并展望了其从静态配方推荐向实时控制和可转移框架形成原理的进步。
-
----
-
-### [Homogeneous to multi-scale inhomogeneous complex magnetism in Ba3LnRu2O9 (Ln = Gd, Ho), Revealed by muSR and Machine-Learned Muon-Site Calculations](http://arxiv.org/abs/2610.12726v1)
-- **作者:** S. Ghosh, K. Sharma, E. Kushwaha, M. Kumar, G. Roy, A. Pandey, F. L. Pratt, S. Cottrell, D. T. Adroja, T. Basu
-- **研究目的:** 旨在通过$\mu$SR和机器学习辅助的$\mu$子位点计算，研究六方6H-钙钛矿Ba$\_3$LnRu$\_2$O$\_9$ (Ln = Gd, Ho) 中的磁性基态，并探究稀土各向异性在4d-4f耦合体系中的作用。
-- **主要发现:** 发现Ba$\_3$HoRu$\_2$O$\_9$表现出多尺度不均匀磁性，而Ba$\_3$GdRu$\_2$O$\_9$则呈现相对均匀的反铁磁基态，表明稀土离子是调节磁性基态从均匀到复杂不均匀行为的关键参数。
-
----
-
-### [Electron binding by charge disorder surrounding gapped bilayer graphene](http://arxiv.org/abs/2610.12714v1)
-- **作者:** Jude McClay, Angelika Knothe, Igor Rozhansky, Vladimir Fal'ko
-- **研究目的:** 旨在研究间隙双层石墨烯（BLG）周围介电环境中的电荷无序如何通过将电子和空穴束缚到库仑中心来改变能带边缘态。
-- **主要发现:** 发现无论是hBN封装还是离子门控的BLG，单个远程电荷仅产生弱束缚态，且束缚能通常远小于BLG能隙，表明电荷无序不会产生深的中间能隙态。
-
----
-
-### [Improving the lower bound on the Laughlin gap: An SDP search](http://arxiv.org/abs/2610.12700v1)
-- **作者:** Qiang Gao
-- **研究目的:** 旨在通过半正定规划（SDP）搜索，提高球形费米子Laughlin谱隙猜想的下界。
-- **主要发现:** 将Fock空间不等式 $H\_Q^2\ge γH\_Q$ 中的常数 $γ$ 从 $0.0461673\ldots$ 提高到 $0.2190037845063196\ldots$，从而证明Laughlin态上方的能隙至少为 $1/5$。
-
----
-
-### [Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems](http://arxiv.org/abs/2610.12663v1)
-- **作者:** Jonas Völler, Grigorios Makris, Fabian Hassler, Stefan Wessel
-- **研究目的:** 旨在开发一种基于离散拉普拉斯算子谱的球形晶格离散化优化算法，以最小化连续多重态的分裂。
-- **主要发现:** 优化后的晶格能够恢复相互作用模型的旋转对称性，并准确再现三维Ising共形场论的主要标度维度，即使在仅使用自由粒子谱进行优化的情况下。
-
----
-
-### [Entropy Production in Mesoscopic Electronic Transport Beyond Weak-Coupling](http://arxiv.org/abs/2610.12652v1)
-- **作者:** Ivana R. A. C. Lucena, Caio H. Lewenkopf, Alexandre R. Rocha
-- **研究目的:** 旨在研究超越弱耦合机制的相干介观电子输运中熵产生的完整统计特性。
-- **主要发现:** 发现熵产生的累积量生成函数满足涨落对称性，与耦合强度无关，并且推导了弱耦合和强耦合极限下的闭合解析表达式，揭示了共振输运和相干费米子分配的独特特征。
-
----
-
-### [Search for free non-Abelian anyons in paired composite-fermion states](http://arxiv.org/abs/2610.12645v1)
-- **作者:** Mytraya Gattu, J. K. Jain
-- **研究目的:** 旨在利用部分子理论，在偶分母分数量子霍尔态中寻找自由的非阿贝尔任意子。
-- **主要发现:** 发现除了宽量子阱中的 $ν=1/2$ 态外，大多数配对复合费米子态的基本准粒子和准空穴会结合形成阿贝尔分子，从而掩盖了非阿贝尔编织统计。
-
----
-
-### [Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries](http://arxiv.org/abs/2610.12607v1)
-- **作者:** Hung-Hsuan Teh, Tokiro Numasawa
-- **研究目的:** 旨在研究由Lindblad动力学描述的耗散马约拉纳链的对称性和反常现象。
-- **主要发现:** 诊断出耗散马约拉纳链的对称代数保留了闭合马约拉纳链的模-$8$ 反常的晶格前兆，并揭示了开放量子系统固有的投影关系，最终构建了具有非可逆Kramers-Wannier对称性的Ising Lindbladian。
-
----
-
-### [Odd-parity surface magnetism in a Kondo insulator](http://arxiv.org/abs/2610.12573v1)
-- **作者:** Maxim Dzero, Brian M. Andersen
-- **研究目的:** 旨在建立拓扑Kondo绝缘体SmB$\_6$纳米线尖端与双共线反铁磁体Fe$\_{1+x}$Te之间自旋极化隧穿的理论，以解释实验观察到的磁性对比度符号反转现象。
-- **主要发现:** 发现SmB$\_6$表面d-f电子相互作用驱动了表面相变，使得Kondo杂化幅度的时间反演奇分量凝聚，从而在Dirac表面态中打开能隙，导致自旋极化电导在零偏压附近反转符号。
-
----
-
-### [Enhanced Coulomb pseudopotentials in high-pressure hydrides from first principles](http://arxiv.org/abs/2610.12563v1)
-- **作者:** Kieran Bozier, Chris J. Pickard
-- **研究目的:** 旨在通过第一性原理计算，研究高压氢化物中库仑参数 $μ$ 和赝势 $μ^*\_{\text{ME}}$，以评估其对超导临界温度 $T\_{\mathrm{c}}$ 的影响。
-- **主要发现:** 发现H$\_3$S、YSbH$\_6$和Mg$\_2$IrH$\_6$等氢化物由于费米能级处态密度 $N\_{\mathrm{F}}$ 较大而具有强的库仑排斥，导致 $μ^*\_{\text{ME}}$ 远高于传统范围，并显著抑制了 $T\_{\mathrm{c}}$。
-
----
-
-### [Flat-band quantum geometry from embedded quench dynamics](http://arxiv.org/abs/2610.12555v1)
-- **作者:** Ilia Komissarov, Daniel E. Sheehy, Ahana Chakraborty
-- **研究目的:** 旨在提出一种原位猝灭协议，通过原子晶格中的局部占据测量来探测平带量子几何。
-- **主要发现:** 证明了通过将一维平带晶格耦合到二维平带浴，浴能够选择性地移除色散激发，而紧凑局域态则被捕获，并且晚期占据模式直接编码了平带态之间的积分重叠，从而能够获取积分量子距离和积分平带量子度规。
-
----
-
-### [Frustrated Topological Orbital Magnetism](http://arxiv.org/abs/2610.12557v1)
-- **作者:** Sergio Garrido Bourkhaeva, Claudio Castelnovo, Wojciech J. Jankowski
-- **研究目的:** 旨在研究几何挫折与阿哈罗诺夫-玻姆磁通在三维空间中的相互作用，以揭示新的拓扑轨道磁性现象。
-- **主要发现:** 揭示了具有轨道磁偶极、四极和铁环形序的挫折拓扑轨道磁性，并证明由非阿贝尔拓扑节点线支撑的基态环化能够诱导可测量的电流诱导霍尔效应。
-
----
-
-### [Constructing Large and Structured Decoherence-Free Subspaces in Hybrid Quantum Systems](http://arxiv.org/abs/2610.12348v1)
-- **作者:** Catalin-Mihai Halati, Tony Jin, Roderich Moessner
-- **研究目的:** 旨在开发一个框架，用于在混合量子系统中构建具有非平凡结构的大型退相干自由子空间。
-- **主要发现:** 提出了一种基于量子物质与耗散玻色子模式耦合的方法，并利用李代数的表示理论，成功构建了具有指数级数量稳态的退相干自由子空间，这些子空间表现出长程动力学关联和体定律纠缠等复杂量子性质。
-
----
-
-### [True vs false Fermi surfaces in the Pseudogap regime and their transformation with doping and temperature in the Hubbard Model](http://arxiv.org/abs/2610.12339v1)
-- **作者:** Y. M. Vilk
-- **研究目的:** 旨在利用精确图解量子蒙特卡罗（DiagMC）和改进的两粒子自洽方法（TPSC+），研究Hubbard模型赝能隙区域中的真假费米面及其随掺杂和温度的演变。
-- **主要发现:** 区分了赝能隙区域中的真假费米面和零能量准粒子线，并揭示赝能隙是由临界热自旋涨落驱动的，导致费米面从真费米弧演变为空穴型和电子型假费米面。
-
----
-
-### [The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors](http://arxiv.org/abs/2610.12297v1)
-- **作者:** Katarina Kretschmer, Michael H. Eikerling, Tobias Binninger
-- **研究目的:** 旨在分析金红石型氧化物IrO$\_2$和RuO$\_2$中金属-氧键的强度，以深入理解它们在析氧反应（OER）中稳定性差异的电子起源。
-- **主要发现:** 通过比较电子结构，成功地利用晶体轨道衍生的电子描述符区分了金属-氧键中的共价和离子贡献，从而提供了理解两种氧化物稳定性差异的机制性见解。
-
----
-
-### [Transducing quantum-spin-ice correlations into Weyl Fermi-arc transport at a synthetic Kondo lattice interface](http://arxiv.org/abs/2610.12294v1)
-- **作者:** Tsung-Chi Wu, Michael Terilli, Christian Zaprianov, Eun Sang Choi, David Graf, Qinghua Zhang, Lin Gu, Mikhail Kareev
-- **研究目的:** 旨在在Weyl半金属Eu$\_2$Ir$\_2$O$\_7$和量子自旋冰候选材料Tb$\_2$Ti$\_2$O$\_7$之间实现合成Kondo晶格界面，并将量子自旋冰关联转化为Weyl费米弧输运。
-- **主要发现:** 实验证明量子自旋冰关联被印刻在Weyl费米弧输运上，在超低温下观察到从六重各向异性到十二重再回到六重各向异性的独特输运响应，这与界面处Weyl表面态与横向多极自由度的耦合一致。
-
----
-
-### [Accessing electronic entanglement via photo-assisted two-electron tomography](http://arxiv.org/abs/2610.12286v1)
-- **作者:** M. Paulet, G. Rebora, M. Bienioszek, G. Ménard, G. Fève, A. Feller, P. Degiovanni
-- **研究目的:** 旨在提出一种光辅助双电子层析成像协议，用于从直流电流和时间平均电流关联中重建量子相干性，以探测电子纠缠。
-- **主要发现:** 该协议能够揭示库仑耦合量子霍尔边缘通道中相互作用诱导的能量纠缠，并通过违反柯西-施瓦茨不等式的纠缠见证以及Wigner函数负性来识别这种纠缠。
-
----
-
-### [Theory of the CH$\_\text{S}^-$ Defect in MoS$\_2$ Confirming the Origin of the Quantum Emission](http://arxiv.org/abs/2610.12283v1)
-- **作者:** Chanaprom Cholsuk, Tobias Vogl
-- **研究目的:** 旨在为MoS$\_2$中的负电荷CH$\_\mathrm{S}^{-}$缺陷建立一个全面的理论描述，并系统研究其光物理性质，以确认其量子发射的起源。
-- **主要发现:** 发现MoS$\_2$/hBN异质结构模型能够很好地再现实验中的光致发光线形，证实了CH$\_\mathrm{S}^{-}$缺陷是量子发射的来源，并揭示了相邻层在决定量子发射器性质中的关键作用。
-
----
-
-### [A Universal Polybromide Melt Strategy for the Direct Conversion of Metals into Optoelectronic-Grade Bromide Perovskites](http://arxiv.org/abs/2610.12278v1)
-- **作者:** Arindam Mondal, Mark Baranov, Lonia R. Friedlander, Mariela J. Pavan, Kirill Sobolev Yevgeny Rakita
-- **研究目的:** 旨在开发一种通用的、单步、无有机溶剂的合成平台，利用甲基溴化物熔体（PBM）将元素金属薄膜直接转化为光电级溴化物钙钛矿。
-- **主要发现:** 成功展示了PBM能够将Pb、Sn、Au和Cu等多种元素金属直接转化为相应的溴化物钙钛矿相，并证明可以通过调整PBM的化学活性来抑制过氧化，从而在环境条件下形成高质量的MASnBr$\_3$薄膜。
-
----
-### [Pressure-induced double-dome superconductivity in doped kagome metal Cs(V0.86Ta0.14)3Sb5 without charge density wave](http://arxiv.org/abs/2610.12257v1)
--   **作者:** Haochen Sun, Jing Wang, Deng Hu, Zhiwei Wang, Shiyan Li
--   **研究目的:** 研究掺杂Ta的Cs(V$\_{0.86}$Ta$\_{0.14}$)$\_3$Sb$\_5$在高达48 GPa高压下的超导电性，尤其是在没有电荷密度波(CDW)序的情况下，其超导转变温度($T\_\mathrm{c}$)如何演变。
--   **主要发现:** 该Ta掺杂化合物在压力下表现出双圆顶超导电性，即$T\_\mathrm{c}$先下降后上升再下降，随后再次上升，这表明压力诱导的双圆顶超导性是V基kagome超导体固有的特性，即使在没有长程CDW序的情况下也存在。
-
----
-
-### [Measurement-induced enhancement of the $X$-parity lifetime in a Majorana tetron](http://arxiv.org/abs/2610.12223v1)
--   **作者:** Katharina Laubscher, Jay D. Sau, Sankar Das Sarma
--   **研究目的:** 理论研究马约拉纳四子（Majorana tetron）器件中，在辅助读出点量子电容测量下，线间$X$-宇称寿命如何受到静电噪声的影响。
--   **主要发现:** 测量点耦合本身可以通过产生能量分裂来显著改变宇称动力学，将噪声诱导的跃迁转移到有限频率，从而稳定测量态对抗低频涨落，使得在连续读出下测得的$X$-宇称切换寿命远超孤立马约拉纳四子量子比特的固有闲置$T\_2^*$相干时间。
-
----
-
-### [Orbital magnetic susceptibility and de Haas-van Alphen effect of a flat band from quantum geometry](http://arxiv.org/abs/2610.12193v1)
--   **作者:** Ethan Huecker, Mengxing Ye, Yuxuan Wang
--   **研究目的:** 发展一种理论来描述平带在磁场下的轨道磁响应和德哈斯-范阿尔芬效应，因为标准理论不适用于零速度、发散有效质量和无费米面的平带。
--   **主要发现:** 磁场会在平带中产生有效的色散，其轨道响应纯粹是几何的，并且在化学势固定在平带时，$\mathcal{M}=0$等高线成为一个涌现的费米面，导致修改后的Lifshitz-Kosevich公式，其振荡相位由涌现费米面周围的贝里相位和$\mathcal{X}$共同决定。
-
----
-
-### [Specialized machine learning force fields for materials dynamics](http://arxiv.org/abs/2610.12151v2)
--   **作者:** Yue Wu, Haoyu Wan, Yuan Tian, Deng Pan, Mingwei Chen
--   **研究目的:** 综述并评估物理驱动的专业化如何扩展机器学习原子间势（MLIPs）在复杂材料动力学系统中的适用性，解决其在处理非平衡态、表示偏差和计算扩展性方面的挑战。
--   **主要发现:** 通过物理驱动的专业化，MLIPs可以克服在复杂材料动力学中遇到的挑战，并通过对高度应变构型欠采样、高阶消息传递架构的计算开销以及非局部相互作用的必要性进行权衡，从而实现对电化学界面、组分波动开放系统、多相演化和大规模断裂等复杂应用场景的准确模拟。
-
----
-
-### [Direct Quantification of Molecular Helicity-Dependent Effective Magnetic Fields in Chiral Polypeptide/Ferromagnet Heterostructures](http://arxiv.org/abs/2610.12145v1)
--   **作者:** Theo Balland, Buddhika Hondamuni, Shira Yochelis, Meital Ozeri, Simon Sochiera, Angela Wittmann, Yossi Paltiel, Dmitry Budker, Jonas Fransson, Mathias Kläui
--   **研究目的:** 直接量化手性分子（手性多肽）吸附在铁磁层上时，其螺旋性依赖的有效磁场，并揭示这种手性诱导效应的起源和长程性质。
--   **主要发现:** 手性多肽自组装单层可以通过对映异构体依赖的有效磁场作用于铁磁多层，该磁场可以通过绝缘层由手性声子介导，且其符号随对映异构体反转并与对映异构体过量相关，从而提供了分子手性与杂化异质结构中磁响应之间直接且定量的联系。
-
----
-
-### [Dynamical many-body control of high harmonic generation in a Mott insulator](http://arxiv.org/abs/2610.12136v1)
--   **作者:** Mingyao Guo, Ryo Noguchi, Mohammad Muntasir Hassan, Steven J. Gomez Alvarado, Reina M. Gomez, Yao-Jui Chan, Yu-Chieh Wen, Stephen D. Wilson, Yao Wang, David Hsieh
--   **研究目的:** 在Mott绝缘体La$\_2$CuO$\_4$中研究高次谐波产生（HHG）现象，以探究强关联材料中电子激发的动力学以及多体相互作用对非线性光学响应的影响。
--   **主要发现:** 在La$\_2$CuO$\_4$中观察到高达23阶的HHG，其4 eV的截止能量独立于驱动场强度，揭示了Hubbard带定义的内在能量尺度；光掺杂会引发多体流形在临界激发密度以上发生根本性重组，从而重整化带曲率并抑制非线性带内电流，直接将多体带重构的特征印刻在谐波发射上。
-
----
-
-### [Field-resolved hierarchy of superconducting energy gaps in PdTe](http://arxiv.org/abs/2610.12075v1)
--   **作者:** Sangyun Lee, A. M. Donald, D. Duong, S. Huang, R. Gazizulin, C. Huan, Rongying Jin
--   **研究目的:** 利用低温软点接触光谱技术研究PdTe超导态中多个超导能隙尺度在磁场下的演变，以区分多带、各向异性或表面敏感的超导响应。
--   **主要发现:** PdTe中存在两个特征超导能隙尺度（约0.5和1.1 meV），它们在升温时向同一超导转变温度$T\_\mathrm{c}$逐渐抑制，但在磁场下表现出不同的特征场（约4.5和7.5 kG），揭示了PdTe中超导能隙尺度的场分辨层次结构，并指示了具有不同磁场鲁棒性的超导响应。
-
----
-
-### [Strange-metal behavior in correlated molecular conductors](http://arxiv.org/abs/2610.12044v1)
--   **作者:** Savita Priya, Maxim Wenzel, Christian Prange, Bertold Rasche, Christian Sindlinger, Takuya Kobayashi, Hiromi Taniguchi, Dita Puspita Sari, Yasuyuki Ishii, Kazuya Miyagawa, Kazushi Kanoda, Simone Fratini, Martin Dressel
--   **研究目的:** 研究$κ$-(BEDT-TTF)$\_4$Hg$\_{3-δ}X\_8$ ($X$ = Br, Cl) 盐的电输运和光学性质，以理解其在关联驱动的Mott转变之外表现出的“奇异金属”行为。
--   **主要发现:** 这些具有空间调制Hg阴离子层的化合物表现出$ρ(T)\propto T$的电阻率依赖和$\vert\hatσ (ω)\vert \propto ω^{-0.7}$的频率依赖电导率，这是“奇异金属”的典型特征，并且这种响应仅出现在具有不公度阴离子层的系统中，建立了与大尺度空间调制之间的直接联系。
-
----
-
-### [Emergent gold-induced interfacial magnetism in monolayer FePS$\_3$](http://arxiv.org/abs/2610.12041v1)
--   **作者:** Giuseppe Buccoliero, Anita Polli, Marli dos Reis Cantarino, Rachel Nickel, Aloïs Arrighi, Roberto Sant, Tristan Riccardi, Valérie Reita, Nedjma Bendiab, Laëtitia Marty, Kurt Kummer, Johann Coraux, Nicholas B. Brookes
--   **研究目的:** 探究在二维反铁磁体FePS$\_3$与超薄金膜形成的杂化异质结构中，金膜如何通过邻近效应改变FePS$\_3$的磁性基态。
--   **主要发现:** 金衬底显著改变了二维磁体的磁性性质，在界面处诱导了可观的磁矩，表现为单层FePS$\_3$在金上X射线磁圆二色性增强三倍，轨道-自旋矩比降低约40%，这归因于界面电荷转移和Fe 3d-Au杂化，并随层数增加而衰减。
-
----
-
-### [Symmetry-Dependent Polarity Reversal of Bulk Spin-Orbit Torque in Single-Layer MnCoGa](http://arxiv.org/abs/2610.12031v1)
--   **作者:** Rongkun Han, Mingsong Zhang, Dahai Wei, Yuan Lu, Wenxu Zhang, Jianhua Zhao
--   **研究目的:** 在单层Mn$\_{1.6}$Co$\_{1.4}$Ga (MCG) 赫斯勒合金中实现体自旋轨道矩（SOT），并研究晶格应变如何控制SOT极性的反转。
--   **主要发现:** 在MCG单层中实现了体SOT驱动的磁化翻转，并且在强应变超薄膜和较厚膜之间SOT极性发生反转，这并非源于自旋霍尔电导率符号的变化，而是由于晶格畸变引起的对称性破缺改变了自旋电流向净体SOT的转换，从而控制了其极性。
-
----
-
-### [Field-Free Reconfigurable Spin Logic in Compositionally Graded MnxCoAl Layer](http://arxiv.org/abs/2610.12018v1)
--   **作者:** Haohang Cheng, Pengju Wang, Hongrui Qin, Rongkun Han, Dong Pan, Dahai Wei, Jianhua Zhao
--   **研究目的:** 研究垂直组分梯度Mn$\_x$CoAl/Pt异质结构中的无场自旋轨道矩（SOT）翻转和可重构自旋逻辑功能。
--   **主要发现:** 组分梯度Mn$\_{1.8-2.5}$CoAl器件在零外部磁场下表现出确定性的SOT翻转和累积多态翻转，并且通过电流脉冲的幅值、极性和序列的调整，该器件可以在二元和多级翻转模式之间切换，从而在同一霍尔棒器件中无需外部磁场实现AND、OR、NAND和NOR布尔运算。
-
----
-
-### [Multifunctional synaptic learning and neuromorphic computing using crystalline TiO$\_x$/NiO$\_x$ heterojunction-based memory devices](http://arxiv.org/abs/2610.11992v1)
--   **作者:** Dip Manna, Koushik Mondal, Subhajit Karmakar, Pawan Kumar Ojha, Sourav Roy, Biswarup Satpati, Prasanta Karmakar, Supratic Chakraborty
--   **研究目的:** 旨在利用Ag/TiO$\_x$/NiO$\_x$/p$^{++}$-Si忆阻器结构，通过研究其在直流和脉冲偏压下的不同输运特性，模拟生物突触的多种功能。
--   **主要发现:** 晶态NiO$\_x$/TiO$\_x$异质结提供了稳定的双极性、免成型、非易失性电阻开关特性，具有渐进的置位和复位功能，并成功实现了经典的巴甫洛夫学习、人工伤害感受器和莫尔斯电码检测，在MNIST手写数字识别中达到近95%的准确率。
-
----
-
-### [Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice](http://arxiv.org/abs/2610.11982v1)
--   **作者:** Sidhartha Chatterjee, Andreas Haller, Peter P. Orth, Thomas L. Schmidt
--   **研究目的:** 探究量子几何对一维量子自旋链中磁振波包运动的影响，特别是在手性孤子晶格中，辛量子度规如何驱动磁振动力学。
--   **主要发现:** 磁振波包的速度获得了一个与辛量子度规动量导数成正比的几何贡献，在近乎平坦的能带中，该贡献主导了传统的群速度，导致实时有界轨迹，其相空间面积由辛量子度规决定。
-
----
-
-### [Homogeneous Charge Relaxation in Organic Mixed Ionic-Electronic Conductors](http://arxiv.org/abs/2610.11977v1)
--   **作者:** Silan Zhang, Scott T. Keene, Junfu Tian, Georgina E. Lindop, Simon M. Fairclough, Zhengkang Qu, Xian Wei Chua, Christopher Slaughter, Christina J. Kousseff, Caterina Ducati, Iain McCulloch, Henning Sirringhaus, Akshay Rao, George G. Malliaras
--   **研究目的:** 研究有机混合离子-电子导体（OMIECs）在去除偏压后，电荷在水中的弛豫方式，以理解其存储状态的持久性。
--   **主要发现:** 在偏压下，电荷以氧化还原前沿的形式移动；但在去除偏压后，电荷在整个通道中均匀弛豫，这表明膨胀产生了贯穿体材料的连接水富集通道，这些通道加速了离子运动，但也导致存储电荷泄漏。
-
----
-
-### [Comprehensive study of massively overlapping cascades in common elemental metals](http://arxiv.org/abs/2610.11910v1)
--   **作者:** Aslak Fellman, Jesper Byggmästar, Fredric Granberg
--   **研究目的:** 对21种常见元素金属进行大规模重叠级联模拟，以研究辐照引起的缺陷形成和演变，并评估原子间势选择对结果的影响。
--   **主要发现:** 大规模重叠级联模拟的结果对原子间势的选择非常敏感，并且不同晶体结构（FCC、BCC、HCP）的金属在辐照下形成不同的位错结构，例如FCC金属形成堆垛层错四面体，BCC材料形成间隙型位错，HCP材料形成复杂的a型位错。
-
----
-
-### [Beyond special quasirandom structures: free energies from energy cumulants](http://arxiv.org/abs/2610.11882v1)
--   **作者:** Yann L. Müller, Anirudh Raju Natarajan
--   **研究目的:** 提出一种超越特殊准随机结构（SQS）方法的新算法，通过能量累积量来精确计算无序相的有限温度自由能，从而更好地预测材料的相稳定性。
--   **主要发现:** 自由能可以通过能量累积量进行无限展开，通过加入第二个累积量可以将自由能误差降低约一个数量级，该方法能够预测具有有序-无序转变的相图、缺陷浓度和短程有序，并可用于筛选具有特定性能的无序相。
-
----
-
-### [Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides](http://arxiv.org/abs/2610.11878v1)
--   **作者:** Miroslav Lebeda, Jan Drahokoupil, Šimon Svoboda, Petr Vlčák
--   **研究目的:** 评估通用机器学习原子间势（uMLIPs）在预测二元和高熵难熔碳化物温度依赖弹性方面的准确性，并与从头算分子动力学（AIMD）参考数据进行基准测试。
--   **主要发现:** MACE-MH-1模型在整体平均绝对百分比误差（5.7%）方面表现最佳，并且MACE-MH-1和DPA4-Mini在热软化方面重现最准确，表明uMLIPs可以有效预测难熔碳化物的有限温度弹性，且对高熵碳化物的准确性与二元碳化物相当。
-
----
-
-### [Tunable Ultrastrong Magnon-Magnon Coupling and Squeezed States in a Triaxial Van der Waals Antiferromagnet](http://arxiv.org/abs/2610.11859v1)
--   **作者:** Xiao Xiao, Zishuang Li, Zui Tao, Lina Chen, Ping Liu, Shuai Zhang, Haozhe Wang, Yong Pu, Ronghua Liu
--   **研究目的:** 在三轴范德华反铁磁体CrPS$\_4$中实现和量化手性磁振模式之间的超强磁振-磁振耦合（USC），并探索其在量子磁振学中的应用。
--   **主要发现:** 在CrPS$\_4$中实现了手性磁振模式之间可调谐的超强耦合，归一化耦合比达到$g/f\_g \sim 0.41$，进入USC区域，并且建立了将USC参数与可测量的量子现象（挤压磁振真空态）联系起来的完整协议，模拟显示出高达$\sim 9.7$ dB的挤压因子。
-
----
-
-### [Magnon band splitting without altermagnetism in CuF2](http://arxiv.org/abs/2610.11838v1)
--   **作者:** Ioannis Rousochatzakis, Oleg Janson, Alexander A. Tsirlin
--   **研究目的:** 通过计算和实验相结合的方式，研究金红石型材料CuF$\_2$的磁性，以确定其是否为交错磁体（altermagnet），并解释其磁振能带分裂的起源。
--   **主要发现:** CuF$\_2$在实验单斜晶体结构中，虽然具有交错磁体对称性，但其磁振能带分裂并非源于交错磁性，而是由异常强的Dzyaloshinskii-Moriya相互作用引起，该相互作用导致自旋倾斜并促进磁振能带分裂，但这些能带保持非手性。
-
----
-
-### [Solution-Based Synthesis of Fe-Co-Ni Prussian Blue Analogue Powders: A Comparative Structural, Spectroscopic and Thermal Study](http://arxiv.org/abs/2610.11830v1)
--   **作者:** Larissa de O. Garcia, Lindiomar Borges de Avila, Mengmeng Wang, Yann Garcia, Christian K. Muller, Flavio Abreu Araujo
--   **研究目的:** 通过无添加剂水相共沉淀法合成Fe、Co和Ni普鲁士蓝类似物（PBAs）粉末，并对其结构、光谱和热学性质进行系统比较研究。
--   **主要发现:** 所有合成的PBA粉末均表现出特征性的立方氰化物桥接PBA骨架，但Fe-PBA、Co-PBA和Ni-PBA在钾含量、低温质量损失和C$\equiv$N伸缩带位移上存在差异，表明前体氧化态和洗涤效率也会影响所得粉末的组成和热响应，而不仅仅是过渡金属的种类。
-
----
-
-### [Photoinduced Odd- and Mixed-Parity Magnetism in Collinear Antiferromagnets](http://arxiv.org/abs/2610.11807v1)
--   **作者:** Jin-Yang Li, Ruo-Yu Ning, Ying Zhang, Qiu-Qiu Li, Si Li, Wen-Li Yang
--   **研究目的:** 探索在传统共线反铁磁体中，如何通过光照诱导奇宇称和混合宇称磁性，超越现有交错磁性（altermagnetism）的偶宇称自旋分裂。
--   **主要发现:** 圆偏振光（CPL）可在单层CoS和CoSe中诱导奇宇称$f$-波自旋分裂，椭圆偏振光（EPL）诱导奇宇称$p$-波自旋分裂，而结合电场可进一步产生混合宇称形式的自旋分裂，并且光诱导的$\mathcal{PT}$对称性破缺与自旋轨道耦合共同导致有限的反常霍尔响应。
-
----
-
-### [Optical absorption spectra from the $GW$-Bethe-Salpeter framework for thousands of atoms](http://arxiv.org/abs/2610.11767v1)
--   **作者:** Maximilian Graml, Ritaj Tyagi, Rémi Pasquier, Štěpán Marek, Jan Wilhelm
--   **研究目的:** 开发一种高效的$GW$-Bethe-Salpeter方程（$GW$-BSE）框架，使其能够计算包含数千个原子的大型和无序系统的光学吸收光谱。
--   **主要发现:** 结合实时传播、以原子为中心的基组和局部优化的实空间恒等式解析，该$GW$-BSE框架的每个传播步骤的计算成本与系统大小呈二次方关系，使其能够计算包含4616个原子的纳米石墨烯的吸收光谱，为大型无序系统的光学性质计算开辟了道路。
-
----
-
-### [Can end-to-end learning from raw electronic structure explain magnetic anisotropy?](http://arxiv.org/abs/2610.11742v1)
--   **作者:** Rafał Topolnicki, Jan Navrátil, Piotr Błoński
--   **研究目的:** 探究从原始电子结构进行端到端机器学习是否能解释磁各向异性，并评估不同机器学习模型在学习电子依赖性方面的物理相关性。
--   **主要发现:** 尽管不同机器学习模型（如双向门控循环单元和一维卷积神经网络）在域内准确性相当，但它们学习到的光谱依赖性仅部分重叠，且Shapley可加解释识别出的共享光谱特征可与二阶微扰理论一致的自旋轨道耦合路径相关联，表明端到端学习可以识别磁各向异性的候选电子特征，但其微观解释需要多方面证据的汇聚。
-
----
-
-### [A General Algorithm for Minimal Uncoupled Stress--Strain Calculations of Elastic Constant](http://arxiv.org/abs/2610.11733v1)
--   **作者:** S. I. Simak, Utkarsh Singh
--   **研究目的:** 开发一种通用算法，用于构建从第一性原理应力-应变计算中提取二阶弹性常数所需的最小应变构型数量，且这些常数之间没有代数耦合。
--   **主要发现:** 该算法基于对称性简化弹性刚度矩阵的稀疏结构，能够算法性地生成允许的应变模式，为所有弹性对称类型导出了明确的应变集，并在已知高效应变集的情况下重现了它们，在其他情况下提供了改进的方案，且其公式可扩展到有限温度下的系综平均热力学应力计算。
-
----
-
-### [Interlayer ferromagnetic order revealed through pressure-enhanced interlayer exchange coupling in Fe$\_3$GaTe$\_2$](http://arxiv.org/abs/2610.11731v1)
--   **作者:** Riku Iimori, Takashi Kimura
--   **研究目的:** 通过静水压选择性调节Fe$\_3$GaTe$\_2$单晶的层间耦合，研究其层间铁磁序的形成及其与层间交换耦合的关系。
--   **主要发现:** 识别出两个与居里温度以下相关的特征温度$T\_{\rm inf1}$和$T\_{\rm inf2}$，它们具有相反的压力依赖性，其中$T\_{\rm inf2}$反映了层间铁磁序的形成，并与层间交换相互作用的压力增强密切相关，表明层间磁序的出现可以从微观层间交换耦合中预测。
-
----
-### [Electric and Heat Transport in One-Dimensional SNS Junctions with Energy-Dependent Transmission](http://arxiv.org/abs/2610.11713v1)
-- **作者:** Kai Tsutsumi, Shun Uchino
-- **研究目的:** 调查一维超导体-正常金属-超导体 (SNS) 结中，在化学势和温度差异下，与相位无关的直流电和热流，并考虑传输的能量依赖性。
-- **主要发现:** 在低偏压下，两种电流都表现出与超导能隙和多安德烈夫反射相关的非线性特征，且其对温度差异的响应显著依赖于传输剖面，其中量子点接触剖面在小有限偏压下产生显著的非线性电响应。
-
----
-
-### [Predicting plasmonic pole representations of complex dielectric spectra using convolutional neural networks](http://arxiv.org/abs/2610.11698v1)
-- **作者:** Dario A. Leon
-- **研究目的:** 开发一个卷积神经网络框架，用于将介电谱直接反演为其潜在的等离子体极点结构，利用多极Padé表示。
-- **主要发现:** 该网络完全通过分析多极Padé表达式生成的合成光谱进行训练，能够泛化到复杂的第一性原理和实验介电谱，以高精度在单次前向传播中提取潜在的极点参数，提供了一种高效且鲁棒的传统非线性拟合替代方案。
-
----
-
-### [Mode-selective electron-phonon coupling drives charge density waves in the kagome metals YRu$\_3$Si$\_2$ and LaRu$\_3$Si$\_2$](http://arxiv.org/abs/2610.11689v1)
-- **作者:** Wenqian Tu, Run Lv, Dingfu Shao, Yuping Sun, Wenjian Lu
-- **研究目的:** 识别在kagome金属YRu$\_3$Si$\_2$和LaRu$\_3$Si$\_2$中，导致其创纪录高电荷密度波 (CDW) 转变温度的微观机制。
-- **主要发现:** CDW是由模式选择性电子-声子耦合驱动的，其中Ru面外声子模式耦合Ru-$d\_{xz}/d\_{yz}$和Si-$p\_x/p\_y$轨道，且声子线宽在$Q\_{\mathrm{CDW}}$处尖锐达到峰值，而声子非谐性则导致CDW熔化。
-
----
-
-### [Robust skyrmion nucleation and transport via composition gradient in rare earth-transition metal ferrimagnets](http://arxiv.org/abs/2610.11682v1)
-- **作者:** Pietro Diona, Luca Maranzana, Sergey Artyukhin
-- **研究目的:** 演示通过稀土-过渡金属铁磁体中的空间成分梯度，实现确定性斯格明子成核和受控传输的方法。
-- **主要发现:** 空间成分梯度通过跨越磁化补偿点实现斯格明子的确定性成核，并通过在自旋角动量补偿点处驱动斯格明子实现高速且斯格明子霍尔效应消失的受控传输。
-
----
-
-### [Epitaxial growth of WO3 on r-plane sapphire by hot-filament metal-oxide deposition using CO2 as a precursor](http://arxiv.org/abs/2610.11654v1)
-- **作者:** Laurent Souqui, Lewis J. Adams, Andreas Tsampanakis, David Rehnlund Maibach, Per Eklund
-- **研究目的:** 演示使用热丝金属氧化物沉积法，以CO$\_2$作为前驱体，在r面蓝宝石上外延生长WO$\_3$薄膜。
-- **主要发现:** 成功地以0.25 nm/min的低生长速率获得了WO$\_3$外延薄膜，其光学性能显示在可见光谱范围内透明，并在3 eV以上具有高吸收率。
-
----
-
-### [The role of density in shaping electron trapping in amorphous silicon nitride](http://arxiv.org/abs/2610.11643v1)
-- **作者:** Jonathon Cottom, Emilia Olsson
-- **研究目的:** 探究在非晶硅氮化物中，密度如何独立于化学计量学，影响电子捕获机制。
-- **主要发现:** 在固定化学计量学条件下，密度通过孔隙率和前体可用性控制捕获混合物，较低密度会增加可及空隙分数和K中心捕获，同时减少诱导K和极化子捕获。
-
----
-
-### [Dielectric constant of holographic insulator from quantum geometry](http://arxiv.org/abs/2610.11635v1)
-- **作者:** Debabrata Ghorai, Taewon Yuk, Sang-Jin Sin
-- **研究目的:** 通过全息费米子的赝标量相互作用实现绝缘态，并从基态的量子几何学研究全息绝缘体的介电特性。
-- **主要发现:** 全息绝缘体的介电常数可以通过从费米子格林函数提取有效哈密顿量，然后推导量子度规和贝里曲率，并最终从电导率的虚部计算得到。
-
----
-
-### [Probing $L\_z$ Orbital Angular Momentum via Wavefunction-Interference-Induced Charge Order](http://arxiv.org/abs/2610.11633v1)
-- **作者:** Jonas Erhardt, Sven Schemmelmann, Fabian Schöttke, Cedric Schmitt, Lukas Gehrig, Bing Liu, Domenico Di Sante, Giorgio Sangiovanni, Jörg Schäfer, Peter Krüger, Markus Donath, Ralph Claessen
-- **研究目的:** 演示一种利用扫描隧道显微镜在三角形原子单层中绘制$L\_z$轨道角动量 (OAM) 特征的实空间方法。
-- **主要发现:** 该方法利用$L\_z$轨道相位和布洛赫相位引起的干涉效应，将局部态密度 (LDOS) 极大值转移到原子间的不同Wyckoff位置，从而将$L\_z$信息编码到特征性实空间LDOS图案中。
-
----
-
-### [Achieving room temperature plasticity in TiO2 ceramics by flash processing](http://arxiv.org/abs/2610.11587v1)
-- **作者:** Xinghua Su, Zhenyu Li, Xufei Fang, Wenjun Lu, Mengyao Wang, Peng Zhao
-- **研究目的:** 报告一种基于电场和热场耦合的闪速处理 (FP) 方法，以显著提高TiO$\_2$陶瓷的室温塑性。
-- **主要发现:** 闪速处理方法显著提高了TiO$\_2$陶瓷的室温塑性，在微柱压缩中实现了15.4%的大塑性压缩应变，这归因于加载过程中堆垛层错和孪晶界的增殖，可能由FP方法引入的高浓度氧空位辅助。
-
----
-
-### [Multipolar fluctuations in localized $4f^2$-electron systems from dynamical mean-field theory: application to $\mathrm{PrCdNi}\_4$](http://arxiv.org/abs/2610.11562v1)
-- **作者:** Koki Numa, Junya Otsuki
-- **研究目的:** 将基于密度泛函理论结合动力学平均场理论的多极涨落分析从$4f^1$-电子系统扩展到$4f^2$-电子系统，并将其应用于$\mathrm{PrCdNi}\_4$。
-- **主要发现:** 发展了一种适用于一般$4f^n$-电子系统的形式论，并预测$\mathrm{PrCdNi}\_4$中存在由最近邻和第四近邻相互作用竞争驱动的$\boldsymbol{q}=(2π,π,0)$处的$(3z^2-r^2)$型反铁四极序。
-
----
-
-### [Demonstration of ultrafast coherent sub-picosecond magnon pulses](http://arxiv.org/abs/2610.11550v1)
-- **作者:** Peter Kubaščík, Miina Leiviskä, Martin Bušina, Zdenek Kašpar, Katharina Müller, Jonathan Mak, Monika Scheufele, Gal Lemut, Jose Solano, Oliver Franke, Rostislav Matuška, Jiří Jechumtál, Eva Schmorranzerová, Petr Němec, Petr Kužel, Tobias Kampfrath, Piet W. Brouwer, Matthias Opel, Stephan Geprägs, Matthias Althammer, Tomáš Jungwirth, Helena Reichlova, Lukáš Nádvorník
-- **研究目的:** 演示在反铁磁绝缘体$α$-Fe$\_2$O$\_3$（赤铁矿）中，利用宽带太赫兹自旋轨道转矩，发射超快相干的亚皮秒马格农脉冲。
-- **主要发现:** 在$α$-Fe$\_2$O$\_3$中成功发射了0.4皮秒的马格农脉冲，这些脉冲以23 nm/ps的恒定速度弹道式、相干且非色散地传播，传输角动量并在160 nm的距离内保持其时间波形。
-
----
-
-### [AtomWorld-Mirror: Macro-Step World Modeling of Critical Evolution Backbones for Materials Dynamics](http://arxiv.org/abs/2610.11527v1)
-- **作者:** Ziming Pan, Ruge Zhang, Haozhi Han, Junkai Zhou, Xingyuan Chen, Yifeng Chen, Yunquan Zhang, Ting Cao, Yunxin Liu, Kun Li
-- **研究目的:** 提出AtomWorld-Mirror，一个时间感知的宏观步长世界模型，用于原子系统的关键演化骨架，以解决原子模拟中长期演化的分辨率瓶颈。
-- **主要发现:** AtomWorld-Mirror将短微观事件片段提炼为关键状态之间物理可达的转变，通过潜在宏观步长动力学共同预测稀疏结构编辑和累积物理时间，在五种原子系统中实现了比逐事件模拟快$10^3$到$10^4$倍的速度提升。
-
----
-
-### [Effects of chlorine substitution on the magneto-optical properties of CrSBr](http://arxiv.org/abs/2610.11503v1)
-- **作者:** Z. Śnioch, R. Komar, M. Kuna, M. Raczyński, K. Mosina, A. Söll, Z. Sofer, K. Wohlfeld, P. Kossacki, T. Kazimierczuk
-- **研究目的:** 系统研究氯取代对范德华层状半导体CrSBr磁光性质的影响。
-- **主要发现:** 即使在$x=56\%$的取代水平下，$\mathrm{CrSBr\_{1-x}Cl\_{x}}$材料仍表现出与纯CrSBr晶体相同的清晰磁光耦合，且相关参数值随取代水平平滑变化，为该二维磁性材料家族提供了有前景的可调性。
-
----
-
-### [Topological Superradiant Universality Classes in Cavity-Mediated Spin Chains](http://arxiv.org/abs/2610.11495v1)
-- **作者:** Yunhao Liu, Sheng Yang, Mingyuan Chen, Xue-Jia Yu
-- **研究目的:** 揭示一类新型的超辐射临界性，其在拓扑上与先前已知的超辐射跃迁不同，存在于腔介导的自旋链中。
-- **主要发现:** 在腔介导的簇-伊辛链中发现了一种拓扑超辐射临界性，其特征是鲁棒的对称性保护边缘简并，且在拓扑上与传统超辐射跃迁不同，尽管其局部体临界性质无法区分。
-
----
-
-### [Laser fragmentation in liquid - constructing a generic reaction map](http://arxiv.org/abs/2610.11494v1)
-- **作者:** Anton Plech, Yogesh Pokhrel, Meike Tack, Matteo Levantino, Sven Reichenberger
-- **研究目的:** 构建一个通用的反应图，用于研究脉冲激光照射下液体中吸收性胶体光激发后的热和非热耗散通道。
-- **主要发现:** 通过超快原位X射线散射方法，构建了金胶体在水中被皮秒激光脉冲激发后的反应图，量化了晶格温度、晶体分数、颗粒尺寸和水结构响应，从而明确了加热、颗粒熔化、水泡形成以及最终颗粒碎裂形成纳米团簇的过程。
-
----
-
-### [From band reconstruction to Bogoliubov dispersion: How dz2-band enhances iron-based superconductivity](http://arxiv.org/abs/2610.11484v1)
-- **作者:** Jingming Yan, Shendong Su, Guihao Jia, Yucong Peng, Xuanyu Long, Zheng Liu, Pei Ouyang, Qi-Kun Xue, Wei Li
-- **研究目的:** 证明费米能级以下深层$d\_{z^2}$能带可以增强铁基超导体的超导配对强度。
-- **主要发现:** 通过扫描隧道显微镜机械改变铁基超导体的晶格，观察到深层$d\_{z^2}$能带相关特征向上移动，导致与费米能级处主要超导能带杂化，并通过准粒子干涉成像可视化了这种能带杂化和由此增强的超导能隙。
-
----
-
-### [Generation, Accumulation, and Utilization of Data in the Automatically Controlled End-Station of a Soft X-ray Beamline](http://arxiv.org/abs/2610.11476v1)
-- **作者:** Yasunobu Ando, Masashige Miyamoto, Keita Hiromori, Takeru Nakashima, Masafumi Horio, Masato Kotsugi, Iwao Matsuda
-- **研究目的:** 提出一个以数据为中心的研究框架，该框架在一个软X射线光束线的自动控制末端站中，将数据生成、积累和利用整合到连续的工作流中。
-- **主要发现:** 开发了一个整合PIONEER系统、OMNES和ML分析的数据中心研究框架，实现了空间分辨光谱数据的自动化生成、基于因果关系的元数据管理以及后续的ML处理，为AI辅助材料探索提供了稳健的工作流。
-
----
-
-### [Time-Domain Analysis of Surface Acoustic Wave Magnetoelectric Sensors](http://arxiv.org/abs/2610.11421v1)
-- **作者:** Mohsen Samadi, Henrik Wolframm, Felix Weisheit, Dirk Meyners, Eckhard Quandt, Michael Höft, Martina Gerken
-- **研究目的:** 利用互补的数值和实验方法，研究基于多层Love波延迟线的磁电表面声波 (SAW) 传感器的时域传播特性。
-- **主要发现:** 时域分析与频域分析相结合，成功地表征了SAW传感器的瞬态传播行为，模拟和实验结果在延迟时间和群速度方面表现出良好的一致性，并证实了Love波在多层结构中的色散现象。
-
----
-
-### [Autocorrelation-based beam shape optimization in scanning electron microscopy](http://arxiv.org/abs/2610.11414v1)
-- **作者:** Rebecca Guan, Andreas Werbrouck, Matthew M. Maschmann, Matthias J Young
-- **研究目的:** 开发一种基于捕获图像自相关性的算法，以自动聚焦和散光校正扫描电子显微镜。
-- **主要发现:** 该自相关算法能够成功优化扫描电子显微镜的扫描参数（工作距离和散光校正），通过近似当前光束形状，有效地在不同放大倍率下聚焦各种形貌。
-
----
-
-### [Magnonic cavity-enhanced quantum magnetometry with nitrogen-vacancy centre ensembles](http://arxiv.org/abs/2610.11350v1)
-- **作者:** Nikhil Kumar
-- **研究目的:** 提出一种基于一维YIG/CoFeB磁振晶体构建的芯片级氮空位 (NV) 磁力计，以实现增强的量子磁力测量。
-- **主要发现:** 提出了一种芯片级NV磁力计设计，利用磁振晶体中的缺陷局域自旋波模式，实现了93 pT/$\sqrt{\rm Hz}$（或优化自旋线宽后19 pT/$\sqrt{\rm Hz}$）的预计灵敏度，并指出天线模式耦合、NV-磁振耦合和自旋线宽是关键设计杠杆。
-
----
-
-### [Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction](http://arxiv.org/abs/2610.11341v1)
-- **作者:** Yifan Gao, Jin Yan, Junjie Wei, Yifan Zhang, Zhiyuan Zhou, Tong Zou, Ruiyue Chu, Gui Wang, Kaiwen Shen, Zhiwei Zhang, Fang Chen, Yingfen Wei, Hao Jiang, Xumeng Zhang, Ming Wang, Liyang Liao, Jingli Wang, Yijun Yu, Wu Shi, Qi Yao, Xiaobing Chen, Qihang Liu, Yizheng Wu, Yuhang Li, Xufeng Kou, Cheng Song, Xianzhe Chen, Qi Liu, Xincheng Xie, Ming Liu
-- **研究目的:** 演示通过应变反铁磁体CrSb外延薄膜的长距离约瑟夫森超电流传输。
-- **主要发现:** 在CrSb基约瑟夫森结中，观察到横向间隔距离为150 nm的无耗散超电流传输，其长度比传统自旋单态相干长度长近两个数量级，并伴有清晰的磁场诱导量子干涉图案，证明了反铁磁体在超导自旋电子学应用中的潜力。
-
----
-
-### [Data-Driven Variable-Exponent Analysis for Photoemission Yield Spectroscopy: An Autonomous Self-Diagnosing Framework Based on Integrated Residual Metrics](http://arxiv.org/abs/2610.11331v1)
-- **作者:** Shinjiro Yagyu, Takahiro Nagata, Yoshiyuki Nakajima
-- **研究目的:** 提出一种基于1/n-Scan方法的、集成了自诊断质量评估系统的数据驱动可变指数分析框架，用于光电子产额谱 (PYS) 的无监督物理信息提取。
-- **主要发现:** 该框架直接在原始信号空间中操作，能够自主检测重掺杂p型Si中单组分近似的失效，表现为统计异常，为闭环自主材料探索提供了一个鲁棒的自诊断分析引擎。
-
----
-
-### [Fermionic Spectral Functions in a Two-Current Gubser-Rocha Model with Axion Momentum Relaxation](http://arxiv.org/abs/2610.11323v1)
-- **作者:** Cai-E Liu, Defu Hou
-- **研究目的:** 在具有线性轴子动量弛豫的双电流Gubser-Rocha背景下，研究费米子谱函数，重点关注不同非最小耦合的影响。
-- **主要发现:** 偶极耦合($p\_1$)产生软不对称重构，张量通道($p\_2$)抑制零能量费米峰导致平底重构，而矢量通道($p\_3$)在动量空间中产生强烈的谱不对称和费米弧状片段，揭示了电流混合、轴子诱导动量弛豫和非最小费米子耦合如何共同重塑全息费米子激发。
-
----
-
-### [Displacement-Field-Induced Ionization of Defect States in High-Quality hBN](http://arxiv.org/abs/2610.11297v1)
-- **作者:** Ilia Begichev, Daria Belotcerkovtceva, Iakov Reznikov, Sergey Slizovsky, Weijie Lu, Nansi Zhou, Ian Babich, Makars Siskins, Kostya S. Novoselov, Vladimir I. Falko, Kenji Watanabe, Takashi Taniguchi, Alexey I. Berdyugin
-- **研究目的:** 利用单层石墨烯作为敏感电荷传感器，探测高质量六方氮化硼 (hBN) 中缺陷态对施加位移场的响应。
-- **主要发现:** 增加位移场会导致石墨烯和hBN之间显著的电荷转移，即使在中等位移场下也会产生额外的电子掺杂和石墨烯层载流子密度不均匀性的增加，这与hBN带隙内缺陷态的电离一致，其体密度约为$1-7 \times 10^{-5} \mathrm{~nm}^{-3}$。
-
----
-
-### [Multifunctionality in Janus CrMCN4 (M = Si/Ge) Monolayers: Valleytronic Physics, Piezoelectric Response, and Photocatalytic Potential](http://arxiv.org/abs/2610.11293v1)
-- **作者:** Jubair Hossan Abir, M. R. U. S. Shapon, S. S. B. Pallab, Tanvir Khan, Raihana Shams Islam, Saleh Hasan Naqib
-- **研究目的:** 利用第一性原理计算，研究Janus CrMCN$\_4$ (M = Si/Ge) 单层材料的多功能特性，包括谷电子学物理、压电响应和光催化潜力。
-- **主要发现:** CrSiCN$\_4$和CrGeCN$\_4$单层是具有自旋谷耦合、压电响应和可调光学响应的非磁性直接带隙半导体，在应变下表现出带隙减小、直接到间接跃迁以及吸收红移，并具有谷电子学、光电子学、机电和光催化应用的潜力。
-
----
-### [A hinged honeycomb with zero bulk modulus retaining more than four-fifths of its constituent's shear modulus](http://arxiv.org/abs/2610.11280v1)
-- **作者:** Chun-Teh Chen
-- **研究目的:** 构建一种具有零体积模量但能保持高剪切模量的铰链式蜂窝结构，并分析其力学性能。
-- **主要发现:** 该蜂窝结构通过精确的膨胀机制实现了零有效体积模量，同时保留了其组成材料超过五分之四的剪切模量，这超越了现有结构的性能。
-
----
-
-### [High Efficiency in Large Supercurrent Rectification with Superconducting Coil](http://arxiv.org/abs/2610.11259v1)
-- **作者:** Takumi Ichikawa, Daisuke Takegami, Gen Nishijima, Shunsuke Kawakami, Tsutomu Nojima, Yuji Tsuchiya, Satoshi Awaji, Fuyuki Ando, Ken-ichi Uchida, Yuya Hattori, Yoshikazu Mizuguchi
-- **研究目的:** 提出并验证一种线圈形超导线器件概念，以实现大超电流整流效应，从而推动超导二极管的实际应用。
-- **主要发现:** 通过线圈形超导二极管，在外部磁场与线圈自身磁场补偿下，实现了高达79%和84%的整流效率，以及140 A和125 A的大超电流差值。
-
----
-
-### [Assessing the Reliability of Foundational Machine Learning Potentials for Evaluating the Veracity of the Crystallography Open Database](http://arxiv.org/abs/2610.11246v1)
-- **作者:** Justinas Šlepavičius, Antanas Vaitkus, Andrius Merkys, Saulius Gražulis, Linas Vilčiauskas
-- **研究目的:** 评估通用机器学习原子间势 (MLIPs) 在自动化验证晶体学开放数据库 (COD) 中晶体结构物理合理性方面的可靠性。
-- **主要发现:** MLIP弛豫是识别COD中无效结构的有用工具，但其效果依赖于模型，且需要结合多个模型才能检测所有类型的错误。
-
----
-
-### [Enhancement of the Topological Hall Effect through Engineering the Skyrmion Size and Shape](http://arxiv.org/abs/2610.11244v1)
-- **作者:** Kazuma Murata, Ryunosuke Terasawa, Hiroaki Ishizuka
-- **研究目的:** 理论研究稀疏分布斯格明子引起的拓扑霍尔效应，并探究斯格明子尺寸和形状如何影响霍尔效应的强度。
-- **主要发现:** 在电子平均自由程与斯格明子尺寸相当或更大的材料中，当 $k\_Fλ \sim 1$ 时霍尔效应最大，其强度可通过斯格明子畴壁宽度进行调控。
-
----
-
-### [Markov length can diverge in systems whose universal physics is spatially Markovian](http://arxiv.org/abs/2610.11235v1)
-- **作者:** Yu-Hsueh Chen, Tarun Grover
-- **研究目的:** 探讨即使系统在空间上是马尔可夫的，其马尔可夫长度在重整化群 (RG) 流动下仍可能发散的现象。
-- **主要发现:** 临界吉布斯态的RG无关扰动可以产生代数衰减的条件互信息 (CMI)，导致无限的马尔可夫长度，但这些幂律尾在连续极限下会消失。
-
----
-
-### [Exact polariton-condensate states via nonlinear Stark coupling](http://arxiv.org/abs/2610.11234v2)
-- **作者:** DaKai He, Zhi Song
-- **研究目的:** 研究通过非线性斯塔克耦合构建的耦合腔混合系统，并识别其精确的多体本征态。
-- **主要发现:** 这些精确本征态在混沌多体谱中表现为量子疤痕，而在固定总激发数扇区中作为基态形成极化激元凝聚体，且负斯塔克耦合将Mott绝缘体到超流体的转变推向更弱的腔间跳跃。
-
----
-
-### [Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries](http://arxiv.org/abs/2610.11232v1)
-- **作者:** Lumou Weng, Hanshan Huang, Zhenhan Zhang, Gan Wang
-- **研究目的:** 开发一种结合多尺度卷积和独立监督的方法，以准确地定位反射高能电子衍射 (RHEED) 图像中的菊池线和菊池带区域。
-- **主要发现:** 该方法能有效将视觉线索转换为可检查的空间区域，在实验室和公开图像上实现了可接受的菊池区域交并比 (IoU)，为后续分析奠定基础。
-
----
-
-### [Giant Magnetization Enhancement at Ultrathin Limit of an Orthoferrite](http://arxiv.org/abs/2610.11217v1)
-- **作者:** Jin Young Oh, Yaolong Xing, Seung Gyo Jeong, Sehwan Song, Woo-suk Noh, Valeria Lauter, Seongjae Choi, Seyoung Kwon, Jaeha Choi, Si Won Kim, Hong Hyun Jeon, Heemin Lee, Cheng-Tai Kuo, Jun-Sik Lee, Chanyoung Lee, Yeonkyu Lee, Jeehoon Kim, Heung-Sik Kim, Sungkyun Park, Sang Ho Oh, Woo Seok Choi
-- **研究目的:** 通过正铁氧体超薄膜的结构调制，在室温下实现低维磁性的显著增强。
-- **主要发现:** 2 nm厚的ErFeO$\_3$外延薄膜在300 K下表现出3.7 $μ\_B$/f.u.的巨大磁化增强，这归因于外延应变和表面轨道重构产生的特征畴结构。
-
----
-
-### [Light-induced interlayer spacing dynamics via orbital phonon coupling](http://arxiv.org/abs/2610.11212v1)
-- **作者:** Wenwen Mao, Hanbyul Kim, Angel Rubio, Dongbin Shin
-- **研究目的:** 研究在三层1T'-WSe$\_2$和1T'-WS$\_2$中，通过轨道选择性激发实现光诱导层间距调控的机制。
-- **主要发现:** 实时时间依赖密度泛函理论模拟表明，层间距的收缩或膨胀取决于硫族p轨道电子密度在层间区域的耗尽或积累，这与轨道再分布、载流子弛豫和层间呼吸运动密切相关。
-
----
-
-### [Cooperative STT and SOT switching in perpendicular magnetic tunnel junctions: Role of the pulse-end magnetization state](http://arxiv.org/abs/2610.11191v1)
-- **作者:** Zeyi Zhu, Ding Ma, Kai Zhang, Mingwei Wu, Yi Huang, Jiarui Niu, Shuai Zhang, Mengdi Yin, Ka-San Mak, Lina Chen, Bo Liu, Tiejun Zhou, Yongbing Xu, Ronghua Liu
-- **研究目的:** 提出一种无场方案，通过协同自旋转移矩 (STT) 和自旋轨道矩 (SOT) 实现垂直磁性隧道结的可靠超快翻转，并强调脉冲结束时磁化状态的关键作用。
-- **主要发现:** 可靠的超快翻转不仅需要足够的激励以跨越动力学分界线，还需要精确控制脉冲结束时的磁化状态以最小化脉冲后弛豫，这揭示了脉冲结束状态是决定翻转速度和可靠性的关键因素。
-
----
-
-### [Uniformity theory of weighted composites](http://arxiv.org/abs/2610.11157v1)
-- **作者:** Marcelo Epstein, Mohammadjavad Javadi
-- **研究目的:** 提出一种扩展的双群胚数学工具，以将具有空间变化的组分体积分数的复合材料纳入其中，旨在最终对错位缺陷及其时间演化进行分类。
-- **主要发现:** 通过引入空间变化的组分体积分数，可以得到类似于功能梯度材料的复合材料，并为未来分类错位缺陷及其时间演化奠定了数学基础。
+### [Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$\_{2}$Te$\_{3}$/FeTe heterojunction](http://arxiv.org/abs/2610.17701v1)
+- **作者:** Xinru Han, Zhaokun Luo, Quanxin Hu, Xingjian Zhu, Xiaohong Pan, Dan Mu, Xinyu Liang, Zulin Xu, Qiheng Wang, Ryan L. Kong, Mingyuan Li, Zhengliang Zhang, Fazhi Yang, Mojun Pan, Xin Liu, Qiangqiang Gu, Baiqing Lv, Gan Wang, Hong Ding
+- **研究目的:** 在Bi$\_{2}$Te$\_{3}$/FeTe异质结中实验观察和控制马约拉纳零模 (MZMs)，以期为容错拓扑量子计算提供平台。
+- **主要发现:** 低温扫描隧道显微镜揭示了Bi$\_{2}$Te$\_{3}$/FeTe异质结中堆叠涡旋结构及其两种束缚态分支，所有测量到的涡旋中都观察到MZMs，其数量可通过磁场和Bi$\_{2}$Te$\_{3}$岛尺寸调控，从而建立了用于融合MZMs的受控平台。
 
 ---
 
-### [Probing and Manipulating Quantum Materials with Strong-field Terahertz and Mid-infrared Radiation](http://arxiv.org/abs/2610.11126v1)
-- **作者:** S. J. Li, H. Y. Wu, S. J. Zhang, Y. T. Li
-- **研究目的:** 综述利用强场太赫兹 (THz) 和中红外 (MIR) 辐射探测和操控量子材料的最新进展，重点关注非线性电子动力学、集体模式耦合、对称敏感响应以及场致电子结构和有序态变化。
-- **主要发现:** 强场THz和MIR辐射能够深入探测量子材料中的低能激发和相互作用，并能驱动选定的自由度远离平衡态，从而实现对材料性能的有效控制。
+### [A Parameter-Free Reference Hamiltonian for Tight-Binding Vanadium Oxides](http://arxiv.org/abs/2610.17687v2)
+- **作者:** Jun-qiang Lu
+- **研究目的:** 开发一种可转移、无参数的紧束缚模型，用于描述钒氧化物，以克服现有密度泛函紧束缚 (DFTB) 方法的局限性。
+- **主要发现:** 该紧束缚模型基于叠加中性原子、完整PBE交换关联势和冻核正交性构建，在固定几何结构下与VO$\_2$的平面波Harris-Foulkes能量差匹配（偏差在$+6.2$ meV/atom内），并能重现PBE电荷响应，提供了对钒氧化物更稳健的描述。
 
 ---
 
-### [Analog quantum simulation of $φ^4$ field theory with a superconducting transmission line](http://arxiv.org/abs/2610.11071v1)
-- **作者:** Ilan T. Rosen, Neill C. Warrington, Max Hays, Christopher McNally, Joshua Lin, Stephen Sorokanich, Julian Bender
-- **研究目的:** 提出并设计一种基于超导传输线的模拟量子模拟器，用于研究 $(1+1)$ 维 $φ^4$ 场论的动力学。
-- **主要发现:** 该超导传输线能够模拟具有单阱或双阱势的 $φ^4$ 场论，从而实现粒子波包散射和拓扑扭结-反扭结碰撞的实时、空间分辨研究。
+### [A grand potential for molten-salt electrochemical phase diagrams from first principles](http://arxiv.org/abs/2610.17611v1)
+- **作者:** Lorenzo Bastonero, Lucio Colombi Ciacchi, Nicola Marzari
+- **研究目的:** 引入一种从第一性原理构建多组分熔盐电化学相图的框架，以加速电极和电解质设计，推动低碳金属生产。
+- **主要发现:** 该框架利用推导出的巨势和机器学习原子间势的第一性原理数据，成功恢复了熔融CaCl$\_2$中硅的实验相图，预测了新的区域，并通过三个热力学标准确定NaF为铝电解的最佳电解质，再现了Hall-Héroult化学。
 
 ---
 
-### [Bond-Switching Reconstruction in Bare Ti$\_3$C$\_2$ MXene](http://arxiv.org/abs/2610.11062v1)
-- **作者:** Kui Lin
-- **研究目的:** 探索裸露Ti$\_3$C$\_2$ MXene中金属-碳骨架拓扑结构是否能发生重构，并研究其对材料性质的影响。
-- **主要发现:** 裸露Ti$\_3$C$\_2$ MXene能发生键切换重构，形成动态稳定的多晶型N，其具有15原子原胞、六种Ti-C键和2.55 Å的Ti-Ti对，并导致自旋极化猝灭和费米能级态密度显著增加。
+### [Elastic Properties of Titan Tholins Revealed by Brillouin Spectroscopy](http://arxiv.org/abs/2610.17564v1)
+- **作者:** Mark A. Johnson, Jose R. Montes-Bojorquez, Adis Husic, Xinting Yu, Wenhao Su, Jia-Sen Hu, Ryan Blase, Edward Patrick, Alan Whittington, Jin S. Zhang
+- **研究目的:** 利用布里渊光谱法直接实验测定土卫六索林（Tholins）的完整聚合弹性模量，以理解其机械性质对土卫六地貌演化的影响。
+- **主要发现:** 索林表现出极高的弹性刚度（体积模量$11(2)$ GPa，剪切模量$3.9(5)$ GPa，杨氏模量$11(1)$ GPa，泊松比$0.34(3)$），甚至超过H$\_2$O冰，支持其对土卫六赤道沙丘沉积物机械稳定性的重要贡献，并显示长时间暴露于大气后持续硬化。
 
 ---
 
-### [Disorder-induced nuclear-transition doublet at nominally cubic $^{229}$Th sites](http://arxiv.org/abs/2610.11010v1)
-- **作者:** Andrei Derevianko
-- **研究目的:** 证明稀释的静态点缺陷无序会在名义立方对称的 $^{229}$Th 位点产生核跃迁双峰，即使理想晶格的电场梯度为零。
-- **主要发现:** 稀释点缺陷会在 $^{229}$Th 核钟跃迁中产生一个在无四极频率处为零的双峰，其宽度由主晶格背景和与 $^{229}$Th 密度线性相关的项组成，这为核钟鉴频器提供了潜在参考。
+### [Electric Edelstein Effect in Two Dimensions](http://arxiv.org/abs/2610.17535v1)
+- **作者:** Xiaoran Lv, Tianqi Zhang, Chaoxi Cui, Yaling Li, Yi Shen, Weikang Wu, Ziming Zhu, Yugui Yao, Zhi-Ming Yu
+- **研究目的:** 提出并表征二维 (2D) 系统中的电埃德尔斯坦效应 (EEE)，即垂直于平面和平面内的电场交叉作用产生可调谐的自旋极化。
+- **主要发现:** 对所有磁层点群的对称性分析表明，EEE在多种磁性和非磁性系统中均允许存在，它能在线性埃德尔斯坦效应 (EE) 被对称性禁止的材料中产生自旋极化，或增加一个新的可门控调谐分量，从而将自旋极化的控制维度从一维提高到二维，并在MnSe$\_2$和SnSe中预测了显著效应。
 
 ---
 
-### [Reading Altermagnetic Domains with Photon Drag](http://arxiv.org/abs/2610.10970v1)
-- **作者:** Sayed Ali Akbar Ghorashi, Andrew M. Rappe
-- **研究目的:** 研究光子拖曳效应在交变磁体中的响应，并展示其角依赖性如何揭示磁序对称性和奈尔畴。
-- **主要发现:** 交变磁体的光子拖曳响应的角依赖性可以揭示磁序的对称性和奈尔畴，其中畴偶和畴奇电流出现在不同的角谐波中，且自旋轨道耦合对观察畴奇电荷电流至关重要。
+### [Energy levels of screened charged impurity in gapped graphene under magnetic field](http://arxiv.org/abs/2610.17492v1)
+- **作者:** Andrii Iurov, V. P. Gusynin
+- **研究目的:** 理论研究有带隙石墨烯在带电杂质和磁场存在下的电子态，以及杂质诱导的朗道能级修正，并考虑金属栅极的屏蔽效应。
+- **主要发现:** 利用WKB方法，确定了屏蔽和非屏蔽库仑势下能量谱随磁场强度和杂质电荷的变化，结果表明，当样品到栅极距离小于$50$ nm时，能量水平表现出显著的依赖性。
 
 ---
 
-### [Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?](http://arxiv.org/abs/2610.10953v1)
-- **作者:** Zherui Han, Robert K. A. Bennett, Davide Donadio, Maritha A. Wang, Tara Peña, Mikaël Cassé, Martin Vanbrabant, Valeriya Kilchytska, Jean-Pierre Raskin, Eric Pop
-- **研究目的:** 探讨二维 (2D) 半导体中能带尾态 (BTS) 对其电子器件性能的影响，并提出缓解策略。
-- **主要发现:** 能带尾态导致单层二维晶体管的有效迁移率降低和开启电压过高，从而限制了其能效操作，但可以通过提高栅极电容、应变工程和使用双层沟道等方式缓解，前提是Urbach能量 $E\_U$ 降低到约50 meV以下。
+### [Mathematical framework for simulation of non-perturbative cavity optomechanics with plate-like dielectrics](http://arxiv.org/abs/2610.17475v1)
+- **作者:** Andrew Laeuger, Nancy Aggarwal
+- **研究目的:** 建立一个数学框架，用于模拟具有有限厚度平板介质的非微扰腔光力学系统，自洽地确定腔场、光学力、机械平衡和反作用。
+- **主要发现:** 该框架将真空双光子形式主义扩展到有限厚度介质，直接将菲涅尔反射、内部传播、光学力和机械反作用纳入场方程，并推导了描述耦合光机械系统（包括光机械冷却）所需的载波和边带传递函数。
 
 ---
 
-### [Helicity decoupling ultrastrong Rabi splitting from quantum vacuum dressing](http://arxiv.org/abs/2610.10944v1)
-- **作者:** Ayoub El-Amrani, Nasir Boubekraoui, Zakaria Mzaouali, Houssam Sabri, Herschel Rabitz, Abdelouahed El Fatimy, Dukhyung Lee
-- **研究目的:** 证明通过手性可以独立控制超强光-物质耦合中的拉比劈裂和量子真空修饰。
-- **主要发现:** 当腔场手性与回旋运动匹配时，产生大的拉比劈裂和极化激元，而基态保持裸真空；反转磁场时，常规极化激元反交叉消失，而基态获得挤压和虚激发，表明光谱杂化和量子真空修饰是超强耦合的不同表现。
+### [Imaging the topological sign of a Dirac mass with spin-polarized tunneling](http://arxiv.org/abs/2610.17464v1)
+- **作者:** Payman Kazemikhah, Ruolun Zhang, Byunghoon Kim, Xiangyu Luo, Zachary Ducorsky, Yu-Peng Zhu, Md. Shafayat Hossain, M. Zahid Hasan
+- **研究目的:** 演示如何利用自旋极化隧穿技术，在磁性拓扑表面上局部确定狄拉克质量 ($M$) 的拓扑符号。
+- **主要发现:** 晶体旋转对称性 ($C\_3$轴) 允许轴向探针耦合到完全自旋极化态，其隧穿不对称性直接揭示了占据带贝里曲率的符号，与轨道组成无关，同时零朗道能级提供了独立的质量符号测量，而相反畴及其手性畴壁模式则提供了自洽性检验。
 
 ---
 
-### [Data driven screening of CaCu$\_5$-type magnetic structures](http://arxiv.org/abs/2610.10891v1)
-- **作者:** Nabaraj Pokhrel, Sheila Whitman, David S. Parker
-- **研究目的:** 开发一种机器学习辅助的工作流程，用于快速筛选CaCu$\_5$结构家族中的永磁体候选材料。
-- **主要发现:** 通过机器学习和第一性原理计算，从超过60,000种结构中筛选出159种具有正轴向磁各向异性能量的CaCu$\_5$型化合物，为进一步研究提供了有价值的候选材料。
+### [Crystal growth, magnetic, and transport properties of the candidate altermagnet Cr$\_{1/4}$NbS$\_{2}$](http://arxiv.org/abs/2610.17452v1)
+- **作者:** Nashra Pistawala, Martin R. Lees, Geetha Balakrishnan, Daniel A. Mayoh
+- **研究目的:** 成功生长高质量的Cr$\_{1/4}$NbS$\_2$单晶，并研究其结构、热学、磁学和输运性质，以确认其作为交变磁体的候选资格。
+- **主要发现:** 成功生长了高质量的Cr$\_{1/4}$NbS$\_2$单晶，证实了六方晶体对称性 ($P6\_3/mmc$) 和$T\_N \sim 141$ K的反铁磁奈尔温度，磁输运测量揭示了量子扩散输运现象的非平凡特征，从而将其确立为探测交变磁材料丰富现象的实验平台。
 
 ---
 
-### [Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications](http://arxiv.org/abs/2610.10874v1)
-- **作者:** Jairo Rondon, Juan Valera, Alex Velez Cruz, Irela Perez Magin
-- **研究目的:** 综述陶瓷材料的原子键合、加工、微结构、功能特性及其在生物医学应用中的相互关系。
-- **主要发现:** 陶瓷材料的性能由原子键合、晶体结构、加工、微结构和功能特性之间的相互作用决定，其独特的键合提供了高硬度、热化学稳定性等优点，并在生物医学领域展现出广阔应用前景。
+### [Type I-II/II-I vortices from dimension-six self-interaction](http://arxiv.org/abs/2610.17437v1)
+- **作者:** A. Alonso-Izquierdo, A. González-Parra, K. Slawinska, A. Wereszczynski, T. Winyard
+- **研究目的:** 研究在Abelian-Higgs或Ginzburg-Landau模型中加入六维自相互作用后多涡旋解的结构。
+- **主要发现:** 引入六维自相互作用揭示了标准I型（吸引）和II型（排斥）区域之外丰富的多涡旋解结构，识别出新型I-II型（短距离吸引、长距离排斥）和II-I型（行为相反）涡旋，并具有特定的稳定性及形成模式，如Abrikosov晶格块或稳定的轴对称多涡旋。
 
 ---
 
-### [EPR as a probe for the mechanisms of chirality-induced spin selectivity in photoinduced charge transfer](http://arxiv.org/abs/2610.10839v1)
-- **作者:** Arianna Cantarella, D. K. Andrea Phan Huu, Paolo Santini, Michael R. Wasielewski, Alessandro Chiesa, Stefano Carretta
-- **研究目的:** 通过计算相关自由基对态的电子顺磁共振 (EPR) 谱，研究手性诱导自旋选择性 (CISS) 在光诱导电荷转移中的微观机制。
-- **主要发现:** EPR谱能揭示不同自由基对态的独特特征，有助于验证CISS的微观模型，并确定其实验可及性。
+### [High-Resolution X-ray Spectro-Microscopy of Au Microcrystallites](http://arxiv.org/abs/2610.17417v1)
+- **作者:** Chaitali Sow, Martin Seyrich, Johannes Hagemann, Giridhar U. Kulkarni, Thomas F. Keller, Christian G. Schroer, Andreas Schropp
+- **研究目的:** 利用X射线光谱显微术对金微晶进行高分辨率纳米级化学成像，特别关注对催化重要的非常规非立方晶格。
+- **主要发现:** 对金微晶的多模态光谱显微术在L$\_3$边沿实现了$45$ nm空间分辨率的振幅和相位对比成像，获得的XANES光谱与标准透射和荧光对比结果高度一致，并提供了互补的化学见解，证明了该方法适用于各种功能材料的高分辨率化学成像。
 
 ---
 
-### [Amplitude mode in Eliashberg superconductors](http://arxiv.org/abs/2610.10826v1)
-- **作者:** Maxim Dzero, Emil A. Yuzbashyan
-- **研究目的:** 证明在强耦合Eliashberg超导体中，由于声子动力学引起的延迟效应，振幅（希格斯）模式会脱离对断裂阈值 $2Δ\_g$，成为一个尖锐的亚能隙激发。
-- **主要发现:** 延迟效应使希格斯模式从对断裂阈值 $2Δ\_g$ 分离出来，成为一个尖锐的亚能隙激发，其频率与 $2Δ\_g$ 不同，并且其振荡不会像 $1/\sqrt{t}$ 那样衰减。
+### [Collision Cascade Morphology and Defect Nucleation in Pure Tungsten and an Equimolar Refractory W-Ta-Cr-V Alloy](http://arxiv.org/abs/2610.17361v2)
+- **作者:** Mark Fedorov, Francisco Javier Dominguez-Gutierrez, Damian Kalita, Łukasz Kurpaska
+- **研究目的:** 利用分子动力学模拟研究纯钨和等摩尔难熔W-Ta-Cr-V高熵合金中的碰撞级联形态和缺陷形核机制，以评估其对初级辐照损伤的抵抗力。
+- **主要发现:** WTaCrV合金比纯钨表现出更好的初级辐照损伤抵抗力，这主要归因于更频繁的级联分裂以及较轻元素（Cr、V）以点缺陷形式吸收损伤，从而导致更少的位错和无空洞形成。
 
 ---
 
-### [Hierarchical Relaxation in Large-twist-angle Moire Drives Supermoire Formation](http://arxiv.org/abs/2610.10817v1)
-- **作者:** Chuqiao Shi, Giovanny Espitia, Yanxing Li, Yi Jiang, Yiyuan Luo, Xu Qi, Kaiwen Yang, Xiaohui Liu, Xiaoqin Li, Chih-Kang Shih, Mit H. Naik, Yimo Han
-- **研究目的:** 揭示大扭角莫尔双层结构中超莫尔形成背后的微观结构机制。
-- **主要发现:** 超莫尔序的微观起源是分层晶格弛豫过程，其中层间Se-Se排斥力驱动了耦合的短程莫尔弛豫和共存的长程超莫尔调制。
+### [Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides](http://arxiv.org/abs/2610.17352v1)
+- **作者:** Vladislav Korostelev, Pjotrs Žguns, Konstantin Klyukin
+- **研究目的:** 评估通用机器学习原子间势 (uMLIPs) 是否能准确描述过渡金属 (TM) 氧化物中的小极化子，并使用基于几何的描述符进行基准测试。
+- **主要发现:** uMLIPs表现出不同程度的电子局域化，其行为强烈依赖于训练数据和电子关联（例如，缺乏Hubbard U校正导致电子离域化），尽管一些uMLIPs能重现极化子跳跃势垒，但它们都未能稳定空间分离的极化子-施主构型，突显了其在捕捉极化子物理方面的局限性。
 
 ---
 
-### [Supercurrent as a bulk probe for topological phase](http://arxiv.org/abs/2610.10814v1)
-- **作者:** Tatiana de Picoli, Ian Wojtowicz, Jukka I. Vayrynen
-- **研究目的:** 提出一种基于超电流响应的方法，直接探测拓扑超导体的体相，以区分平庸相和拓扑相。
-- **主要发现:** 在强自旋轨道耦合下，超流刚度（以及超电流）在拓扑相内会抑制一半，从而在化学势函数中产生非单调的体相变特征，可用于通过动能电感测量检测拓扑相变。
+### [Progress in Cavitated Front Gridline Ag Paste for PERC Solar Cell Architecture](http://arxiv.org/abs/2610.17341v1)
+- **作者:** Donald Intal, Sandra Huneycutt, Abasifreke Ebong, Dana Hankey, Marshall Tibbetts
+- **研究目的:** 报告在钝化发射极背面接触 (PERC) 太阳能电池上使用空化银浆以降低串联电阻并提高转换效率的进展。
+- **主要发现:** 使用空化银浆制造的PERC电池平均转换效率为$21.87\%$，最高达到$22.07\%$，其中电阻性电流提取是填充因子变化的主要原因（平均赤字$3.62$个百分点），表征结果表明界面异质性和导电通路连接性是减少提取损耗的关键改进领域。
 
 ---
 
-### [Coherence-assisted quantum state preparation and thermal control through repeated interactions](http://arxiv.org/abs/2610.10794v1)
-- **作者:** Alessandro Prositto, Dvira Segal
-- **研究目的:** 研究通过重复相互作用，在马尔可夫框架下，相干环境如何辅助量子态制备和热控制。
-- **主要发现:** 环境相干性为耗散态制备提供了资源，能将系统基态布居数提高到超过浴温对应的水平，并增强稳态纯度，同时还能改变甚至逆转热传递的自然方向，产生反常热流。
+### [Krylov Complexity and Quantum Many-body Scars in Non-Hermitian Kinetically Constrained Models](http://arxiv.org/abs/2610.17328v1)
+- **作者:** Arkaprava Sil, Rudraksh Kaushik, Souvik Kundu, Prasant Mallik, Sudipto Singha Roy
+- **研究目的:** 研究非厄米动力学受限PXP和PPXPP模型中的Krylov复杂度、本征态结构和动力学，探索非厄米性如何影响左右本征态系综。
+- **主要发现:** 非厄米性导致左右本征态系综表现出截然不同的行为：右系综的Krylov复杂度持续振荡且周期增加并保留疤痕结构，而左系综的复杂度逐渐饱和，形成类似厄米系统的拱形轮廓，并出现具有异常低纠缠和与真空态高度重叠的额外非疤痕本征态，表明非厄米性对动力学和本征态结构有差异化影响。
 
 ---
-### [Gauging Modulated Symmetries: Bond Algebras, Higher-Form Symmetries, and Symmetry-Enriched Topological Order](http://arxiv.org/abs/2610.10764v1)
-- **作者:** Gustavo M. Yoshitome, Pedro R. S. Gomes, Guilherme Delfino
-- **研究目的:** 建立一个构造性框架，用于表征 $d$ 维晶格系统中的调制对称性及其规范化。
-- **主要发现:** 规范化后，开放算子的代数元素转变为扩展的Wilson算子和边界算子，并在去禁闭区域实现混合的't Hooft反常，为Abelian晶体对称性富集拓扑相（SETs）提供了一条微观途径。
+### [Evidence of an anisotropic Griffiths phase in a two-dimensional van der Waals magnet](http://arxiv.org/abs/2610.17315v1)
+- **作者:** Anupam K. Singh, Dhananjay Nair, Holger Meyerheim, Stuart S. P. Parkin, Banabir Pal
+- **研究目的:** 报告在二维范德华磁体Fe$\_{5}$GeTe$\_{2}$中，由自嵌入驱动的高度各向异性Griffiths相的证据，并探索其无序磁相。
+- **主要发现:** 在Fe$\_{5}$GeTe$\_{2}$中发现了由短程有序铁磁团簇嵌入顺磁基质驱动的高度各向异性Griffiths相，其磁响应在居里温度和更高特征Griffiths温度之间占主导地位，且这种非解析的Griffiths响应仅在面内磁场下出现，表明局部磁相互作用与层状晶格几何结构紧密耦合。
 
 ---
 
-### [Hydrodynamic Anomalous Hall Effect in a Two-Dimensional Dirac Fluid](http://arxiv.org/abs/2610.10733v1)
-- **作者:** A. Levchenko, D. A. Pesin
-- **研究目的:** 针对具有弱接触相互作用和弱短程无序的二维有质量Dirac费米液体，发展一种动力学理论来计算电子-电子碰撞导致的异常霍尔电流贡献。
-- **主要发现:** 计算得到的响应在Born近似下与相互作用强度无关，其对异常霍尔电导率的贡献与本征异常霍尔电导率的热修正相当，并且相互作用引起的霍尔响应即使在无序强度趋于零时也保留了动量弛豫机制的信息。
+### [Quantum skyrmion molecule: two quantum skyrmions bound by coherent magnon exchange](http://arxiv.org/abs/2610.17299v1)
+- **作者:** Ricardo L. Silva
+- **研究目的:** 研究当两个量子斯格明子在受挫自旋-$1/2$磁体中相互靠近时会发生什么，并探索它们之间的相互作用和结合机制。
+- **主要发现:** 发现两个自然尺寸的量子斯格明子可以在没有钉扎或外部场的情况下形成束缚分子，通过相干磁振子交换耦合，并保持各自的身份，其相互作用锁定相对螺旋性，为斯格明子螺旋性量子比特提供了一个自组装的双量子比特元件。
 
 ---
 
-### [Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy](http://arxiv.org/abs/2610.10725v1)
-- **作者:** Ye Wang
-- **研究目的:** 探究范德华 (vdW) 限制如何影响单层NbSe$\_2$在受限外延生长过程中与界面原子力的耦合。
-- **主要发现:** vdW限制不仅影响原子吸附和扩散，还诱导了界面原子力的强耦合，计算出的力-电子形貌显示Nb和Se原子分别承受 $+0.070$ 和 $-0.04$ eV/Å 的大机械力，导致单位晶胞界面相互作用能高达 $2.4$ eV，这表明界面力学可能是受限外延成功的关键。
+### [Phase-Coherent Spin and Lattice Modulations in a Y-type Hexaferrite](http://arxiv.org/abs/2610.17292v1)
+- **作者:** Oskar Stepančić, Annika Stellhorn, Emma Campillo, Kun Zhai, Niklas Ekström, A. Corani, D. Alba Venero, R. Cubitt, E. Blackburn, L. Shen
+- **研究目的:** 利用半极化中子散射技术，研究Y型六角铁氧体Ba$\_{0.4}$Sr$\_{1.6}$Mg$\_{2}$Fe$\_{12}$O$\_{22}$中的自旋和晶格调制现象。
+- **主要发现:** 发现Y型六角铁氧体Ba$\_{0.4}$Sr$\_{1.6}$Mg$\_{2}$Fe$\_{12}$O$\_{22}$在其饱和高场态下，存在磁调制和纵向晶格调制，两者具有相同的波矢并锁相，揭示了在磁场中先前被认为是简单铁磁体的区域内存在基波矢自旋-晶格耦合。
 
 ---
 
-### [Quantum simulation of material-specific Hubbard models with alkaline-earth atoms](http://arxiv.org/abs/2610.10713v1)
-- **作者:** Henning Schlömer, Reuben R. W. Wang, Bo Xing, Susanne F. Yelin, H. R. Sadeghpour
-- **研究目的:** 引入一种基于费米子碱土原子的集成量子模拟架构，以实现对多轨道材料哈密顿量关键成分的可编程控制。
-- **主要发现:** 该架构能够通过自洽计算在单一实验可及的晶格配置中重现并独立编程来自第一性原理建模的微观参数，从而为将材料衍生的多轨道哈密顿量转化为超冷原子量子模拟器提供了通用途径。
+### [Turning a superconducting diode into a Feynman ratchet to realize a nanoscale heat engine](http://arxiv.org/abs/2610.17257v1)
+- **作者:** Konstantinos Kontogeorgiou, İnanç Adagideli, Géraldine Haack, Fabian Hassler
+- **研究目的:** 提出一种基于约瑟夫森结超导二极管效应的费曼棘轮物理实现，以构建纳米级热机。
+- **主要发现:** 成功提出并分析了一种基于超导二极管效应的费曼棘轮装置，该装置可作为热机仅通过温差和热涨落产生功，并能通过塞贝克系数在反向操作时作为珀尔帖冷却器。
 
 ---
 
-### [Cooper Instability of a Magnetic Wigner Crystal](http://arxiv.org/abs/2610.10710v1)
-- **作者:** Wangqian Miao, Chunli Huang
-- **研究目的:** 探究磁性Wigner晶体中的集体模式是否能在此背景下介导配对，通过研究Wigner晶体第一导带中两个电子的Cooper问题来解决此问题。
-- **主要发现:** 晶体声子介导的吸引力超过了配对阈值，手性 $p$-波配对是主要的失稳模式，表明Wigner晶体的集体模式即使在时间反演对称性破缺的情况下也能促进手性配对。
+### [Pairing from repulsive interactions in twisted WSe2 from functional renormalization](http://arxiv.org/abs/2610.17222v1)
+- **作者:** Hannes Braun, Dumitru Călugăru, Pietro M. Bonetti, Haoyu Hu, Yan Zhang, Yi Jiang, Quansheng Wu, Kin Fai Mak, Jie Shan, B. Andrei Bernevig, Michael M. Scherer, Laura Classen
+- **研究目的:** 分析扭曲双层WSe$\_{2}$在空穴填充$ν = -1$和扭曲角$3.65^\circ$下的关联电子相，以解释其超导性。
+- **主要发现:** 通过Hartree-Fock、随机相近似和功能重整化群计算，发现扭曲双层WSe$\_{2}$存在混合$d$-波单重态和$p$-波三重态特征的超导不稳定性，且其配对机制指向谷间相干自旋涨落作为配对胶水，在连续介质模型中，门控屏蔽库仑相互作用在零位移场下也能产生配对，与实验结果一致。
 
 ---
 
-### [Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators](http://arxiv.org/abs/2610.10706v1)
-- **作者:** Miguel Gonçalves, Jonah Herzog-Arbeitman, Juan Felipe Mendez-Valderrama, Andreas Feuerpfeil, B. Andrei Bernevig, Nicolas Regnault
-- **研究目的:** 发展一种广义的单模近似，即对称模近似 (SyMA)，以描述Chern绝缘体中的低能磁振子谱。
-- **主要发现:** SyMA与整数填充的数值计算结果高度一致，并在包括分数Chern绝缘体在内的分数填充中定性准确，同时证明了均匀量子几何足以稳定Chern带中的磁性。
+### [Fermionic non-Gaussianity via computable measures and experimentally accessible bounds](http://arxiv.org/abs/2610.17219v1)
+- **作者:** Leela Ganesh Chandra Lakkaraju, Naga Dileep Varikuti, Philipp Hauke
+- **研究目的:** 引入一种可计算的费米子非高斯性几何度量，并推导实验可访问的界限，以量化费米子系统偏离高斯性的程度。
+- **主要发现:** 引入了费米子非高斯性的保真度距离作为几何度量，并构建了迭代形式主义来数值计算它，同时证明了一个尖锐的算子Jensen不等式，并用其推导了一个仅涉及二点和四点费米子关联函数的鉴别器，为强相互作用费米子量子模拟器的非高斯性绘制提供了可扩展的途径。
 
 ---
 
-### [Millisecond phonon lifetimes in piezoelectric nanomechanical resonators](http://arxiv.org/abs/2610.10700v1)
-- **作者:** Oliver A. Hitchcock, Matthew P. Maksymowych, Kaveh Pezeshki, Takuma Makihara, Erik Szakiel, Chou-Wei Kiang, Daniel Rugar, Amir H. Safavi-Naeini
-- **研究目的:** 探索并实现压电纳米机械谐振器中更长的声子寿命，并识别其限制因素。
-- **主要发现:** 通过优化制备工艺，在铌酸锂声子晶体谐振器中实现了高达 $21$ 毫秒的声子寿命（品质因数 $Q\_i > 4\times10^8$），并证明其寿命受限于器件与测量电路之间的外部耦合而非材料本征损耗。
+### [Berry curvature from plane-wave mixing: A three-band model with emergent symmetries](http://arxiv.org/abs/2610.17209v1)
+- **作者:** Avi Vadali, Tomohiro Soejima
+- **研究目的:** 发展一个三能带模型来理解二维材料中拓扑相的低能带结构和贝里曲率，特别是势能和旋量结构相互作用的影响。
+- **主要发现:** 发现贝里曲率强烈依赖于势能的动量依赖性，并识别出模型可以被调谐以具有涌现对称性，包括$U(1)$和反幺正对称性，这些对称性破缺的扰动将系统驱动到具有拓扑平带、二次能带接触和多个狄拉克锥的区域。
 
 ---
 
-### [Competing symmetry breaking and topology in quantum spin chains](http://arxiv.org/abs/2610.10694v1)
-- **作者:** Anthony Rey, Ömer M. Aksoy, Claudio Chamon, Akira Furusaki, Christopher Mudry
-- **研究目的:** 探究自发对称性破缺和对称性保护拓扑在二维量子自旋-1/2系统中的竞争与协同作用。
-- **主要发现:** 揭示了竞争性对称性破缺和拓扑生成有序临界相和多临界性的非传统机制，包括由Tomonaga-Luttinger液体理论描述的去禁闭量子临界点线，以及具有低能边界自由度的对称性富集临界性。
+### [Revealing topological protection through unprotected operations in a Majorana parity qubit](http://arxiv.org/abs/2610.17198v1)
+- **作者:** Sebastian Miles, Juan Daniel Torres Luna, Francesco Zatelli, Nick van Loo, Antonio Lombardi, Vincent P. M. Sietses, Florian J. Bennebroek Evertsz', Bart Roovers, Leo P. Kouwenhoven, Michael Wimmer
+- **研究目的:** 探讨在马约拉纳宇称量子比特中，如何通过非保护的量子比特操作来揭示底层链的指数保护。
+- **主要发现:** 发展了准静态退相干的分析理论，表明在Rabi实验中，保护可以通过调整操作点随链长变化来解决，表现为相干振荡次数的指数增长或更长的相干时间，而在Ramsey实验中，相干时间呈指数增长，从而揭示了马约拉纳保护。
 
 ---
 
-### [Spin Chain with Continuous Exponential Symmetry: Topological Phase and Beyond](http://arxiv.org/abs/2610.10682v1)
-- **作者:** Biao Lian, Zhen Bi
-- **研究目的:** 研究具有连续指数对称性 $U(1)\rtimes\mathbb Z\_2$ 的一维自旋 $S$ 链的对称带隙基态。
-- **主要发现:** 发现了超越现有分类方案的新型对称保护带隙相，即对于半奇数 $S$ 和偶数 $q$，存在一种“半SPT”相，其仅在一个边缘具有对称保护边缘模式，并具有SPT相一半的弦序。
+### [Spatial Engineering of Topological Quantum Matter with Structured Light](http://arxiv.org/abs/2610.17181v1)
+- **作者:** Matias Mustonen, Ali G. Moghaddam, Teemu Ojanen, Marco Ornigotti
+- **研究目的:** 探索如何利用结构光在空间上调控物质的拓扑性质。
+- **主要发现:** 证明结构光能够局部地定制物质的拓扑性质，例如在由光学斯格明子束驱动的拓扑绝缘体中，结构光可以在空间上调整有效哈密顿量，产生位置依赖的拓扑能隙和狄拉克速度，从而在不引入材料边界或化学修饰的情况下，创建由光学定义的界面分隔的拓扑和平凡区域。
 
 ---
 
-### [Theory of Topologically Ordered Superfluids in 2+1 Dimensions](http://arxiv.org/abs/2610.10668v1)
-- **作者:** Chao-Ming Jian
-- **研究目的:** 发展一个通用框架，用于表征 $(2+1)$ 维玻色子系统中具有自发破缺电荷 ${\rm U}(1)\_{\rm c}$ 对称性的拓扑有序超流体 (TOSFs) 的拓扑数据。
-- **主要发现:** 建立了一个TOSF与对称性富集拓扑序之间的双向映射，使得TOSF的拓扑数据（包括凝聚体电荷、去禁闭任意子内容和涡旋的拓扑性质）能够通过代数框架系统地编码。
+### [Comprehensive Workflow for Uncertainty-Aware Ionic Liquid Solvent Discovery](http://arxiv.org/abs/2610.17171v1)
+- **作者:** Alexander Lobo, Urvi Awasthi, Leonid Zhukov
+- **研究目的:** 提出一个全面的、考虑不确定性的离子液体溶剂发现工作流程，以解决数据稀缺、噪声和不均匀性对数据驱动性能模型的影响。
+- **主要发现:** 提出了一个将数据处理、深度学习建模和基于物理的计算作为耦合系统的工作流程，通过将预测属性与不确定性估计和基于物理的过滤相结合，实现了可靠的分布外排名和优先选择具有有利预测权衡的离子液体候选物，并成功应用于CO$\_{2}$捕获用新型离子液体的设计。
 
 ---
 
-### [SC$^\sharp$: superconductivity intertwined with topological order](http://arxiv.org/abs/2610.10679v1)
-- **作者:** Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Zhaoyu Han, Ashvin Vishwanath
-- **研究目的:** 发展一个针对凝聚电荷为 $2ne$ 的 $(2+1)$D 带隙超导体的分类框架，重点关注超导涡旋的拓扑性质以精确表征超导与拓扑序的交织。
-- **主要发现:** 发现了一类新的超导相SC$^\sharp$，其中携带 $h/(2ne)$ 磁通的初级涡旋无法分解为由体任意子修饰的可逆超导涡旋，且每个初级涡旋必然是非阿贝尔的。
+### [H$\_2$-Like Units and Pressure-Tunable High-$T\_\mathrm{c}$ Superconductivity in NaH$\_6$](http://arxiv.org/abs/2610.17148v1)
+- **作者:** Tianran Chen, Taner Yildirim
+- **研究目的:** 通过第一性原理研究NaH$\_{6}$的结构、稳定性和超导性质，特别关注其在不同压力下的高$T\_\mathrm{c}$超导电性。
+- **主要发现:** 发现NaH$\_{6}$在相对适中的压力下能实现高$T\_\mathrm{c}$超导电性，其中$R\bar{3}m$相在10 GPa时$T\_\mathrm{c}$为34 K，50 GPa时升至99 K；立方$Pm\bar{3}m$相在50 GPa时$T\_\mathrm{c}$达到230 K，且这两种相都含有H$\_{2}$-like单元，表明氢亚晶格重组可能在相对适中的压力下实现高$T\_\mathrm{c}$超导电性。
 
 ---
 
-### [Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism](http://arxiv.org/abs/2610.10523v1)
-- **作者:** Hana Schiff, Judit Romhányi, Paul McClarty, Jeffrey G. Rau
-- **研究目的:** 研究非相对论磁性系统的唯象Landau理论，将其从共线情况推广到共面和非共面有序。
-- **主要发现:** 建立了针对四方、三角/六方和立方对称性的不同Landau理论，并发现两种结果：塌缩为较低对称性的共线相，或形成真正的共面或非共面有序，其中序参数在自旋空间中相互正交。
+### [Skyrmion gears: translation-to-rotation conversion of skyrmion clusters along periodic substrates](http://arxiv.org/abs/2610.17102v1)
+- **作者:** N. P. Vizarim, C. J. O. Reichhardt, C. Reichhardt
+- **研究目的:** 研究斯格明子团簇的平移运动如何通过与周期性障碍物衬底的相互作用转化为集体旋转。
+- **主要发现:** 发现一个七斯格明子团簇在周期性障碍物衬底上驱动时，在合适的障碍物间距和相互作用强度下，可以产生连贯的顺时针或逆时针旋转，形成齿轮状团簇动力学，并证明这种相干旋转在过阻尼极限下仍然存在，表明转换机制不需要内在的马格努斯力。
 
 ---
 
-### [Exact Excitation Spectra and Spectral Gaps of the Frustrated Spin-1/2 $J\_1$-$J\_2$ Model via Dual Spin-Sector Variational Quantum Eigensolvers](http://arxiv.org/abs/2610.10454v1)
-- **作者:** Sk Saniur Rahaman
-- **研究目的:** 提出一种双自旋扇区变分量子本征求解器 (Dual Spin-Sector VQE) 框架，以解决受挫自旋系统中激发态和激发能隙计算中存在的态序反转问题。
-- **主要发现:** 该方法成功解决了1D自旋链和2D矩形晶格中的态序反转问题，实现了对基态三重态和激发单重态的精确收敛，并准确捕获了无能隙相、BKT临界点和Majumdar-Ghosh二聚体点等关键物理特征。
+### [Spin-orbit torque effects in all-electrical spin-wave spectroscopy experiments](http://arxiv.org/abs/2610.17095v1)
+- **作者:** José Solano Córdova, Jone Mencos, Richard Schlitz, Quentin Rossi, Denise Reustlen, Javed Ali, Sebastian Sailler, Michaela Lammel, Matthieu Bailleul, Daniel Stoeffler, Felix Casanova, Sebastian T. B. Goennenwein, Helena Reichlova
+- **研究目的:** 调查Pt天线在105纳米厚外延YIG薄膜中激发相干自旋波的两种潜在机制：振荡奥斯特场和振荡自旋流，以理解自旋轨道矩效应。
+- **主要发现:** 发现实验传输光谱受到YIG薄膜制造引起的修改和Pt引起的空间不均匀界面条件的强烈影响，在去除这些贡献后，剩余的两种波传播与奥斯特场和自旋轨道矩的组合激发一致。
 
 ---
 
-### [Correlating DC SQUID Performance with the Location of Trapped Magnetic Flux Using Scanning SQUID Microscopy](http://arxiv.org/abs/2610.10442v1)
-- **作者:** Bochao Xu, Ian W. Haygood, Kyle Jackman, Coenrad J. Fourie, Pete F. Hopkins, Michael L. Schneider
-- **研究目的:** 利用扫描SQUID显微镜 (SSM) 关联DC SQUID的性能与捕获磁通的位置，以评估不同护城河配置的有效性。
-- **主要发现:** 发现磁通子存在优先的钉扎位置，与护城河配置无关，这表明SSM在电路布局、建模和故障分析中具有实用性。
+### [Non-volatile Orbital magnetoelectric effect in a two-dimensional electron gas](http://arxiv.org/abs/2610.17073v2)
+- **作者:** Yu Chen, Martando Rath, Julien Brehin, Cinthia Piamonteze, Daniele Preziosi, Payal Wadhwa, Alessio Filippetti, Yuri Fukaya, Mario Cuoco, Filomena Forte, Daniela Stornaiuolo, Manuel Bibes, Marco Salluzzo
+- **研究目的:** 演示在LaAlO$\_{3}$/EuTiO$\_{3}$/Ca-STO (001) 界面形成的氧化物二维电子气中，通过电场控制铁电极化，实现平衡轨道磁化的非易失性电学控制。
+- **主要发现:** 利用X射线吸收光谱和原位电场控制铁电极化，成功演示了氧化物二维电子气中平衡轨道磁化的非易失性切换，并通过X射线线性二色性和X射线磁圆二色性提供了铁电控制轨道磁性的光谱证据。
 
 ---
 
-### [Magnetic Order from First-Principles Linear Response](http://arxiv.org/abs/2610.10412v1)
-- **作者:** Yaroslav Zhumagulov, Emiliano Cruz-Aranda, Denis Kochan, Oleg V. Yazyev
-- **研究目的:** 提出一种直接从顺磁态识别磁序的方法，通过其自洽磁化响应的主导本征模式来确定有序波矢量和磁矩模式。
-- **主要发现:** 该方法无需预设磁序假设，成功再现了反铁磁体KV$\_2$Se$\_2$O中的G型堆叠和面外磁矩、Cu$\_2$OSeO$\_3$中的 $3{:}1$ 亚铁磁四面体，以及单层NiI$\_2$中的非公度螺旋不稳定性。
+### [Symmetry-constrained coexistence of charge-three and charge-one Weyl points in nonmagnetic crystals](http://arxiv.org/abs/2610.17071v1)
+- **作者:** Ze-Xin Xue, Ke-Xin Pang, Yun-Yun Bai, Yanfeng Ge, Yan Gao
+- **研究目的:** 探索非磁性晶体中电荷三和电荷一Weyl点共存的对称性约束，并识别潜在的材料。
+- **主要发现:** 系统分类了所有230个空间群，并识别出12个（无SOC）和23个（有SOC）候选群，其中硼同素异形体TBR-B$\_{48}$和手性OBD-B$\_{48}$在无SOC下实现了这种配置，分别承载了沙漏型和非沙漏型C-3 WPs，并揭示了表面态的费米弧分支，为设计和寻找非磁性WSMs提供了基于对称性的指导。
 
 ---
 
-### [Interface Doping Mechanism of p-Type Conductivity in Mist-CVD-Grown LiGa5O8 Thin Films](http://arxiv.org/abs/2610.10401v1)
-- **作者:** Dong Su Yu, Shashu Tomar, Zixiu Huang, Kaitian Zhang, Sarker Md. Sadman, Vijay Gopal Thirupakuzi Vangipuram, Ye Lin, Walter R. L. Lambrecht, Roberto C. Myers, Hongping Zhao
-- **研究目的:** 通过系统比较雾化化学气相沉积 (mist-CVD) 生长的LiGa$\_5$O$\_8$薄膜的电学、成分和结构特性，探究其p型导电性的起源。
-- **主要发现:** 提出LiGa$\_5$O$\_8$/$\beta$-Ga$\_2$O$\_3$混合相的形成促进了电子从$\beta$-Ga$\_2$O$\_3$价带转移到LiGa$\_5$O$\_8$中的Li空位 ($V\_{\rm Li}$) 受主态，从而导致空穴积累并产生p型导电性。
+### [Capturing Coordination Core Topology in Metal--Organic Frameworks Using Persistent Mayer Homology](http://arxiv.org/abs/2610.17056v1)
+- **作者:** Caleb Simiyu Khaemba, Chun-Long Chen, Guo-Wei Wei
+- **研究目的:** 引入持久Mayer同调（PMH）方法，以定量、可扩展和可解释的方式捕获金属有机框架（MOFs）中配位核的拓扑结构。
+- **主要发现:** 引入了持久Mayer同调（PMH）来检测经典拓扑学无法识别的几何变异性，并证明结合元素分辨持久同调（ERPH）后，PMH表示显著提高了对八种氮氧相关吸附和自扩散性质的预测性能，表明PMH捕获的内部配位构型包含传统拓扑描述符未能充分表达的基本结构信息。
 
 ---
 
-### [Pseudospin Hall Transport Induced by Berry Curvature](http://arxiv.org/abs/2610.10376v1)
-- **作者:** Qinhui Jiang, Jidong Song, Qingyang Mo, Bo Li, Dongyi Wang, Shuang Zhang, Mengyao Li
-- **研究目的:** 揭示赝自旋-1 Dirac哈密顿量中Berry曲率纹理的面内极性，并阐明Berry曲率如何在系统中诱导赝自旋霍尔行为。
-- **主要发现:** 发现动量空间极性与实空间质量梯度之间的定向耦合决定了无能隙赝自旋霍尔模式的出现，并通过声学实验直接证实了这一方向选择规则。
+### [Bifurcation Structure of Double Hysteresis and Isolated Branches in a Parametric Duffing Nanoresonator](http://arxiv.org/abs/2610.17052v1)
+- **作者:** Dingda Zhang, Maria Kallergi, Chanyoung So, Eva M. Weig, Ahmed A. Barakat
+- **研究目的:** 实验和分析地确定在直接和参数驱动共同作用下，参数Duffing纳米谐振器中双滞后和孤立分支的响应结构如何随参数激励变化。
+- **主要发现:** 发现随着参数激励的增加，单个共振峰首先分裂成两个，然后通过两次连续的尖点分岔建立双滞后响应，并在参数不稳定性阈值处出现孤立分支结构，这些结果建立了在特定相位配置下连接不同响应结构的双分岔路径，为控制多稳态和切换提供了系统基础。
 
 ---
 
-### [Quantum simulation of the Heisenberg XXZ model on a Rydberg atom array](http://arxiv.org/abs/2610.10357v1)
-- **作者:** Matthias Werner, Artur García-Sáez
-- **研究目的:** 在商用Rydberg原子量子器件上实现基于畴壁编码的方法，以模拟具有各种各向异性的Heisenberg XXZ模型的时序演化。
-- **主要发现:** 成功探测了模型的XY和Ising相，并再现了两种相以及临界点处多个一阶和二阶可观测量的定性行为。
+### [Entanglement Sudden Death in Gapped Ground States](http://arxiv.org/abs/2610.17038v1)
+- **作者:** Robert Ferydouni, Thomas Jackson, Samuel O. Scalet
+- **研究目的:** 研究在有能隙基态中纠缠的突然死亡现象，即量子关联在一定距离后消失。
+- **主要发现:** 证明在任何维度有能隙基态的有限子系统中，纠缠长度是有限的；在一维系统中，证明了正规矩阵乘积态具有与A和C无关的有限纠缠长度，并且具有这种均匀纠缠长度的有限纯态具有与A和C无关的键维的矩阵乘积态表示，从而在一维中，纠缠长度将矩阵乘积态与其他所有纯态区分开来。
 
 ---
 
-### [Exciton switching and tunable exciton-phonon coupling in Oxygen doped ZnO nanorods](http://arxiv.org/abs/2610.10353v1)
-- **作者:** Aiswarya Rath, Kalyan Ghosh, Pratap K Sahoo
-- **研究目的:** 通过用 $250$ keV 氧离子辐照垂直排列的六方ZnO纳米棒，建立辐照诱导缺陷与激子和光学响应之间的直接联系。
-- **主要发现:** 随着离子注量的增加，近带边发射逐渐猝灭，导致完全的激子“OFF”态，而热退火可恢复发射，实现可逆的激子“OFF”或“ON”响应，同时激子-声子耦合强度的非单调变化揭示了缺陷、晶格畸变和激子局域化之间的竞争。
+### [Honeycomb Crystal in a Mass-Asymmetric Electron-Hole Bilayer](http://arxiv.org/abs/2610.17030v1)
+- **作者:** Shengdu Chai, Wangqian Miao, Yuqiang Li, Lei Wang, Xi Dai, X. C. Xie
+- **研究目的:** 研究质量不对称电子-空穴双层中的电子晶体形成，特别是在高密度下蜂窝晶体的稳定性。
+- **主要发现:** 发现随着密度的增加，系统从三角电子-空穴晶体转变为蜂窝晶体，最终熔化为与蜂窝或三角空穴晶格共存的巡游电子，且蜂窝空穴晶格支持顺磁、反铁磁和条纹有序自旋态，并提出BLG/hBN/WS$\_{2}$-WSe$\_{2}$异质结构作为实现预测蜂窝晶体的平台。
 
 ---
 
-### [PXtal: Learning to Align Powder X-Ray Diffraction and Crystal Structures under Information Asymmetry across Modalities](http://arxiv.org/abs/2610.10653v1)
-- **作者:** Zhuoran Yang, Christopher M. Collins, Bei Peng, Luke M. Daniels, Matthew J. Rosseinsky, Vladimir V. Gusev
-- **研究目的:** 引入PXtal框架，旨在解决粉末X射线衍射 (PXRD) 和晶体结构之间信息不对称的问题，学习对齐的PXRD和晶体表示。
-- **主要发现:** PXtal在六个测试集（包括四个零样本迁移集）上始终优于基线模型，在PXRD到晶体候选检索中表现出显著提升，尤其是在PXRD模式相似但晶体学上不同的非配对邻居情况下。
+### [Photon-stimulated decay of $χ$-matched ancillas causes unheralded bit flips in bosonic codes](http://arxiv.org/abs/2610.17017v1)
+- **作者:** Aleksandr Gulkanov
+- **研究目的:** 研究在玻色子编码中，$\chi$-匹配的辅助量子比特的光子激发衰变如何导致未预报的比特翻转。
+- **主要发现:** 证明了玻色子编码中的辅助量子比特，其计算能级$g$和$f$具有相同宇称和匹配的色散位移时，编码模式的光子会在辅助量子比特衰变速率的一阶打开$f \to g$衰变通道，导致未预报的比特翻转，并随着猫态尺寸线性增长，从而限制了噪声偏置。
 
 ---
 
-### [Electronic Structure Descriptors for CO$\_2$ Conversion Activity in Perovskite Oxides](http://arxiv.org/abs/2610.10268v1)
-- **作者:** Hyo-sun Jin, Jiyeon Kim, Sooran Kim
-- **研究目的:** 探究与带中心和带宽相关的六种电子结构描述符，以理解其在钙钛矿氧化物中CO$\_2$向CH$\_4$转化活性中的作用。
-- **主要发现:** 发现未占据的过渡金属 (TM) $3d$ 带中心、电荷转移能以及未占据TM $3d$ 与占据O $2p$ 带宽之比 ($W\_{3d}/W\_{2p}$) 与CH$\_4$活性呈负相关，并筛选出La$\_2$CoGaO$\_6$、La$\_2$CoAlO$\_6$和含Ti的组分作为有前景的催化剂。
+### [Microscopic Theory of the Acoustic Faraday Effect in Spin-Orbit Coupled Magnets](http://arxiv.org/abs/2610.17010v1)
+- **作者:** Antoine Matar, Haoting Xu, Hae-Young Kee
+- **研究目的:** 发展自旋-声子耦合磁体中声学法拉第效应的微观理论，以解释横向声学极化旋转。
+- **主要发现:** 发现破坏旋转对称性的磁序会产生各向异性声子响应和椭圆极化本征模，导致法拉第旋转不能仅归因于霍尔粘度，并推导出Kitaev ($K$) 和 $Γ$ 相互作用以及应变诱导 $g$-张量贡献产生的横向应变耦合，应用于$\alpha$-RuCl$\_{3}$时，发现对称性破缺改变了法拉第响应，揭示了霍尔粘度约为假设旋转对称性时推断值的两倍。
 
 ---
 
-### [Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy](http://arxiv.org/abs/2610.10255v1)
-- **作者:** Xinze Yang, Sandra Sajan, Maria N. Gastiasoro, Miguel M. Ugeda, Eduardo H. da Silva Neto
-- **研究目的:** 引入一种新的方法，通过直接测量实空间中的局部波矢量，以规避Lawler-Fujita算法在扫描隧道显微镜 (STM) 图像中提取局部应变时面临的局限性。
-- **主要发现:** 提出的局部波矢量映射 (LWM) 算法即使在相位本身不明确的区域也保持鲁棒性，并成功应用于实验STM数据，解析了4Ha-NbSe$\_2$和2H-NbSe$\_2$中的电荷密度波 (CDW) 不公度性、晶格畸变和CDW相位涡旋。
+### [High-Efficiency Field-Free Superconducting Diodes in Mo$\_2$N/FePt Bilayers](http://arxiv.org/abs/2610.16972v1)
+- **作者:** Juan S. Cruz, Emilio De Biasi, Juan C. Zapata, Yeonkyu Lee, Jeehoon Kim, Nestor Haberkorn
+- **研究目的:** 在室温生长的Mo$\_{2}$N/FePt双层膜中演示近乎理想的无场超导二极管行为。
+- **主要发现:** 在Mo$\_{2}$N/FePt双层膜中实现了近乎理想的无场超导二极管行为，其响应与剩余FePt条纹畴产生的通量进入和涡旋运动的极性依赖阈值一致，薄双层膜的二极管效率高达约85%，且非互易性可通过面内磁制备角连续调谐，并通过FePt层的滞后反转实现可逆切换。
 
 ---
 
-### [Deterministic Vortex Generation from Coupled Trapped Polariton Condensate Triad](http://arxiv.org/abs/2610.10251v1)
-- **作者:** X. Qin, N. Pitanios, S. Dam, S. Betzold, S. Höfling, S. V. Koniakhin, P. G. Savvidis
-- **研究目的:** 展示在耦合的捕获极化子凝聚体三联体中，通过动量空间发射分布直接读出，实现三元拓扑不同涡旋态的确定性生成和全光切换。
-- **主要发现:** 通过调节非共振泵浦功率，实现了铁磁同相态和两个具有全局相位缠绕的受挫态之间的选择，从而能够按需控制轨道角动量，并建立了基于三元逻辑的可重构手性光生成平台。
+### [Emergent low-energy thermodynamics and universal $B/T$ scaling in $α$-RuCl$\_3$](http://arxiv.org/abs/2610.16961v1)
+- **作者:** A. Khansili, B. J. Ramshaw, A. Bangura, H. -Y. Kee, R. D. McDonald, F. Assaad, A. Rydh, A. Shekhter, K. A. Modic
+- **研究目的:** 对$\alpha$-RuCl$\_{3}$进行广泛的高场比热研究，以深入理解其低能激发态的性质。
+- **主要发现:** 发现$\alpha$-RuCl$\_{3}$的低能热力学表现出普遍的$B/T$标度行为，具有与外加磁场成比例的单一有效能量尺度，只要磁场不接近$c$-轴，这种行为从反铁磁相边界持续到最高磁场，表明Kitaev微扰极限可能不适用于描述偏离$c$-轴磁场下的$\alpha$-RuCl$\_{3}$低能热力学。
 
 ---
 
-### [Prediction of the thermal neutron response of grain-boundary impedance in Gd-doped ceria based on the radiation-ionic effect](http://arxiv.org/abs/2610.10191v1)
-- **作者:** Zhongming Zhang
-- **研究目的:** 基于Gd掺杂二氧化铈中已报道的辐射-离子效应，预测其晶界阻抗对热中子的响应。
-- **主要发现:** 预测在室温下，对于 $10^9$ 和 $10^{10}$ cm$^{-2}$s$^{-1}$ 的热中子通量，晶界电阻比分别约为 $150$ 和 $1300$，且该响应在 $60^\circ$C 和 $80^\circ$C 以上消失。
+### [First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics](http://arxiv.org/abs/2610.16949v1)
+- **作者:** Dallin O. Nielsen, Massimo V. Fischetti
+- **研究目的:** 通过第一性原理计算半导体和介电材料中电子-空穴对的产生能量，特别是AlN、3C-SiC、4H-SiC、Si和SiO$\_{2}$。
+- **主要发现:** 成功计算了AlN、3C-SiC、4H-SiC、Si和SiO$\_{2}$的电子-空穴对产生能量，其值分别为约12.2、6.5、7.3、3.10和16.7 eV/对，与实验数据吻合良好，并通过GW/BSE方法显著提高了Si的计算精度至约3.50 eV/对，揭示了声子发射与电离之间的竞争以及能量损失函数中等离子体峰的位置和形状是决定产生能量的关键因素。
 
 ---
 
-### [Quantum-vortex excitons beyond band topology](http://arxiv.org/abs/2610.10175v1)
-- **作者:** Jin-Hyung Choi, Sang-Hoon Han, Young-Kwon Han, Jun-Won Rhim, Sun-Woo Kim, Joshua J. P. Thompson
-- **研究目的:** 解释库仑相位匹配如何在平坦Chern带中稳定量子涡旋激子作为最低能量束缚态。
-- **主要发现:** 发现库仑相位匹配通过激子相差和Bloch重叠相的规范不变组合来降低库仑能，从而稳定量子涡旋激子，并证明这种激子重排序可以直接通过光学吸收光谱中的暗涡旋激子向亮零缠绕激子的转变来追踪。
+### [Microscopic Modeling of Interlayer Tunneling in Twisted Bilayer Cuprates](http://arxiv.org/abs/2610.16930v1)
+- **作者:** Siddhant Panda, Andreas Kreisel, Laura Fanfarillo, P. J. Hirschfeld
+- **研究目的:** 发展扭曲双层铜酸盐系统中层间隧穿的精确微观模型，以更好地理解其超导相图和竞争序参量。
+- **主要发现:** 通过计算扭曲方格模型中每个位点$d\_{x^2-y^2}$波函数之间的轨道重叠，拟合了面内跳跃并计算了层间隧穿振幅，发现符号变化的隧穿振幅、直接隧穿项的强扭曲角依赖性以及长程隧穿振幅通常优于直接隧穿，并确定了相图，发现时间反演对称性破缺（TRSB）$d+id'$态的区域减小，且在接近$45^\circ$扭曲时约瑟夫森临界电流受到强烈抑制，与实验观测一致。
 
 ---
-### [A Superfluid at All Temperatures](http://arxiv.org/abs/2610.10169v1)
-- **作者:** Sven Harder, Adar Sharon
-- **研究目的:** 构建具有有限场数的幺正、局域、3+1维共形场论 (CFT)，使其热态在所有温度下都打破连续全局对称性。
-- **主要发现:** 构建了有限-$N$版本的Chaudhuri--Choi--Rabinovici理论，其固定点圆圈上存在一个有序弧，该弧上的一系列固定点在任意弱耦合下都可控，并且弱规范对称性可产生在指数温度范围内存在的超导体。
+### [Mutual information across the commensurate--incommensurate crossover and near the Kosterlitz--Thouless point of the spin-$\tfrac12$ $J\_1$--$J\_2$ Heisenberg chain](http://arxiv.org/abs/2610.16915v1)
+- **作者:** Wuttichai Pankeaw, Pruet Kalasuwan
+- **研究目的:** 研究自旋-$1/2$ $J\_1$--$J\_2$ 海森堡链在共度-非共度转变和Kosterlitz--Thouless点附近的互信息行为。
+- **主要发现:** 在共度-非共度转变和Kosterlitz--Thouless点附近，标量通道在块互信息中起主导作用，并且互信息相对于场论值的修正项在KT点附近表现出特定的幂律衰减。
 
 ---
 
-### [Lattice dynamics of disordered phases of silicon and spatially resolved computations of thermal conductivity](http://arxiv.org/abs/2610.10165v1)
-- **作者:** A. Gautam, C. Ugwumadu, L. A. M. Rosset, R. M. Tutchton, S. Nakhmanson, D. A. Drabold
-- **研究目的:** 深入研究无序硅的晶格动力学，并探讨其与热输运过程的关联。
-- **主要发现:** 无定形硅中存在谐波模式，其原子位置均方根变化异常大，这些动力学特性决定了热输运过程，并与位点投影热导率密切相关。
+### [Out-of-time-order hydrodynamics and scrambling](http://arxiv.org/abs/2610.16888v1)
+- **作者:** Marta Bucca, Akash Jain, Márk Mezei, Alexey Milekhin
+- **研究目的:** 分析流体动力学对通过非时间序关联函数（OTOCs）探测的量子纠缠（scrambling）的预测。
+- **主要发现:** 构建了一个扩展的流体动力学有效场论，可以准确预测能量流OTOC的指数增长并达到混沌界限，表明流体动力学的普适性延伸到OTOC等复杂可观测量。
 
 ---
 
-### [Beyond Equilibrium Raman Thermometry: Fermi-Level Control of the Anti-Stokes Response in Graphene](http://arxiv.org/abs/2610.10159v2)
-- **作者:** Martin Jindra, Luka Pirker, Tim Verhagen, Ciarán Fowley, Martin Kalbáč, Matěj Velický, Riichiro Saito, Ado Jorio, Otakar Frank
-- **研究目的:** 探究石墨烯中非平衡电子和声子布居对反斯托克斯拉曼响应的影响，特别是费米能级对其的控制作用。
-- **主要发现:** 随着费米能级偏离狄拉克点，石墨烯的G模反斯托克斯强度出现强烈且可逆的抑制，而斯托克斯强度保持不变，这表明反斯托克斯拉曼散射是探测石墨烯中电子-声子耦合和非平衡声子动力学的敏感探针。
+### [Magnetic properties and excitation spectrum of the S = 1/2 three-legged spin ladder, LiMoOP2O7](http://arxiv.org/abs/2610.16856v1)
+- **作者:** Aly H Abdeldaim, Alexander A. Tsirlin, Jacques Ollivier, Clemens Ritter, Robin S. Perry, Lucy Clark, Gøran J. Nilsen
+- **研究目的:** 通过实验和密度泛函理论计算，详细研究$S = 1/2$ Mo$^{5+}$焦磷酸盐LiMoOP$\_2$O$\_7$的磁基态及其磁激发。
+- **主要发现:** LiMoOP$\_2$O$\_7$在$T\_\textrm{N} = 3.5$~K处表现出长程共度磁序，其磁矩减小，且自旋哈密顿量揭示了主导的反铁磁腿内相互作用、较弱的铁磁梯级相互作用以及显著的层间铁磁耦合。
 
 ---
 
-### [Surface Physics of Low-Dimensional Pnictogen Chalcohalides and Its Impact on Photovoltaic Technologies](http://arxiv.org/abs/2610.10136v1)
-- **作者:** Cibrán López, David Rovira, Álex Jiménez-Arguijo, Zacharie Jehl, Edgardo Saucedo, Claudio Cazorla
-- **研究目的:** 结合第一性原理计算和器件级建模，研究低维硫族卤化物（MChX）的表面能学和能带对齐，以理解其在光伏技术中的效率限制。
-- **主要发现:** 尽管(011)和(010)表面形成能差异很小，但其能带边缘可相对移动高达$0.8$eV，且这些面共存可使BiSBr太阳能电池的开路电压降低高达$0.6$V，表明表面取向是电荷提取的关键设计参数。
+### [Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2](http://arxiv.org/abs/2610.16850v1)
+- **作者:** Ashish Kumar Singh, Irina V. Lebedeva
+- **研究目的:** 开发一种高斯过程辅助的微扰弹性带（NEB）工作流程，以加速金红石型TiO$\_2$中电子小极化子跳跃的计算。
+- **主要发现:** 开发的信任限制机器学习加速NEB工作流程能够高效准确地计算金红石型TiO$\_2$中电子小极化子跳跃的势垒，并揭示了超晶胞尺寸对势垒值的影响。
 
 ---
 
-### [Characterizing Fermionic Non-Gaussianity in the Sachdev-Ye-Kitaev Model via Replica Twist Entropy](http://arxiv.org/abs/2610.10123v1)
-- **作者:** Ning Sun, Pengfei Zhang
-- **研究目的:** 提出并利用“副本扭曲熵”作为探针，表征纯费米子态中的非高斯性，并研究其在Sachdev-Ye-Kitaev (SYK) 模型中的动力学。
-- **主要发现:** 建立了分析SYK模型中副本扭曲熵的通用框架，揭示了在参数空间中$α$和演化时间$t$的新型动力学相图，表现出在$α=π/4$处的自发$Z\_2$对称性破缺和长时程中$α$的普适尖峰。
+### [Molecular Precursor Chemistry Shapes Early-Stage Reaction Pathways in Nitrogen-Doped Carbon Nanotube Synthesis](http://arxiv.org/abs/2610.16831v1)
+- **作者:** Narayan N. Som, Lukasz Nowicki, Tomasz Gizewski, Karolina Z. Milowska, Anna Wroblewska, Caghan Tuncer, Maciej Trzaskowski, Olga Iwasinska-Kowalska, Tomasz Plocinski, Mariusz Zdrojek, Krzysztof K. Koziol, Malgorzata Jakubowska, Agnieszka Lekawa-Raus
+- **研究目的:** 探究分子前体化学如何在氮掺杂碳纳米管（CNT）合成的早期阶段影响反应路径和最终结构特性。
+- **主要发现:** 氮掺杂前体显著改变了催化剂演化过程中的局部Fe-碳和Fe-SiO$\_2$相互作用，并且不同含氮前体（吡啶和吡嗪）具有独特的分解路径，从而在碳纳米管合成的早期阶段决定了其结构特性和氮掺杂效率。
 
 ---
 
-### [Gentle Floquet control of orbital Hall effect and orbital inverse Faraday effect](http://arxiv.org/abs/2610.10109v2)
-- **作者:** Pei-Han Lin, Roderich Moessner, Egor I. Kiselev
-- **研究目的:** 演示在具有强相空间限制的系统中，如何通过弱Floquet驱动实现轨道霍尔效应和轨道逆法拉第效应的精细控制。
-- **主要发现:** 即使在适度的电场振幅下，Floquet驱动也能显著增强轨道霍尔电导率，并且圆偏振驱动通过磁化电子诱导逆轨道法拉第效应，其磁化率由决定共振Floquet杂化的带间量子度量控制。
+### [Quantum Ising transition on the Cayley tree: boundary criticality, universality, and an effective Bethe line](http://arxiv.org/abs/2610.16774v1)
+- **作者:** Pietro Richelli, Natalia Chepiga
+- **研究目的:** 研究有限Cayley树上横场Ising模型的量子临界性，并揭示其广泛的边界如何改变量子相变的性质。
+- **主要发现:** 有限Cayley树上的横场Ising模型存在一个由边界驱动的连续相变，其临界点和临界指数与无限Bethe晶格不同，但通过精细调节局部边界场可以恢复无限Bethe晶格的平均场临界行为。
 
 ---
 
-### [Quantification of plastic deformation in anorthite using micropillar compression](http://arxiv.org/abs/2610.10081v1)
-- **作者:** Sarah Incel, Chunhua Tian, Anja Schreiber, Vladimir Roddatis, Sandra Korte-Kerzel
-- **研究目的:** 利用微柱压缩技术量化钙长石中特定滑移系的强度以及机械孪生所需的应力。
-- **主要发现:** 钙长石中机械（斜长石）孪生的临界分切应力约为$300$ MPa且不受温度或应变率影响，而滑移激活的屈服应力随温度升高而显著降低，其中孪生是最易激活的变形机制。
+### [Engineering Ferroelectric Phases in BaTiO$\_3$ Films via Buffer-Layer Induced Misfit Strain Reversal](http://arxiv.org/abs/2610.16766v1)
+- **作者:** A. S. Mikheykin, N. V. Lyanguzov, A. S. Konstantinov, V. B. Shirokov, E. D. Linnik, T. Bondar, A. G. Razumnaya
+- **研究目的:** 通过引入导电缓冲层，在BaTiO$\_3$薄膜中调控应变状态，从而工程化其铁电相。
+- **主要发现:** 在BaTiO$\_3$薄膜中插入La$\_{0.67}$Sr$\_{0.33}$MnO$\_3$缓冲层可以逆转有效应变状态，从而诱导出非传统的铁电相序（顺电 $\rightarrow$ 正交 $\rightarrow$ 单斜），并产生自极化和不对称PFM滞后，揭示了导电缓冲层在控制铁电对称性中的关键作用。
 
 ---
 
-### [Universal orbital-coupling rules for hydrogen-defect interactions in bcc metals](http://arxiv.org/abs/2610.10063v1)
-- **作者:** Qianxi Zhu, Hao-Xuan Huang, Zichen Zhang, Hong-Bo Zhou, Wang Gao
-- **研究目的:** 提出一种普适的轨道耦合模型，以量化氢在体心立方 (bcc) 金属中与各种缺陷（如纳米空洞、空位环和晶界）的相互作用能。
-- **主要发现:** 该模型揭示了缺陷受限环境中非传统的s-d耦合规则，即H-金属相互作用遵循独特的配位数依赖规律，而H-H相互作用则表现出H-金属耦合的距离衰减规律，这对于重现实验观察到的H脱附双峰剖面至关重要。
+### [Transport Determines Spectral Distance in Mesoscopic Thermodynamics](http://arxiv.org/abs/2610.16752v1)
+- **作者:** Giorgio Sonnino
+- **研究目的:** 在介观正则模型中，从正厄米输运张量推导热力学态之间的距离。
+- **主要发现:** 热力学态之间的谱距离可以由对称输运张量$g$确定为$G=2g^{-1}$，其中反对称张量的梯度不改变该距离，并且输运耦合决定了该度量的各向异性。
 
 ---
 
-### [Charge transport in two-dimensional conductors with hybrid three-component plasma](http://arxiv.org/abs/2610.10060v1)
-- **作者:** A. D. Levin, V. A. Chitta, Z. D. Kvon, N. N. Mikhailov, G. M. Gusev
-- **研究目的:** 研究在无能隙HgTe量子阱中，由无质量狄拉克载流子和热激活重空穴组成的混合三组分等离子体中的电荷输运。
-- **主要发现:** 在电荷中性附近，电阻近似呈$T^2$增长，这与对称狄拉克等离子体的预期温度无关电阻率形成鲜明对比，通过短程电子-空穴相互作用模型可以重现实验数据，表明轻电子与非简并重空穴之间存在准弹性散射。
+### [Emergent Spinorial Structure in Mesoscopic Irreversible Thermodynamics](http://arxiv.org/abs/2610.16738v1)
+- **作者:** Giorgio Sonnino
+- **研究目的:** 在介观正则模型中，从输运系数重构热力学坐标的几何结构，并探索其中涌现的旋量结构。
+- **主要发现:** 从输运系数可以构建热力学坐标的几何结构，其中谱距离仅依赖于对称输运张量，并且在恒定昂萨格系数下，Clifford表示给出了相同的距离和由输运矩阵确定的代数，但旋量表示不引入物理自旋自由度。
 
 ---
 
-### [Coupled quantum critical states in a circuit simulator](http://arxiv.org/abs/2610.10048v1)
-- **作者:** D. B. Karki, Andrew K. Mitchell
-- **研究目的:** 探究在电路模拟器中，由双通道近藤临界点产生的耦合近藤任意子的行为，以理解它们如何结合形成新的非费米液体 (NFL) 相。
-- **主要发现:** 揭示了具有连续可调输运和磁化率指数的鲁棒非费米液体相，并通过玻色化、量子布朗运动和数值重整化群计算提供了统一描述，表明更强的位点间耦合最终会产生屏蔽费米液体。
+### [1/f frequency-noise reduction in nanomechanical resonators by dissipation dilution](http://arxiv.org/abs/2610.16711v2)
+- **作者:** Kostas Kanellopulos, Silvan Schmid
+- **研究目的:** 揭示纳米机械谐振器中$1/f$频率噪声的来源，并展示通过耗散稀释降低该噪声的方法。
+- **主要发现:** 纳米机械谐振器中的$1/f$频率噪声源于张力的热噪声，其闪烁系数$h\_{-1}=E k\_{\mathrm{B}} T/(2πVσ\_0^2 Q\_{\mathrm{el}})$可以通过耗散稀释（即增加预应力$σ\_0$）来有效降低，从而延长传感器的有用积分时间。
 
 ---
 
-### [Fourth-order perturbation theory for the Frohlich polaron: Analytic structure of the weak-coupling series and the crossover to strong coupling](http://arxiv.org/abs/2610.10030v1)
-- **作者:** Sankar Das Sarma
-- **研究目的:** 计算三维Fröhlich极化子的基态能量和有效质量的瑞利-薛定谔微扰级数，直至耦合常数$\alpha$的四阶。
-- **主要发现:** 得到了有效质量的三阶和四阶新系数，发现该级数具有非零收敛半径，并揭示了在$\alpha \approx 8.5$附近存在一个简单的幂律奇点，标志着从弱耦合到强耦合的精确交叉。
+### [Destructive Interference of a Charge Density Wave in the Skyrmion Magnet GdRu2Si2](http://arxiv.org/abs/2610.16682v1)
+- **作者:** G. D. A. Wood, D. A. Mayoh, F. Orlandi, A. Bombardi, D. D. Khalyavin, P. Manuel, S. H. Moody, P. D. Hatton, R. D. Johnson, T. W. Chamberlain, O. A. Petrenko, M. R. Lees, G. Balakrishnan
+- **研究目的:** 研究斯格明子磁体GdRu$\_2$Si$\_2$中温度依赖的自旋-电荷耦合，特别是电荷密度波的行为。
+- **主要发现:** 在GdRu$\_2$Si$\_2$中，多Q基态的自旋密度波分量驱动电荷有序，但磁螺旋的出现通过相消干涉抑制了电荷有序。
 
 ---
 
-### [Solphin: Photovoltaic efficiency analysis for bulk materials using Python](http://arxiv.org/abs/2610.10028v1)
-- **作者:** Philippa U Cox, Peter P Russell, Andrea Crovetto, Alexander G Squires, Louie Slocombe, David O Scanlon
-- **研究目的:** 开发并发布Solphin，一个用于周期性固态密度泛函理论光伏计算的Python软件包，以提高材料光伏潜力评估的效率和用户友好性。
-- **主要发现:** Solphin软件包能够计算光伏品质因数、详细平衡和光谱限制最大效率等关键光伏指标，显著提升了评估材料光伏潜力的可访问性、可重复性和便捷性。
+### [Domain-wall-to-domain interconversion in a polar conducting oxide](http://arxiv.org/abs/2610.16681v1)
+- **作者:** Martin F. Sarott, Majid Ahmadi, Johanna van Gent González, Ewout van der Veer, Mads C. Weber, Jacopo Pinna, Daniel A. Chaney, Arijit Sinha, Hamideh Hassani, Horatio R. J. Cox, Thomas Perrault, Amir Sabet Ghorabaei, Maria A. Loi, Philippe Ghosez, Bart J. Kooi, Beatriz Noheda
+- **研究目的:** 在极性导电氧化物WO$\_3$中，实现畴壁到畴的可逆维度转换，以探索其功能特性。
+- **主要发现:** 通过扫描探针尖端施加交流电场诱导局部加热，可以将极性WO$\_3$中导电的非极性纳米畴壁可逆地扩展成三维功能区域，从而实现畴（极性）和畴壁（导电性）之间互斥特性的空间控制。
 
 ---
 
-### [Efficient Optimization of Tensor Rings with Low-Rank Environments](http://arxiv.org/abs/2610.10027v1)
-- **作者:** Matthieu Jeannin, Alessandro Chessari, Jan Von Delft
-- **研究目的:** 扩展现有方法，开发一种高效且数值鲁棒的两点Ring-DMRG算法，用于优化具有低秩环境的张量环，特别是针对周期性系统。
-- **主要发现:** 提出的两点Ring-DMRG算法在键维度上保持了与标准DMRG相同的立方标度，但所需键维度显著减小，并且其低秩环境构造为信念传播提供了一个系统的推广。
+### [Confinement-deconfinement transitions in the dimer-loop models on two-dimensional non-bipartite lattices](http://arxiv.org/abs/2610.16676v1)
+- **作者:** Jay Pandey, Souvik Kundu, Kedar Damle
+- **研究目的:** 研究二维非二分晶格（如kagome和三角晶格）上二聚体-环模型中的拓扑束缚-去束缚相变。
+- **主要发现:** 在非二分晶格上的二聚体-环模型中，存在一种拓扑束缚-去束缚相变，其拓扑区别在于$Z\_2$值缠绕数，并且该相变属于与二分晶格二聚体-环模型相同的Ising普适类。
 
 ---
 
-### [Screening of tensor properties by magnetic point group symmetries: The PythMPG code package](http://arxiv.org/abs/2610.10024v1)
-- **作者:** Andrea Urru, Turan Birol, Trey Cole, David Vanderbilt
-- **研究目的:** 开发一个名为PythMPG的Python代码包，用于根据磁点群对称性筛选张量性质，以识别具有特定物理效应的候选材料。
-- **主要发现:** PythMPG能够以自洽的方式进行对称性分析，确定每个磁点群允许的张量及其独立分量的数量，为凝聚态物理中的材料发现提供了重要工具。
+### [Topological Chiral Superconductivity from Doping Correlated Charge Transfer Insulator with Orbital Magnetism](http://arxiv.org/abs/2610.16674v1)
+- **作者:** Wen Sun, Yuan Yang, Shou-Shu Gong, Wen Huang
+- **研究目的:** 研究在具有轨道磁性的掺杂关联电荷转移绝缘体中，拓扑手性超导电性的涌现。
+- **主要发现:** 通过掺杂具有轨道磁性的强相互作用电荷转移绝缘体，可以实现具有$p+ip$对称性的拓扑超导基态，其手性超导性源于手性电荷转移激发产生的关联跳跃过程。
 
 ---
 
-### [Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface](http://arxiv.org/abs/2610.10011v1)
-- **作者:** Laurence A. Jacobs, Guillermo R. Zemba
-- **研究目的:** 区分拓扑绝缘体-超导体界面处分数热导的拓扑和动力学起源，并确定何时可以通过测量进行区分。
-- **主要发现:** 证明了一个定理，指出在完全热平衡下，热导测量无法区分具有相同反常数据的两种实现，但洛伦兹比率和过剩散粒噪声可以共同解析机制，前提是量子霍尔边缘不与超导体相邻。
+### [Nontrivial topological properties from the cooperation of static perturbations and Floquet fields in type-II semi-Dirac semimetals](http://arxiv.org/abs/2610.16659v1)
+- **作者:** Wen-Hao Bian, Jing Wang
+- **研究目的:** 全面理论研究在静态微扰、Floquet场以及两者协同作用下，II型半狄拉克半金属的拓扑和反常输运性质。
+- **主要发现:** 静态微扰、Floquet场及其协同作用在II型半狄拉克半金属中诱导出丰富的拓扑相变和反常输运现象，其中协同作用可产生多个光可调的能隙闭合点和Chern绝缘体相，并伴随Berry曲率偶极子和反常霍尔/能斯特/热霍尔电导的显著变化。
 
 ---
 
-### [Cotunneling-Assisted Redistribution of Nonpassivity in a Photosynthetic Junction](http://arxiv.org/abs/2610.10001v1)
-- **作者:** Manjet Rajak, Trishna Kalita, Debasish Sharma, Himangshu Prabal Goswami
-- **研究目的:** 探究共隧穿如何影响光系统II反应中心（模拟为非平衡分子结）中无源态的排序和非无源性的重新分布。
-- **主要发现:** 共隧穿重新分配了醌受体、供体-脱镁叶绿素自由基对以及具有非活性分支色素强贡献的激子态之间的可提取非平衡能量，但在高库仑相互作用下，共隧穿不会产生无源态重排。
+### [Admittance extraction of quantum dot arrays for charge sensing](http://arxiv.org/abs/2610.16590v1)
+- **作者:** Conor Power, Mathieu Moras, Andrii Sokolov, Robert Bogdan Staszewski, Elena Blokhina
+- **研究目的:** 利用速率方程框架，演示量子点阵列的导纳提取，以匹配实验反射测量结果，用于电荷传感。
+- **主要发现:** 通过半经典速率方程框架，成功实现了量子点阵列的导纳提取，并将其扩展到双量子点系统，模拟结果与从实验数据提取的Fermi-Hubbard参数校准后高度吻合。
 
 ---
 
-### [Programmable Asymmetric Spin-Orbit Torque Switching for Spin Logic](http://arxiv.org/abs/2610.09950v1)
-- **作者:** Rongkun Han, Dahai Wei, Jianhua Zhao, Yuan Lu
-- **研究目的:** 演示并理解平面内各向异性 (IMA) 和垂直磁各向异性异质结构中，无磁场自旋轨道矩诱导的非对称磁化翻转，以实现可编程自旋逻辑。
-- **主要发现:** 非对称翻转源于打破$M\_{yz}$镜像对称性的面内有效场$H\_y$，通过控制IMA层的磁化方向，可以调节翻转极性和偏置方向，从而在单个霍尔棒器件中实现可重构自旋逻辑操作。
+### [Tailored VxOy Metal--Insulator-Transition Oxides for Temperature-Triggered Smart Insulation in Superconducting Coils](http://arxiv.org/abs/2610.16581v1)
+- **作者:** Mattia Ortino, Davide Uglietti, Andrea Testino, Nicola Casati, Alexander Steppke, Wiktoria Wnetkowska, Andrea Masi, Kamil Sedlak
+- **研究目的:** 探索钒氧体系，以开发具有较低金属-绝缘体转变（MIT）温度的氧化物，用于超导线圈中的温度触发智能绝缘。
+- **主要发现:** 通过TGA氧化还原处理，成功制备出在约127 K处具有有效MIT的VxOy多相粉末，比V$\_2$O$\_3$低约25 K，并且V$\_2$O$\_3$的低温比热测量结果修正了现有模型。
 
 ---
 
-### [Construction-Dependent Floquet Topology in Circularly Driven $N$-Stacked Su-Schrieffer-Heeger Chains](http://arxiv.org/abs/2610.09925v1)
-- **作者:** Aayushi Agrawal, Jayendra N. Bandyopadhyay
-- **研究目的:** 探究在圆偏振驱动下，由$N$个堆叠的Su-Schrieffer-Heeger (SSH) 链构成的二维晶格中，Floquet拓扑结构如何依赖于其具体构建方式。
-- **主要发现:** 尽管在静态极限下单元链在酉等价下拓扑相同，但不同的构建方式在圆偏振驱动下会产生不同的Floquet相结构，包括具有不同Chern数$C\_L$和方向Zak相的低频相，表明物理构建在Floquet拓扑结构中起决定性作用。
+### [Probing quantum nonlinear phononics in multilayer graphene with time-resolved Raman scattering](http://arxiv.org/abs/2610.16566v1)
+- **作者:** Jakob Dolgner, Michael Rübhausen, Dirk Manske
+- **研究目的:** 利用非平衡自发拉曼散射作为敏感探针，研究多层石墨烯中的量子非线性声子学。
+- **主要发现:** 半经典处理显著改善了与量子动力学的吻合度，并且在强泵浦场下，驱动$\mathrm{E}\_{1u}$模式会显著改变$\mathrm{E}\_{2g}$拉曼光谱，表明需要考虑泵浦诱导的拉曼矩阵元动力学或替代能量路径来解释实验结果。
 
 ---
 
-### [Self-induced spin-orbit torque switching in a synthetic antiferromagnetic Co 2 MnGa /MnGa bilayer](http://arxiv.org/abs/2610.09885v1)
-- **作者:** Rongkun Han, Haohang Cheng, Dahai Wei, Yuan Lu, Jianhua Zhao
-- **研究目的:** 演示并研究在由Co$\_2$MnGa/MnGa双层构成的合成反铁磁体中，自旋轨道矩 (SOT) 驱动的磁化翻转机制。
-- **主要发现:** 在这种不含重金属的结构中，Co$\_2$MnGa薄膜同时作为自旋流源和磁性层，其产生的SOT首先翻转MnGa层，进而通过强的反铁磁交换耦合触发Co$\_2$MnGa层的反转，实现了自诱导磁化翻转。
+### [Real-space obstruction control of the shift current in two-dimensional Quantum Spin Hall insulators](http://arxiv.org/abs/2610.16544v1)
+- **作者:** Michele Bagaglini, Mattia Iannetti, Jonas Erhardt, Jörg Schäfer, Ralph Claessen, Giorgio Sangiovanni, Gianni Profeta
+- **研究目的:** 利用紧束缚模型，研究二维量子自旋霍尔绝缘体中，通过实空间阻塞来控制位移电流的机制。
+- **主要发现:** 阻塞拓扑相表现出显著增强的位移电流响应，其增强源于属于不同Wannier中心扇区的态之间的光学跃迁，这些跃迁允许光激发时产生大的实空间位移，并能控制位移电流的符号。
 
 ---
 
-### [Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials](http://arxiv.org/abs/2610.09837v2)
-- **作者:** Hongwei Du, Dingyang Lv, Baole Wei, Yu Ren, Feng Yu, Xin He, Bonan Zhu, Jiahui Liu, Yongda Huang, Yongheng Li, Jianjun Liu, Siqi Shi, Hong Wang, Ziheng Lu
-- **研究目的:** 评估并识别通用机器学习力场在多组分材料中泛化误差的来源。
-- **主要发现:** 力场误差与训练参考覆盖率、局部几何异质性、距离方向性（压缩侧误差更高）和元素响应相关，为优化训练数据采样和模型表示提供了指导。
+### [Interlayer Registry Controls Polar Topology in Twisted Bilayer h-BN](http://arxiv.org/abs/2610.16528v1)
+- **作者:** Di Fan, Changming Ke, Shi Liu
+- **研究目的:** 研究在扭曲双层h-BN中，层间对齐如何控制极性拓扑结构。
+- **主要发现:** 在扭曲双层h-BN中，空间变化的层间对齐控制着极化纹理，随着扭曲角的减小，莫尔极化纹理从紧凑的涡旋状演变为扩展的三角形AB/BA畴，并且这种极性拓扑结构对热波动具有鲁棒性，可通过扭曲和层间变形进行调控。
 
 ---
 
-### [Singlet sector of the vector model with angular potential](http://arxiv.org/abs/2610.09815v1)
-- **作者:** Srijan Kumar
-- **研究目的:** 研究在存在角势$\Omega$的情况下，大$N$、$O(N)$矢量模型在$S^1\_β\times S^2\_r$上的单重态扇区。
-- **主要发现:** 该模型在温度$T$和角势$\Omega$满足$T^2r^2\sim N (1-ω^2)$关系时会发生相变，其中$\omega=r\Omega$，且在未开隙相中，自由能在$\omega^2=1$附近表现出双极点。
+### [Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$\_3$ using Neural Network Potentials](http://arxiv.org/abs/2610.16521v1)
+- **作者:** Kazutaka Nishiguchi, Ryota Yamamoto, Seiichiro Ten-no
+- **研究目的:** 利用神经网络势（NNP）理论研究SrTiO$\_3$（STO）中的氧空位扩散。
+- **主要发现:** 开发的神经网络势（NNP）模型能够准确重现SrTiO$\_3$的氧空位形成能和原子间力，并通过大规模分子动力学模拟获得了与实验数据高度吻合的氧空位扩散系数和迁移焓。
 
 ---
 
-### [Gate-driven Switching Dynamics in a Fully Suspended Superconducting Nanowire](http://arxiv.org/abs/2610.09806v1)
-- **作者:** Matthijs Rog, Giacomo Trupiano, Filippo Antola, Mario Cuoco, Giorgio De Simoni, Kaveh Lahabi, Francesco Giazotto
-- **研究目的:** 研究完全悬浮超导纳米线中的栅极驱动开关动力学，以区分漏电驱动和场驱动机制。
-- **主要发现:** 观察到栅极电压导致相滑移逃逸率$\Gamma$在六个数量级上呈指数增强，且$\Gamma$对栅极电压极性反转不具有不变性，这表明静电场与相滑移中心之间存在复杂的相互作用。
+### [Superconductivity from altermagnetic fluctuations: the crucial role of sublattice polarization](http://arxiv.org/abs/2610.16507v1)
+- **作者:** Mats Barkman, Andreas Kreisel, Brian M. Andersen
+- **研究目的:** 研究在非磁有序但存在交变磁涨落的系统中，超导电性的产生机制，并揭示亚晶格极化（SLP）的关键作用。
+- **主要发现:** 在存在交变磁涨落的系统中，亚晶格极化（SLP）通过抑制不同亚晶格间的库珀对形成，从而促进长程同亚晶格键的主导作用，导致自旋三重态超导电性的出现。
 
 ---
 
-### [Effect of uniform bond-charge order on longitudinal spin-susceptibility jump at a superconducting instability inside a magnetic phase](http://arxiv.org/abs/2610.09799v1)
-- **作者:** Sher Baz, Hiroyuki Yamase
-- **研究目的:** 探讨均匀键电荷序对磁性相内超导不稳定性发生时纵向自旋磁化率跳变的影响。
-- **主要发现:** 纵向自旋磁化率的跳变在存在均匀键电荷序的情况下依然保持鲁棒性，并且键电荷序会定量增强纵向自旋磁化率以及在超导转变温度$T\_c$处的跳变幅度。
+### [Scalable Quantum Monte Carlo for Shannon-Rényi Entropy: An Experiment-visitable Probe of Quantum Phases and Criticality](http://arxiv.org/abs/2610.16494v1)
+- **作者:** Dong-Xu Liu, Zhe Wang, Zenan Liu Yi-Ming Ding, Zheng Yan
+- **研究目的:** 开发可扩展的量子蒙特卡洛方法来计算Shannon-Rényi（SR）熵，并将其作为探测量子相和临界性的实验可访问探针。
+- **主要发现:** 开发了一种可扩展的量子蒙特卡洛方法，将Shannon-Rényi熵重构为广义配分函数的比率，并首次建立了其在量子临界点附近的有限尺寸标度理论，从而使其成为探测量子临界性的独立诊断工具。
 
 ---
 
-### [Electronic Properties of Ladder-Type Phenylenes Studied by Thermally-Assisted-Occupation Density Functional Theory](http://arxiv.org/abs/2610.09783v1)
-- **作者:** Tsu-Hsuan Wang, Jeng-Da Chai
-- **研究目的:** 利用热辅助占据密度泛函理论 (TAO-DFT) 系统性地研究梯形苯撑 ($n$-LPs) 的电子性质。
-- **主要发现:** 随着$n$-LP尺寸的增加，其电子性质从非自由基向多自由基转变，并伴随着自由基特征的阻尼周期性振荡，在特定间隔（$n = 3k - 1$）处出现高度相关的热点，这受活性轨道沿中心梯形骨架的结构局域化控制。
+### [Emergence of Nonlocal Hydrodynamics in Many-Body Radiative Heat Transport](http://arxiv.org/abs/2610.16488v1)
+- **作者:** Mauricio Gomez Viloria, Florian Herz, Riccardo Messina, Philippe Ben-Abdallah
+- **研究目的:** 通过对多体系统微观电动力学相互作用进行粗粒化，发展一种非局域流体动力学理论来描述辐射热传输。
+- **主要发现:** 长程辐射交换自然地在多体辐射热传输中产生空间非局域本构关系，使得热流依赖于扩展区域内的温度梯度，并且当相互作用核的二阶空间矩不收敛时，非局域性将导致非傅里叶传输。
 
 ---
 
-### [Anomalous Hall enhancement in fully compensated non-collinear antiferromagnetic Cr-doped Mn3Sn](http://arxiv.org/abs/2610.09727v1)
-- **作者:** Ying Zhang, Xin Chen, Hang Xie, Ziyan Luo, Yihong Wu, Lei Shen
-- **研究目的:** 通过第一性原理计算和实验，证明Cr掺杂是增强非共线反铁磁Mn$\_3$Sn中反常霍尔输运的有效策略，同时不破坏其反铁磁序。
-- **主要发现:** Cr掺杂显著增强了Mn$\_3$Sn的反常霍尔电导率，通过放大贝里曲率热点并稳定反铁磁序，同时抑制了低温下的螺旋或自旋玻璃相转变，这为开发高性能自旋电子器件提供了新途径。
+### [Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity](http://arxiv.org/abs/2610.16483v1)
+- **作者:** Daniel Margineda, David Caldevilla-Asenjo, Covadonga Álvarez-García, Daniel Tezze, Raul Arenal, Maxim Ilyn, Celia Rogero, Luis E. Hueso, Marco Gobbi
+- **研究目的:** 通过分子插层范德华约瑟夫森结，揭示复杂的超导电性。
+- **主要发现:** 分子插层TaS$\_2$/NbSe$\_2$异质结构约瑟夫森结表现出非对称Fraunhofer干涉、场致和自发约瑟夫森二极管效应，表明混合超导电极中存在非常规超导电性，并且分子插层可以作为调控其内部相结构的关键。
 
 ---
 
