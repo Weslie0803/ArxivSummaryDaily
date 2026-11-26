@@ -3,895 +3,2900 @@ layout: default
 title: Arxiv论文总结报告
 ---
 
-[查看所有摘要归档](archive.md) | 更新日期: 2026-11-25
+[查看所有摘要归档](archive.md) | 更新日期: 2026-11-26
 
 # Arxiv论文总结报告
 
 ## 基本信息
-- 生成时间：2026-11-25 12:06:51
+- 生成时间：2026-11-26 12:05:25
 - 使用模型：gemini-2.5-flash
-- 论文数量：139 篇
+- 论文数量：200 篇
 
 ---
 
 ## 论文总结
 
-### [Continuum model for disconnection structures of hetero-interfaces](http://arxiv.org/abs/2611.32412v1)
-- **作者:** Luchan Zhang, Xiaoxue Qin, Dongsong Tao, Jian Han, David J. Srolovitz, Yang Xiang
-- **研究目的:** 开发一个连续体模型，用于预测异质界面结构，包括断开网络、界面倾角和取向差角。
-- **主要发现:** 该连续体模型对ZrO$\_2$中的$\alpha$/$\beta$异质界面、Ti中的$\alpha$/$\beta$异质界面和Au/Pd (001) 扭曲失配界面的结构提供了出色的预测，与实验、原子模拟和理论预测高度吻合。
 
----
-
-### [Contribution to the GdTe$\_3$ magnetic phase diagram from electronic transport measurements](http://arxiv.org/abs/2611.32401v1)
-- **作者:** A. A. Sinchenko, P. D. Grigoriev, A. Hadj-Azzem, E. Pachoud, E. Lorenzo, P. Monceau
-- **研究目的:** 通过在沿三个晶体学方向施加磁场下的电阻测量，研究GdTe$\_3$在零磁场下发生的三次反铁磁 (AFM) 转变（$T\_{N1}=12$ K, $T\_{N2}=10.5$ K, $T\_1=7$ K）的磁相图。
-- **主要发现:** 发现中间相的重入现象，这可能是$T\_{N2}$ AFM与电荷密度波（可能具有铁轴序）耦合的结果，并观察到自旋翻转转变，有助于完善GdTe$\_3$复杂的相图。
-
----
-
-### [Magnetoelectric response to a Néel domain wall in spin-orbit coupled superconducting films: Spontaneous currents, vortex pinning, and vortex-antivortex nucleation](http://arxiv.org/abs/2611.32379v1)
-- **作者:** P. J. F. Cavalcanti, M. D. Croitoru, A. I. Buzdin
-- **研究目的:** 研究在界面Rashba自旋轨道耦合存在下，与铁磁层近邻耦合的薄超导膜中，由Néel畴壁引起的超导响应。
-- **主要发现:** Néel畴壁作为扩展的磁电源，产生涡旋选择性钉扎景观，并且足够强的磁电耦合可以在没有外加磁场的情况下使束缚的涡旋-反涡旋对在能量上比无涡旋态更有利。
-
----
-
-### [AI-assisted formal proofs for static and time-dependent density functional theory on lattices](http://arxiv.org/abs/2611.32370v1)
-- **作者:** Miguel A. L. Marques, Irene D'Amico, Stefano Pittalis
-- **研究目的:** 证明在格点上，Hohenberg-Kohn定理失效时，共享基态的势是例外的，并形式化证明了格点上含时Kohn-Sham势的存在性。
-- **主要发现:** 证明了共享基态的势位于一个闭合的、处处不稠密的零勒贝格测度集合中，并且所有定理和命题都已在证明助手Lean 4中形式化并经过计算机验证。
-
----
-
-### [Angular Momentum Hall Effect of Axial Ferrons in Ferroelectrics](http://arxiv.org/abs/2611.32331v1)
-- **作者:** Xiyin Ye, Tao Yu
-- **研究目的:** 报告在单轴铁电体中，具有极化-动量锁定的轴向铁子（axial ferrons）的角动量霍尔效应和热霍尔效应。
-- **主要发现:** 纵向温度梯度可在无场下驱动横向角动量流，而垂直磁场可开启热霍尔响应，且这些效应在LiNbO$\_3$和范德华铁电体中均显著。
-
----
-
-### [A recursive self-improvement framework for electron microscopy analysis](http://arxiv.org/abs/2611.32325v1)
-- **作者:** Yaotian Yang, Sijia Tao, Yuping Zhang, Jiangjie Qiu, Qinghua Zhang, Xiao Chen, Fei Wei
-- **研究目的:** 提出PhyEvo-Mic-RSI，一个物理引导和专家反馈的递归自改进框架，将一次性的人工修正转化为可重用、可验证的能力。
-- **主要发现:** 该框架通过结合物理先验和专家反馈，提高了原子点缺陷检测的准确性，并将跨材料界面覆盖率从5.13%提高到72.11%，从而推动计算显微镜向自进化的平台发展。
-
----
-
-### [Curvilinear nanomagnets of non-trivial geometric topology](http://arxiv.org/abs/2611.32306v1)
-- **作者:** Vagson L. Carvalho-Santos, Luke A. Turnbull, Naëmi Leo, Oleksandr V. Pylypovskyi
-- **研究目的:** 探讨样品的整体几何拓扑特征如何反映在给定曲线纳米结构磁化场的性质中。
-- **主要发现:** 该研究致力于对与扩展薄膜拓扑结构不同的纳米结构进行理论和实验分析，特别考虑了环形、球形和不可定向流形。
-
----
-
-### [Covalent Welding of Two-Dimensional Molecular Sheets into Ultra-Stiff, Super-Tough Polymeric Networks](http://arxiv.org/abs/2611.32291v1)
-- **作者:** Xiaoli Gong, Guohu Luo, Jiaxin Wu, Jiayu Chen, Zhengqiao Yin, Zhipeng Yan, Jingran Chen, Bowen Tang, Le Tang, Yuxiao Wu, Guanling Wu, Li Peng, Qihang Wang, Yinglong Hu, Yue Zhu, Yuan Yu, Keyan Liu, Xiaozhou Liu, Huanhuan Wu, Yakai Lin, Yifei Xu, Zhiliang Pan, Hao Ma, Man Li, Hongjun Zhang, Dacheng Wei, Youpeng Zhang, Yao Fu, Yongxiang Hu, Yuwen Zeng
-- **研究目的:** 展示一种通过组装的二维聚芳酰胺片与预接枝的柔性连接剂进行固态共价焊接，构建超硬、超韧聚合物网络的方法。
-- **主要发现:** 所制备的焊接薄膜在模量和强度上可与Kevlar 29纤维媲美，分别达到69.8 GPa和3.9 GPa，冲击韧性比Kevlar复合材料高出一个数量级。
-
----
-
-### [Periodic and quasiperiodic structures produced by microphase separation in one-component simple liquids with competing interactions](http://arxiv.org/abs/2611.32273v1)
-- **作者:** Lorenzo Agosta, Alfredo Metere, Mikhail Dzugutov
-- **研究目的:** 综述使用SALR势在单组分简单液体中微相分离的分子动力学模拟的最新进展。
-- **主要发现:** 模拟结果再现了嵌段共聚物和液晶典型的介观相，表明真实液体组成粒子的复杂性并非其形成的必要条件，并且产生了具有概念意义和技术相关性的新型周期性形态。
-
----
-
-### [First-principles phase diagram of monolayer CrS$\_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter](http://arxiv.org/abs/2611.32265v1)
-- **作者:** Rashmi Ranjan Routaray, Ali Ghojavand, Eric Bousquet
-- **研究目的:** 使用DFT$+U$方法，研究单层CrS$\_2$的1H、1T、1T$'$和1T$''$多晶型在不同Hubbard相互作用（$U=0$--$8$~eV）和双轴应变（$-10\%$至$+10\%$）下的结构、磁性和电子性质。
-- **主要发现:** 1T衍生的结构始终保持金属磁性，而1H相则经历非磁性半导体、反铁磁半导体再到金属化的转变，且相图的鲁棒性得到验证，但转变阈值对计算实现方式敏感。
-
----
-
-### [Symmetry-dependent field-induced elastic renormalization in the quantum-critical medium-entropy alloy NiCoCr$\_{0.8}$](http://arxiv.org/abs/2611.32254v1)
-- **作者:** Tadataka Watanabe, Mai Watanabe, Brian C. Sales
-- **研究目的:** 通过高精度超声波速度测量，研究量子临界中熵合金NiCoCr$\_{0.8}$的弹性响应。
-- **主要发现:** 在低温下，施加磁场会引起微小但系统的弹性重整化，其中四方$E\_g$模式$C\_t$随磁场增加而软化，而体$A\_{1g}$模式$C\_B$则硬化，表明对称分辨超声波是探测化学无序巡游量子临界金属中应变依赖性变化的敏感探针。
-
----
-
-### [Topological Narrow Bands in Twisted Rhombohedral Multilayer Graphene](http://arxiv.org/abs/2611.32229v1)
-- **作者:** Alejandro Jimeno-Pozo, Danna Liu, Francisco Guinea, Pierre A. Pantaleón
-- **研究目的:** 揭示扭曲菱面体多层石墨烯中两个中心莫尔带的起源，即单层狄拉克锥和位于莫尔布里渊区对角处的菱面体表面态之间的杂化。
-- **主要发现:** 层数$N$和位移场是控制石墨烯莫尔异质结构中能带平坦度、空间极化和拓扑性质的互补纳米尺度调控手段，其中位移场可切换较低能带的陈数在$\mathcal{C}=N$和$\mathcal{C}=-1$之间。
-
----
-
-### [Entanglement between distant spins in a polarized magnet forms a $d$-wave clover](http://arxiv.org/abs/2611.32190v1)
-- **作者:** Alan Zhang, Ye Zhou
-- **研究目的:** 探究自旋轨道耦合如何通过虚拟自旋翻转对在极化磁体中纠缠远距离自旋，并确定其角模式和范围。
-- **主要发现:** 对于自旋1/2方格铁磁体，在领先阶证明了$d$-波反平方律，其幅度是自旋波幅度的1.376倍，形成一个三叶草形纠缠区域，并且每个自旋的纠缠完全是成对的。
-
----
-
-### [Emission regimes and characteristic energy scales in reverse-biased 4H-SiC Schottky barriers: unified field-emission formulas and energy-dependent tunneling effective mass](http://arxiv.org/abs/2611.32146v1)
-- **作者:** Tetsuo Hatakeyama
-- **研究目的:** 分析反向偏置4H-SiC肖特基势垒二极管的漏电流，并推导统一的场发射公式和能量依赖的隧穿有效质量。
-- **主要发现:** 将能量依赖的隧穿有效质量应用于Ti/4H-SiC数据，可将残差从0.17降低到0.11-0.12 dex，并通过Franz双能带色散将其应用于器件模拟。
-
----
-
-### [Towards determination of intrinsic spin properties in MAPbI$\_3$ crystals using spin noise spectroscopy](http://arxiv.org/abs/2611.32115v1)
-- **作者:** M. Vladimirova, S. Cronenberger, L. Doyenette, D. R. Yakovlev, B. Turedi, M. V. Kovalenko
-- **研究目的:** 利用自旋噪声光谱学研究MAPbI$\_3$单晶中载流子的自旋动力学，以确定其内在自旋特性。
-- **主要发现:** 载流子的空间分布不均匀，电子优先位于晶体表面附近，弱局域化空穴（自旋弛豫较慢）主要远离表面，而强局域化空穴则介于两者之间。
-
----
-
-### [Emergent Electric-Field-Tunable $p$-Wave Magnetism in Twisted Bilayer NiPS$\_3$](http://arxiv.org/abs/2611.32103v1)
-- **作者:** Jiaran Su, Jin-Xin Hu, Qi Sun, Dante M. Kennes, Yuhao Fu, Lede Xian, Lijun Zhang
-- **研究目的:** 探讨在$21^\circ$-扭曲的双层NiPS$\_3$中，垂直电场如何重新定向动量空间自旋纹理，从而产生电场可调的$p$-波磁性。
-- **主要发现:** 层偏置是控制奇宇称自旋纹理和自旋电流各向异性的有效途径，前提是共面磁态保持稳定。
-
----
-
-### [From Weighted Frontier d-States to Geometric Descriptors for Atomically Dispersed Catalysts at the Molecule-Solid Crossover](http://arxiv.org/abs/2611.32059v1)
-- **作者:** Yuqi Li, Zewen Wu, Longling Pang, Zhidan Li, Xianghua Kong
-- **研究目的:** 建立一个电子到几何的框架，用于描述原子分散催化剂在分子-固体交叉区域的氧还原反应。
-- **主要发现:** 通过连接前沿轨道和$d$-带中心描述，该框架提供了一个物理上合理的电子表示和一个与机器学习原子间势兼容的基于几何的筛选途径。
-
----
-
-### [Environmentally assisted transport in a diamond chain](http://arxiv.org/abs/2611.32027v1)
-- **作者:** Pavel S. Muraev, Andrey R. Kolovsky, Dmitrii N. Maksimov
-- **研究目的:** 研究与边界处马尔可夫储层耦合的钻石链中的量子输运。
-- **主要发现:** 在$\Phi=\pi$的全能带平坦区域，退相干破坏了阿哈罗诺夫-玻姆囚禁，导致环境辅助量子输运，表明耗散环境是控制输运的有效途径。
-
----
-
-### [Antiferroelectric Fluids with Hierarchical Polar Organization](http://arxiv.org/abs/2611.31959v1)
-- **作者:** Hiroya Nishikawa, Hina Saito, Tetsu Katayama, Atsuko Nihonyanagi, Dennis Kwaria, Hiroyuki Inuzuka, Junxi Liu, Go Watanabe, Fumito Araoka
-- **研究目的:** 探究在同系物系列中，末端烷基链的延长如何与极性核-核相互作用竞争。
-- **主要发现:** 该系列展现出伴随SmC型类胞关联的调制反铁电 (AFE) 序，并形成了两种二维 (2D) AFE晶格，其分层结构模型解释了不同的前体相序并关联了柱间堆积与AFE超结构。
-
----
-
-### [Moiré-Induced Interlayer Electron-Phonon Coupling in Graphene/hBN Superlattices](http://arxiv.org/abs/2611.31896v1)
-- **作者:** Dasol Kim, Zhengguang Lu, Tonghang Han, Guorui Chen, Tianyi Han, Jixiang Yang, Bing Cheng, Zhenxian Liu, Christopher Homes, G. L. Carr, Jeong Min Park, Qihang Zhang, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Pablo Jarillo-Herrero, Feng Wang, Long Ju
-- **研究目的:** 首次直接观测到石墨烯基莫尔超晶格中莫尔电子激发与声子耦合引起的共振现象。
-- **主要发现:** 利用傅里叶变换红外光电流光谱，检测到通常无声的六方氮化硼 (hBN) 面外光学 (ZO) 声子作为显著的吸收峰，并与莫尔平带激发形成特征性的Fano共振。
-
----
-
-### [Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion](http://arxiv.org/abs/2611.31865v1)
-- **作者:** Jaekyun Yoo, Suyeon Ju
-- **研究目的:** 引入JET-MLIPs（Joint-Kernel Equivariant Convolution with Tabulated Radial Weights for MLIP simulation），一个GPU后端，旨在通过径向制表和核融合加速分子动力学中的等变原子间势。
-- **主要发现:** 在5632原子液态电解质上，LAMMPS MD模拟实现了$1.5-5.9\times$的步长时间加速和$2.4-24\times$的峰值内存减少，同时保持单精度（fp32）准确性和动力学稳定性。
-
----
-
-### [Superconductivity with valley-imbalanced Fermi surfaces in thick rhombohedral graphene](http://arxiv.org/abs/2611.31861v1)
-- **作者:** Le Liu, Jian Zhao, Cheng Xu, Kenji Watanabe, Takashi Taniguchi, Yang Zhang, Weibo Gao
-- **研究目的:** 报告在hBN对齐的17层菱面体石墨烯中，面内磁场增强的超导电性。
-- **主要发现:** 正常态量子振荡揭示了不等的费米口袋，与谷不平衡、自旋极化的母体金属一致，并提出了一个现象学的磁振辅助等自旋谷间配对情景。
-
----
-
-### [Interface and film engineering for improved spin-charge interconversion in sputtered GeTe nanodevices](http://arxiv.org/abs/2611.31816v1)
-- **作者:** S. Teresi, T. Frottier, M. Culot, W. Savero-Torres, P. Sgarro, M. Wissmann, A. Kandazoglou, F. Osana, J. Lagrave, D. Térébénec, J. Paterson, A. Oysel Mestre, O. J. Mouawad, E. Chevilley, N. Bernier, P. Noé, M. Bibes, F. Hippert, J. -P. Attané, L. Vila, M. Cosset-Chéneau
-- **研究目的:** 展示在基于溅射GeTe的图案化FESO纳米器件中实现室温自旋-电荷相互转换，并探讨界面和薄膜工程对其性能的影响。
-- **主要发现:** 通过引入Ti界面层和使用改进晶体质量的GeTe薄膜，将自旋-电荷转换输出信号从$3\ \text{m}\Omega$提高到$24\ \text{m}\Omega$，超过了相同器件尺寸下铂的报告值。
-
----
-
-### [Magic-layer scenario for predicting non-van der Waals two-dimensional materials: The case of double-layer honeycomb structures](http://arxiv.org/abs/2611.31748v1)
-- **作者:** Shota Ono
-- **研究目的:** 应用“魔法层”概念来识别难以从其母体三维晶体中剥离的非范德华二维材料。
-- **主要发现:** 基于魔法层概念的稳定性测量能够区分实验合成系统和实验未实现系统，这为预测非范德华二维材料的实现提供了一个关键描述符。
-
----
-
-### [Photocatalytic Water Splitting in GeC/ReS$\_2$ van der Waals Heterostructures](http://arxiv.org/abs/2611.31672v1)
-- **作者:** Parisa Beyranvand, Ismaeil Abdolhosseini Sarsari, Noejung Park
-- **研究目的:** 使用第一性原理密度泛函理论系统研究GeC/ReS$\_2$异质结构在光催化水分解中的应用。
-- **主要发现:** GeC/ReS$\_2$异质结构表现出优异的稳定性、1.38 eV的间接带隙和高达41.40%的太阳能-氢能（STH）效率，在+6%的拉伸应变下STH效率可进一步提升至60.68%，使其成为一种高效且有前景的全水分解光催化剂。
-
----
-### [Universal spectrum of weakly coupled quantum critical Ising chains](http://arxiv.org/abs/2611.31655v1)
-- **作者:** Hansen S. Wu, Ribhu K. Kaul
-- **研究目的:** 研究弱耦合量子临界Ising链阵列在标度极限下的激发谱。
-- **主要发现:** 确认了低于双粒子连续谱的$E\_8$理论激发，并发现了一种新的$ψ$粒子，其质量$M\_\mathrm{\psi}$与最低$E\_8$质量$M\_1$的比值$M\_\mathrm{\psi}/M\_1 = 1.819\cdots$是一个普适常数。
-
----
-
-### [Adaptive ghost Gutzwiller dynamics of Hubbard model quenches across coupling strengths over extended times](http://arxiv.org/abs/2611.31631v1)
-- **作者:** Yong-Xin Yao
-- **研究目的:** 提出一种自适应时间依赖的ghost Gutzwiller近似 (td-gGA) 方法，以在扩展时间内追踪哈伯德模型中关联电子的实时动力学。
-- **主要发现:** 自适应td-gGA方法在所有相互作用强度下，从弱耦合预热到强耦合坍塌-复苏机制，均与非平衡DMFT数据一致，并在强耦合下保持收敛时间比DMFT数据长三倍半。
-
----
-
-### [Majorana flat bands from mirror-particle-hole antisymmetry](http://arxiv.org/abs/2611.31597v1)
-- **作者:** Justin Schirmann, Martin Rodriguez-Vega, Alexander Cerjan
-- **研究目的:** 证明在没有手性对称性或时间反演对称性的情况下，全能隙D类超导体如何通过镜像-粒子-空穴反对称性支持马约拉纳平带。
-- **主要发现:** 发现当超导能隙在镜像操作下为奇数且沿边缘的平移对称性保持时，即使没有手性对称性或时间反演对称性，D类超导体也能形成马约拉纳平带。
-
----
-
-### [Spin Hamiltonian, magnetic anisotropy and excitation spectrum in altermagnetic $α$-MnTe from first principles](http://arxiv.org/abs/2611.31548v1)
-- **作者:** Matteo Costa, Dario Fiore Mosca, Cesare Franchini, Leonid V. Pourovskii
-- **研究目的:** 从第一性原理推导六方交变磁体$α$-MnTe的完整低能磁哈密顿量，以解释其易面各向异性、区中心磁振子能隙和异常大的磁致伸缩。
-- **主要发现:** 发现$α$-MnTe的易面各向异性和$Γ$点磁振子能隙主要由经典偶极-偶极相互作用控制，而非单离子图像，且该哈密顿量定量解释了巨大的磁体积耦合。
-
----
-
-### [Density-dependent photocarrier recombination in $γ$-InSe](http://arxiv.org/abs/2611.31537v1)
-- **作者:** Vivek Jain, Salman Ahsanullah, Neema Rafizadeh, Gbenga S. Agunbiade, Hui Zhao
-- **研究目的:** 利用飞秒瞬态反射光谱研究$γ$-InSe中的光载流子动力学，并量化其复合过程。
-- **主要发现:** $γ$-InSe中的载流子衰减表现出强烈的密度依赖性，在高密度下由二阶复合过程主导，在低密度下近似呈指数衰减，载流子寿命约为$7~\mathrm{ps}$。
-
----
-
-### [Eigenvalue-based computation of Richardson pairing spectra and finite-size thermodynamics](http://arxiv.org/abs/2611.31531v1)
-- **作者:** Grzegorz Biskowski, Marcin R. Piatek, Franco Ferrari
-- **研究目的:** 提出一种基于特征值的数值工作流程，结合Bethe方程、Baxter多项式重构和复数寻根，计算Richardson配对谱和有限尺寸热力学性质。
-- **主要发现:** 该方法成功应用于不同单粒子谱的计算，并揭示了氢原子样谱在弱耦合下热容具有两个最大值，随着耦合增强而合并的现象，展示了单粒子能级间距对有限尺寸热响应的塑造作用。
-
----
-
-### [Excess noise and electron-phonon energy transfer in Au wires: Length and temperature effects](http://arxiv.org/abs/2611.31519v1)
-- **作者:** Yuxin Wan, Dale T. Lowder, Liyang Chen, Manasi Mandal, Gavin Joyce, Douglas Natelson
-- **研究目的:** 测量Au纳米线中随偏置电流变化的噪声，以探究电荷散粒噪声与电子自加热及声子主导噪声抑制之间的相互作用，并研究长度和温度对其的影响。
-- **主要发现:** 散粒噪声随导线长度和衬底温度的增加而受到抑制，表明电子-声子散射的重要性增加，但在高偏置、高温极限下，简单的电子-声子能量损失模型低估了长导线中的过量噪声。
-
----
-
-### [Electrical Degradation of Vertical $β$-Ga$\_2$O$\_3$ Schottky Barrier Diodes Under Au-Ion Irradiation to a Fluence of $1.3 \times 10^7$ cm$^{-2}$](http://arxiv.org/abs/2611.31512v1)
-- **作者:** Botong Li, Imteaz Rahaman, Bingcheng Da, Houqiang Fu, Michael A. Scarpulla, Kai Fu
-- **研究目的:** 系统研究垂直$β$-Ga$\_2$O$\_3$肖特基势垒二极管在Au离子辐照下的电学退化和时间依赖性电流行为。
-- **主要发现:** 辐照导致器件正向导通退化、反向漏电流增加，并观察到辐照期间漏电流显著增加和瞬态电流尖峰，辐照后电流表现出快慢两种弛豫过程，且重复辐照会延长恢复动力学。
-
----
-
-### [Strong Co-O exchange interaction in $P4/nmm$ KCoO$\_2$ and its effect on spin wave and Néel temperature](http://arxiv.org/abs/2611.31504v1)
-- **作者:** Ilteris K. Turan, Walter R. L. Lambrecht, Jerome Jackson
-- **研究目的:** 计算$P4/nmm$结构KCoO$\_2$中经典海森堡哈密顿量的交换相互作用，并评估其对奈尔温度和自旋波谱的影响。
-- **主要发现:** 发现Co与其顶端O之间的交换作用是迄今为止最大的相互作用，且为铁磁性，其强烈增强了平均场近似下的临界温度，但在随机相近似下则不明显。
-
----
-
-### [Translation Method Bounds for 3D Isotropic Conductivity--Shear Modulus and the Search for Attaining Microstructures](http://arxiv.org/abs/2611.31503v1)
-- **作者:** Justin Tahmassebpur, Tomás Arias
-- **研究目的:** 使用平移方法计算三维各向同性两相复合材料的电导率-剪切模量交叉性质界限，并评估微结构的实现性。
-- **主要发现:** 获得了迄今为止最紧密的界限，并发现性能最佳的设计通常是双连续、三重周期极小曲面状的微结构，但与平移界限之间仍存在一个小的差距。
-
----
-
-### [A fermionic framework for quantum machine learning benchmarks](http://arxiv.org/abs/2611.31458v1)
-- **作者:** Jérémie Gince, Ayana Sarkar, Stefanos Kourtis
-- **研究目的:** 提出一个基于模拟自由费米子系统的可扩展机器学习模型框架（FermiML），用于构建和基准测试量子机器学习模型。
-- **主要发现:** FermiML模型作为量子机器学习模型的费米子替代品，在多个分类数据集上挑战甚至超越了其非受限对应物，并展示了费米子量子机器学习模型在真实世界数据集上与经典基线相当的性能。
-
----
-
-### [High-density correlation energy of the electron gas](http://arxiv.org/abs/2611.31426v1)
-- **作者:** Miguel A. L. Marques, Paulo R. Pires, Stefano Pittalis
-- **研究目的:** 重新审视非极化三维电子气高密度展开中关联能的系数$D$和$E\_1$, $E\_2$。
-- **主要发现:** 重新计算了$D$的估计值为$-0.0077880(9)$ Ha/电子，修正了早期估计值，并给出了$E\_1$和$E\_2$的贡献之和，但$r\_s = 0.5$时的扩散蒙特卡罗能量无法区分$D$的两个估计值。
-
----
-
-### [Moiré-enabled polariton control in large-angle twisted bilayer graphene](http://arxiv.org/abs/2611.31423v1)
-- **作者:** Bogdan Borodin, Xuanpu Zhang, Christopher Yang, Kenji Watanabe, Takashi Taniguchi, Cyprian Lewandowski, Petr Stepanov
-- **研究目的:** 探索大角度扭曲双层石墨烯（TBG）中的中间态，并利用双曲等离激元-声子极化激元（HP$^3$）探测其动态电子响应。
-- **主要发现:** 发现大角度TBG中存在一个狭窄的密度窗口，其中HP$^3$波长具有强烈的门电压可调性，这归因于中心和远程莫尔能带之间的杂化，表明远程莫尔能带重塑了TBG的集体电动力学。
-
----
-
-### [Strain-enabled dynamical magnetoelectric coupling in BaFe$\_{12}$O$\_{19}$](http://arxiv.org/abs/2611.31413v1)
-- **作者:** ChanJu You, Jayanti Higgins, Zhiren He, Yilin Evan Li, Harikrishnan KP, Sören Buchenau, Christo Guguschev, Mario Brützam, Jiaqiang Yan, David Mandrus, David A. Muller, Darrell G. Schlom, Guru Khalsa, Ankit S. Disa
-- **研究目的:** 通过外延应变结合共振振动激发，在BaFe$\_{12}$O$\_{19}$薄膜中实现光诱导的室温多铁态，以探索原子结构工程对动态磁电耦合的调控。
-- **主要发现:** 在应变BaM薄膜中，中红外声子激发后观察到铁电极化增强和磁矩减弱，这归因于应变引起的Fe$^{3+}$离子位移打破了局部对称性，从而促进了动态磁电耦合。
-
----
-
-### [Ground state and thermal phase diagrams of the magnetized spin-$1/2$ XXZ antiferromagnet on the triangular lattice](http://arxiv.org/abs/2611.31412v1)
-- **作者:** Owan Cho, Seungho Lee, Hyun-Yong Lee, SungBin Lee
-- **研究目的:** 解决磁场中三角晶格上自旋$1/2$ XXZ反铁磁体的基态相图和热相结构问题。
-- **主要发现:** 绘制了从Ising极限到海森堡点的连续相图，发现非经典$Ψ$超固态在所有研究的各向异性下都是饱和点下方的稳定相，并在强易轴区域发现了本征有限温度键序相。
-
----
-
-### [Origin of quadrupolar order in the 5d$^1$ double perovskite Ba$\_2$MgReO$\_6$](http://arxiv.org/abs/2611.31395v1)
-- **作者:** Dario Fiore Mosca, Leonid V. Pourovskii
-- **研究目的:** 从第一性原理确定Ba$\_2$MgReO$\_6$中四极序的微观起源和相互作用的相对能量尺度。
-- **主要发现:** 发现铁电$z^2$序源于线性-四次耦合，由虚拟激发到$J\_{\mathrm{eff}}=1/2$双重态并通过振动相互作用驱动，从而定量解释了实验观察到的四极序参数和结构畸变。
-
----
-
-### [Non-integer high harmonic generation from many-body nonadiabatic gating](http://arxiv.org/abs/2611.31383v1)
-- **作者:** Mingyao Guo, Luting Wang, Murali Suganya, Biqiong Yu, Martin Greven, Sritharan Krishnamoorthi, Raman Sankar, Yao Wang, David Hsieh
-- **研究目的:** 探索强关联材料中高次谐波产生（HHG）的非整数特性，特别是在铜酸盐莫特绝缘体Sr$\_2$CuO$\_3$中。
-- **主要发现:** 在Sr$\_2$CuO$\_3$中观察到巨大的蓝移非整数HHG，并通过多体瞬态门控机制解释，即光场在谐波产生时间尺度上动态改变电子态，抑制脉冲后沿的光发射，从而导致谐波在频域上蓝移。
-
----
-
-### [Tunable first-order transitions and magnetic hysteresis in Bernal pentalayer graphene](http://arxiv.org/abs/2611.31376v1)
-- **作者:** Wentian Zheng, Jiawei Hu, Yuxuan Yao, Fang Xie, Zihan Wang, Kenji Watanabe, Takashi Taniguchi, Qimiao Si, Yonglong Xie
-- **研究目的:** 在Bernal堆叠五层石墨烯中研究库仑相互作用引起的亚带简并解除，以及由此产生的可调谐一级相变和磁滞现象。
-- **主要发现:** 观察到完全对称破缺的朗道能级谱和一系列一级相变，这些相变伴随磁场中的磁滞霍尔响应，且磁滞的大小和符号可通过位移场进行调谐。
-
----
-
-### [Tunneling signatures of the Lifshitz transition in a superconducting vortex](http://arxiv.org/abs/2611.31371v1)
-- **作者:** Alex Levchenko
-- **研究目的:** 发展超导涡旋中Lifshitz相变隧穿谱的理论，特别是在磁场诱导的自旋极化一维费米海形成时。
-- **主要发现:** 预测在涡旋中心零偏置电导在$B^*$以下缺失，在$B^*$附近达到最大值并具有一维范霍夫奇点的反平方根场依赖性，且零偏置信号由中心的一个自旋投影和周围环中的相反自旋投影携带。
-
----
-
-### [Locality from Nonlocality: Symmetry Relocalization and Gauging of Lattice Dirac Fermions](http://arxiv.org/abs/2611.31366v1)
-- **作者:** Lei Su
-- **研究目的:** 探讨如何通过非局域规范变换将自由格点狄拉克费米子的某些精确非局域紧致对称性转化为局域对称性，从而实现局域规范动力学。
-- **主要发现:** 证明了在1D、2D和3D中，通过对称性重定位可以实现精确或涌现的规范局域性，并揭示了动量缠绕T-对偶性、拓扑缺陷和不同维度中拓扑不变量的起源。
-
----
-
-### [Band-Selective Coupling to Charge Density Wave Fluctuations in Kagome Superconductors AV3Sb5](http://arxiv.org/abs/2611.31362v1)
-- **作者:** Peter C. Moen, T. G. H. Blank, C. Le, S. Smit, N. Heinsdorf, S. Sarkar, C. C. Au-Yeung, V. Zimmermann, J. Kraan, C. S. B. Pang, M. Tuniz, M. Bluschke, A. A. Haghighirad, I. Rajput, A. C. Salinas, S. Gorovikov, P. Dosanjh, J. I. Dadap, A. K. Mills, S. Zhdanovich, M. Michiardi, G. Levy, I. S. Elfimov, S. D. Wilson, M. Le Tacon, D. J. Jones, X. Wu, A. Damascelli
-- **研究目的:** 通过时间分辨和角度分辨光电子能谱（tr-ARPES）实验，研究kagome超导体AV$\_3$Sb$\_5$中电荷密度波（CDW）与超导（SC）之间的关系，特别是带选择性耦合。
-- **主要发现:** 观察到CDW振幅模式驱动的相干能带振荡，且这种耦合具有高度的带选择性，不同能带之间的耦合强度差异超过两倍，表明CDW振幅模式波动是CDW和SC相互作用的关键低能耦合通道。
-
----
-
-### [Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band](http://arxiv.org/abs/2611.31242v1)
-- **作者:** Ya-Hui Zhang
-- **研究目的:** 探讨在具有非零陈数的拓扑平带中，Hubbard相互作用如何导致Mott物理和重费米子行为。
-- **主要发现:** 发现Mott绝缘体到金属的转变由Berry曲率分数$s^2$调控，并在$ν=-2$填充下形成重费米液体（HFL），该HFL在空穴掺杂侧扩展，但在低温度下，反洪特耦合$J\_A$可将其替换为具有小费米面的赝能隙金属。
-
----
-
-### [A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality](http://arxiv.org/abs/2611.31234v1)
-- **作者:** Fa-Jie Wang, Yang Qi, Zhi-Da Song
-- **研究目的:** 构建一个分数陈半金属的精确张量网络态，并研究其关联长度、拓扑性质和临界行为。
-- **主要发现:** 构造了一个具有发散关联长度但分数化多体陈数$1/3$的精确分数陈半金属波函数，其模$S$和$T$矩阵以及纠缠谱与$ν=1/3$ Laughlin态匹配，并由$(1+1)$维$U(3)\_1\times SU(3)\_1$共形场理论描述。
-
----
-
-### [Solute-Aware Stochastic Korhonen Model of Electromigration in Wide vs Near-Bamboo Al-Cu Lines](http://arxiv.org/abs/2611.31206v1)
-- **作者:** Narahara Chari Dingari, David R. Heskett
-- **研究目的:** 将演化的Cu场与一维Korhonen应力方程耦合，研究宽、窄和近竹节状Al-Cu线中溶质感知的随机Korhonen模型下的电迁移行为。
-- **主要发现:** 发现Cu耗尽会缩短空洞成核时间，且Cu沉淀物会成为失效点，导致寿命不再是Arrhenius行为，模型在定性上与窄线中的阴极侧损伤和宽线中的Cu积累及中线峰值相符。
-
----
-
-### [Protected Charge Readout Scheme Utilizing Nonlinear Resonators](http://arxiv.org/abs/2611.31144v1)
-- **作者:** Andrea Cicovic, Harald Havir, Pierre Glidic, Samuel Andersson, Sebastian Lehmann, Kimberly A. Dick, Claes Thelander, Ville F. Maisi
-- **研究目的:** 提出一种利用非线性谐振器实现受保护的电荷读出方案，以结合强读出对比度和减少测量诱导的反作用。
-- **主要发现:** 发现非线性谐振器通过诱导的频率偏移来保护传感器，使其脱离测量信号，从而在保持增强读出信号的同时减少谐振器激发，实现了强读出对比度与降低测量反作用的结合。
-
----
-### [Anomalous Field-induced Coherence beyond Single-ion Kondo Physics](http://arxiv.org/abs/2611.31137v1)
--   **作者:** Arushi, Konstantin Semeniuk, Manuel Brando, Javier F. Landaeta, Elena Hassinger, Christoph Geibel
--   **研究目的:** 探究Ce$\_{2}$Rh$\_{3}$Ga$\_{5}$中磁场诱导的异常电子输运和热力学性质，以理解强关联金属中电荷传输的机制。
--   **主要发现:** 在Ce$\_{2}$Rh$\_{3}$Ga$\_{5}$中，磁场能够诱导相干金属行为并显著抑制残余电阻，这超出了单离子近藤物理的解释范围，表明存在额外的场敏感散射机制。
-
----
-
-### [Lincege.jl: LINked Cluster Expansions on a GEneral GEometry](http://arxiv.org/abs/2611.31102v1)
--   **作者:** Pranav Seetharaman, Francisco Correia, Ehsan Khatami
--   **研究目的:** 介绍Lincege.jl，一个用于在任意几何形状的晶格上执行数值关联簇展开 (NLCE) 的通用、高效且易于使用的Julia软件包。
--   **主要发现:** Lincege.jl能够高效生成NLCE所需的簇，计算其晶格常数和子簇信息，并提供可视化工具和经典的Ising模型求解器模板，极大地简化了热力学极限下量子晶格模型的研究。
-
----
-
-### [Quantum and classical transport in the underscreened Kondo lattice](http://arxiv.org/abs/2611.31093v1)
--   **作者:** Leo Pintar, Don Rolih, Rok Žitko
--   **研究目的:** 研究高自旋近藤晶格中，当电阻率接近经典自旋无序极限时，量子效应如何影响输运性质。
--   **主要发现:** 在中间温度下，大局域自旋$S$的电阻率接近双交换平台，而热电势即使在电阻率接近经典时也保持正的量子过剩；在低温下，未完全的近藤屏蔽导致奇异的费米液体行为，电阻率遵循$1/\ln^2(T\_\rho/T)$渐近线。
-
----
-
-### [LeIFF: A localized-electron and ion force field for coupled nuclear and electronic dynamics](http://arxiv.org/abs/2611.31029v1)
--   **作者:** Anthony Mannino, Isidro Losada, Simon Divilov, Michelle Fritz, Younos Hashem, Ashraf Mrabet, Paula Mori Sánchez, Javier Junquera, Mariví Fernández-Serra, Jose M. Soler
--   **研究目的:** 引入LeIFF（Localized-electron and Ion Force Field），一个紧凑的物理模型，用于描述基态键合和激发电子动力学，以实现分子和固体中非绝热过程的大规模模拟。
--   **主要发现:** LeIFF模型通过将价电子表示为自旋标记的球形电荷分布，结合解析电子动能、库仑和色散项以及样条插值短程相互作用，成功描述了多种基态性质和非平衡电子行为，并在无需固态训练的情况下描述了硅的介电屏蔽和集体电子响应。
-
----
-
-### [Self-consistent Floquet theory of steady-state ordering in driven open systems](http://arxiv.org/abs/2611.30996v1)
--   **作者:** Srinjoy Ghosh, Babak Seradjeh, Arijit Kundu
--   **研究目的:** 建立一个自洽的Floquet谱理论，用于描述周期性驱动开放系统中电子有序的稳态，特别是在弱储层耦合极限下。
--   **主要发现:** 该理论揭示了驱动如何产生“动态嵌套”条件，以及Floquet共振如何导致多重自洽解引起的滞后响应，且滞后分支展现出独特的Floquet拓扑；在非半填充情况下，驱动诱导的范霍夫鞍点失谐和微运动共同导致竞争性非公度有序的切换。
-
----
-
-### [Terahertz detection of magnon chirality in polycrystalline CsCuCl$\_3$](http://arxiv.org/abs/2611.30992v1)
--   **作者:** Juan S. Rodríguez-Hernández, Gabriel F. Freitas, Nicolas M. Kawahala, Rafael S. Freitas, Felix G. G. Hernandez
--   **研究目的:** 在多晶CsCuCl$\_3$中，通过太赫兹吸收测量来检测磁振手性，以证明无需单晶即可实现这一目标。
--   **主要发现:** 在5到7 T的磁场下，多晶CsCuCl$\_3$中的亚太赫兹磁振对一种圆偏振光的吸收强度比另一种高出20多倍，这归因于塞曼频率将每个晶粒中的进动轴锁定到磁场方向，从而证明了在反铁磁体中无需单晶即可探测磁振手性。
-
----
-
-### [Interface-Engineered Piezoelectricity and Electromechanical Coupling in Two-Dimensional van der Waals Heterostructures](http://arxiv.org/abs/2611.30974v1)
--   **作者:** Shivanand Yadav, Raihan Ahammed, Umer Ali, B. S. Bhadoria, Yogesh S. Chauhan, Amit Agarwal, Somnath Bhowmick
--   **研究目的:** 利用高通量密度泛函理论 (DFT) 计算，研究二维范德华异质结构中的界面工程压电性和机电耦合，并建立材料设计框架。
--   **主要发现:** 异质结构形成通过界面电荷再分布产生面外界面偶极子，且双轴面内应变能系统地调制这些偶极子，导致金属界面具有应变可调偶极子，而半导体异质结构则展现出明确的压电响应，其中有效双轴界面机电系数可达$83.35~\mathrm{pCm^{-1}}$。
-
----
-
-### [Magneto-ARPES as a direct probe of Berry Curvature and the Orbital Magnetic Moment](http://arxiv.org/abs/2611.30968v1)
--   **作者:** Seohyun Kong, Bernd Braunecker, Luke C. Rhodes
--   **研究目的:** 证明在弱磁场下的角分辨光电子能谱 (magneto-ARPES) 测量可以作为直接探测贝里曲率和轨道磁矩的实验方法。
--   **主要发现:** 对于任何材料，在弱磁场下，光电子能谱强度的首次序变化与贝里曲率和轨道磁矩直接成比例，即使存在自能效应，这为在量子材料中测量动量分辨的贝里曲率和轨道磁矩提供了一条通用途径。
-
----
-
-### [Generalized dielectric-dependent hybrid functional combining Gaussian and Yukawa screening](http://arxiv.org/abs/2611.30930v1)
--   **作者:** Alexey Tal, Fabien Tran, Wei Chen, Stefan Riemelmoser, Alfredo Pasquarello
--   **研究目的:** 开发一种结合高斯和Yukawa型屏蔽函数的广义库仑衰减方法 (GCAM)，用于介电依赖的杂化泛函，以更准确地表示随机相近似 (RPA) 介电函数。
--   **主要发现:** GCAM显著减少了在整个动量范围内模型介电函数的误差，但在带隙计算中，对于宽带隙材料其误差大于先前的CAM方法，而对于大多数窄带隙材料误差较小，这表明CAM的成功部分源于误差抵消；然而，在光学吸收光谱计算中，GCAM系统性地优于CAM。
-
----
-
-### [Dirac-like bands and weak-field transverse transport in ABA trilayer graphene](http://arxiv.org/abs/2611.30924v1)
--   **作者:** Agustin Montemurro, Fujia Lu, Ellis R. Huntley, Vladimir Fal'ko
--   **研究目的:** 研究ABA三层石墨烯在位移场作用下的低能电子结构，特别是其Dirac型能带和弱场横向输运特性。
--   **主要发现:** 位移场可以导致能带边缘反转，伴随着贝里曲率的反转和巨大的拓扑磁矩，这在弱垂直磁场中产生谷分裂，从而导致独特的异常横向电学和热电响应，为探测能带反转和约束紧束缚参数提供了潜在途径。
-
----
-
-### [Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](http://arxiv.org/abs/2611.30917v1)
--   **作者:** Antonio Lorenzo Mariano, Jacopo Lupi, Emilio Lorini, Matteo Briganti
--   **研究目的:** 综述用于描述纳米石墨烯磁性、衬底-分子界面、表面合成动力学和超分子自组装的多尺度理论框架。
--   **主要发现:** 密度泛函理论、自动化反应路径发现和自旋感知机器学习原子间势等计算方法能够将静态电子结构与介观动力学联系起来，并预测磁交换、光学激发和自旋输运，为分子量子技术平台提供了理论指导。
-
----
-
-### [Interaction-driven ordering of multiple pseudospins and anomalous Hall metals in Bernal-stacked graphene](http://arxiv.org/abs/2611.30906v1)
--   **作者:** Jeonghyeon Suh, Kyungjin Shin, Hongki Min
--   **研究目的:** 在Hartree-Fock近似下，分析Bernal堆叠四层石墨烯中电子-电子相互作用驱动的赝自旋有序和自旋-谷极化，以解释异常霍尔态的观测。
--   **主要发现:** 发现了由两个赝自旋双重态相互作用形成的丰富相图，包括电荷中性下的混合味序和掺杂后的异常霍尔金属，并确定了具有$\sigma\_{xy} \approx 6e^2/h$的拓扑态，与近期实验观测一致，强调了多重赝自旋双重态在偶数层Bernal多层膜相互作用驱动相中的核心作用。
-
----
-
-### [Exponential advantage in quantum observation with one extra qubit](http://arxiv.org/abs/2611.30876v1)
--   **作者:** Zhenyu Du, Xiongfeng Ma, Vlatko Vedral, Jinzhao Sun
--   **研究目的:** 证明仅增加一个额外的量子比特可以为探测量子多体动力学带来指数级的优势。
--   **主要发现:** 提出了一种算法，利用一个额外的量子比特相干干涉动力学轨迹，以指数级减少的演化次数同时估计指数级多的多时间关联器，即使对于单个关联器也具有优势，并证明了延长相干时间能指数级增强观测能力，从而在空间和时间上都实现了协议的最优性。
-
----
-
-### [Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure](http://arxiv.org/abs/2611.30865v1)
--   **作者:** Ilteris K. Turan, Jonathan Agrinya, Walter R. L. Lambrecht
--   **研究目的:** 基于对称性分析和第一性原理计算，研究MnSiN$\_2$和MnGeN$\_2$在纤锌矿基晶体结构中的交错磁性。
--   **主要发现:** MnSiN$\_2$和MnGeN$\_2$被确定为交错磁体，其最低能量自旋构型为Pna'2\_1'，并展现出交错磁能带分裂、手性磁振分裂以及Wannier型和Frenkel型激子，证实了其独特的磁性和光学性质。
-
----
-
-### [Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices](http://arxiv.org/abs/2611.30809v1)
--   **作者:** Peter Jacobson
--   **研究目的:** 综述锗表面上的镓位点及其进入生长薄膜的方式，以理解替代性掺杂镓的锗薄膜超导性的起源。
--   **主要发现:** 镓在Ge(001)和Ge(111)表面上的位点及其在薄膜生长中的行为与超导性密切相关，其中镓在表面通常形成三键，而在薄膜中作为替代性受主形成四键，为理解超导薄膜和相关吸附原子晶格提供了关键线索。
-
----
-
-### [Multipartite entanglement structure of crystal quenches](http://arxiv.org/abs/2611.30795v1)
--   **作者:** Paul Gaudin, Clément Berthière
--   **研究目的:** 探究量子猝灭后多体系统中的多体纠缠结构和动力学，特别是晶体猝灭产生的准粒子多重态。
--   **主要发现:** 识别出准粒子多重态在三方之间没有不可约三方纠缠的“零构型”，这些构型完全由成对分布的双体纠缠态组成，这延迟了三方纠缠的产生，并通过马尔可夫间隙的准粒子图像证明其是不可约三方纠缠的忠实见证。
-
----
-
-### [Perfect Spin-to-Charge Signal Conversion via Inverse Spin Hall Effect in a Superconductor](http://arxiv.org/abs/2611.30781v1)
--   **作者:** Rodrigo de las Heras, Ilya V. Tokatly, F. Sebastian Bergeret
--   **研究目的:** 证明超导性可以克服传统自旋霍尔机制的限制，实现近乎完美的自旋-电荷信号转换。
--   **主要发现:** 在超导态下，由于能隙以下准粒子电导被强烈抑制，即使自旋霍尔角很小，注入超导体的自旋积累也能通过逆自旋霍尔效应产生与注入自旋偏置相当的横向电荷信号，从而实现近乎完美的自旋-电荷转换。
-
----
-
-### [Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides](http://arxiv.org/abs/2611.30767v1)
--   **作者:** Valentina Barreca, Giorgio Sangiovanni, Giovanni Cantele, Ludovica Zullo
--   **研究目的:** 利用第一性原理计算，证明Janus不对称性可以在二维碳-硫族化合物 (JTMCCs) 中同时实现Rashba自旋电子学和手性声子学功能。
--   **主要发现:** Janus不对称性通过硫族或过渡金属替代，在JTMCCs中同时驱动巨大的Rashba响应（如Ta$\_2$CSSe和NbTaCS$\_2$中$\alpha\_\mathrm{R}\approx2~\mathrm{eV~\AA}$）和手性声子分裂（高达$\approx28~\mathrm{cm^{-1}}$），并能通过外部电场调控，为二维材料中的自旋电子学和手性声子学提供了统一策略。
-
----
-
-### [Aharonov-Bohm oscillations in transport through interacting quantum dots](http://arxiv.org/abs/2611.30753v1)
--   **作者:** Oliver Oing, Alexander Hahn, Jürgen König, Alfred Hucht
--   **研究目的:** 研究在存在有限点内库仑相互作用的情况下，通过两个量子点Aharonov-Bohm干涉仪的电子输运特性。
--   **主要发现:** 在线性微扰理论下，推导了包含约化密度矩阵四个非对角元素之和的相干度量来表示占据数、电流和干涉可见性的解析表达式，并揭示了有限库仑相互作用对干涉可见性的影响，以及系统对称性破缺时破坏性干涉的快速抑制。
-
----
-
-### [Two-dimensional Thyristor](http://arxiv.org/abs/2611.30748v1)
--   **作者:** Purbasha Ray, Rupali Verma, Biswajeet Nayak, Suman Kumar Chakraborty, Mayank Shrivastava, Prasana Kumar Sahoo
--   **研究目的:** 报道一种基于横向WSe$\_2$-MoSe$\_2$-WSe$\_2$-MoSe$\_2$ PNPN异质结构的原子级薄可重构电光晶闸管，以探索二维半导体在下一代电子学中的应用。
--   **主要发现:** 该原子级薄异质结构展示了晶闸管式的非线性开关行为，包括正向阻断、突发回跳、双稳态和电闩锁，具有$183~\mathrm{V}$的正向阻断电压和$1~\mathrm{MV/cm}$的临界电场，并通过雪崩辅助载流子倍增和再生反馈实现超低保持电压，为可重构二维电子学和光子集成电路开辟了新途径。
-
----
-
-### [All-in-one Spintronic Sensory Neurons for Magnetic Edge Intelligence](http://arxiv.org/abs/2611.30740v1)
--   **作者:** Jiajia Jian, Bin Rong, Jiaxin Liu, Fangyi Zhao, Kai Li, Tao Huang, Xue Zhou, Xin Yue, Zeyu Ma, Xuefeng Zheng, Weidong Zhang, Jian Fu Zhang, Yumeng Yang, Zheng Chai
--   **研究目的:** 演示一种基于自旋转移矩磁隧道结 (STT-MTJ) 的一体化自旋电子传感神经元 (SSN)，以实现磁场到神经尖峰的直接转换，用于本地神经形态处理。
--   **主要发现:** 该SSN利用磁场调制的随机开关实现基于概率的传感，具有电可调的敏感场窗口（$\pm40~\mathrm{mT}$，平均概率灵敏度$2.91\%/\mathrm{mT}$），并将磁刺激直接转换为二进制尖峰序列，在一个纳米级器件中集成了磁传感、非线性速率编码和尖峰生成，为传感器原生边缘智能提供了可扩展的MRAM兼容方法。
-
----
-
-### [The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6](http://arxiv.org/abs/2611.30688v1)
--   **作者:** Grzegorz Krasucki, Katarzyna Olkowska-Pucko, Tomasz Woźniak, Mihai I. Sturza, Holger Kohlmann, Adam Babiński, Maciej R. Molas
--   **研究目的:** 通过对Cr$\_2$Ge$\_2$Te$\_6$（CGT）进行同位素富集，验证其最高能量A$\_{5g}$拉曼活性振动模式的独特多峰线形是否源于锗的天然同位素分布。
--   **主要发现:** 经$^{70}\mathrm{Ge}$同位素富集后，CGT的E$\_{5g}$和A$\_{5g}$模式均出现显著蓝移，且低温下A$\_{5g}$峰从多重峰变为单一清晰的线，这与密度泛函理论计算结果精确吻合，证实了多峰线形确实源于Ge同位素分布。
-
----
-
-### [Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$\_3$ thin films](http://arxiv.org/abs/2611.30681v1)
--   **作者:** Aditya Mehta, Soumyakanta Panda, Pratik Sahu, Amit Chauhan, Dibyajyoti Sahoo, Shwetha G Bhat, Rohit Soni, Goutam Tripathy, Niharika Mohapatra, B. R. K. Nanda, D. Samal
--   **研究目的:** 探究外延SrTaO$\_3$薄膜在压应变下的电子输运性质和能带结构，以实现通过应变工程调控拓扑相。
--   **主要发现:** SrTaO$\_3$薄膜表现出大的非饱和准二次磁阻和非线性霍尔效应，以及场致再入金属行为，半经典两带分析表明存在高迁移率和非平凡能带结构，密度泛函理论计算揭示了八面体旋转$a^0a^0c^+$结构中的拓扑节线和有限贝里曲率，证实外延应变将SrTaO$\_3$驱动为非平凡拓扑半金属态。
-
----
-
-### [Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$\_3$](http://arxiv.org/abs/2611.30649v1)
--   **作者:** Divyanshi Tyagi, Saswata Bhattacharya
--   **研究目的:** 利用第一性原理计算和Wannier基分析，揭示单层VBiSe$\_3$中补偿磁性、自旋-轨道耦合 (SOC) 和谷自由度之间的耦合交错磁性和谷物理。
--   **主要发现:** 单层VBiSe$\_3$在无SOC时展现出具有$i$-波交错磁纹理的动量依赖自旋分裂的补偿Néel反铁磁态；引入SOC后，导带态发展出各向异性Rashba型自旋分裂和显著的$K/K'$谷分裂（约$112.2~\mathrm{meV}$），且通过应变可调控为准半谷金属态，使其成为研究交错磁性、自旋-轨道和谷现象的平台。
-
----
-
-### [Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multiferroic Hetero-structure](http://arxiv.org/abs/2611.30598v1)
--   **作者:** Subho Saha, Sourav Chowdhury, Suryakanta Mondal, Kartick Biswas, Deepak Prajapat, Andrei Gloskovskii, Suresh Bharadwaj, Mukul Gupta, Pavan Nukala, Bhagwati Prasad, Ram Janay Choudhary
--   **研究目的:** 探究LaCoO$\_3$ (LCO)/BiFeO$\_3$ (BFO) 异质结构中电场辅助的电荷转移介导电子耦合，以寻找用于CMOS替代品的新型强耦合铁磁-多铁材料。
--   **主要发现:** 在LCO/BFO异质结构界面区域观察到Co离子到Fe离子的跨离子电荷转移，导致Co、Fe离子多价态并诱导交换偏置，且电场偏置能增强这种电荷转移，进而影响BFO层的极化行为，证实了铁磁LCO和多铁BFO层之间的电子耦合，对构建电压控制磁各向异性 (VCMA) 系统具有重要意义。
-
----
-### [Asymmetrical transport distribution function: skewness as a key to enhance thermoelectric performance](http://arxiv.org/abs/2611.30565v1)
-- **作者:** Jin-Cheng Zheng
-- **研究目的:** 系统研究输运分布函数（TDF）的形状效应对材料热电性能的影响，并开发一种新的热电偏度来增强热电性能。
-- **主要发现:** 输运分布函数的不对称性（偏度）能普遍描述热电性能的趋势，通过增加TDF的偏度可以提高热电性能，并且所提出的热电偏度能准确预测热电功率。
-
----
-
-### [Femtosecond laser-controlled production of functional titanium niobate layers from TiO$\_{2}$/Nb$\_{2}$O$\_{5}$ powders](http://arxiv.org/abs/2611.30549v1)
-- **作者:** Gonzalo Gomez-Munoz, Aarón Calvo-Villoslada, Inmaculada Álvarez-Serrano, María Luisa López, Paloma Fernández, Javier Solis, Belén Sotillo
-- **研究目的:** 开发一种基于飞秒激光的受限粉末床技术，从$TiO\_{2}$和$Nb\_{2}O\_{5}$粉末中烧结钛铌酸盐（TNO）薄膜，以克服传统高温处理的限制。
-- **主要发现:** 通过控制激光脉冲能量，可以制备出不同相组成和微结构的TNO薄膜，该技术为制造功能性氧化物层提供了一种替代途径。
-
----
-
-### [Correlated chemical and displacive disorder in a lithium-rich disordered rocksalt revealed by electron diffuse scattering](http://arxiv.org/abs/2611.30537v1)
-- **作者:** Sam Y. Thompson, Kristoffer A. H. Støckler, Nikolaos Zacharakis, Rebekka Klemmt, Ella M. Schmidt, Sandro Wieser, Nico Unglert, Jørgen Skibsted, Espen D. Bøjesen, Georg K. H. Madsen, Bo B. Iversen, Dorthe B. Ravnsbæk
-- **研究目的:** 利用电子漫散射和三维差分对分布函数（3D-ΔPDF）解析富锂无序岩盐阴极材料$Li\_{2.5}TiO\_{3}F\_{0.5}$中占据和位移相关的关联。
-- **主要发现:** 揭示了$Li\_{2.5}TiO\_{3}F\_{0.5}$中独特的同类阳离子第一近邻和异类阳离子第二近邻偏好，以及与Ti相关的阴离子位移和伴随的阳离子位移，这些关联对锂离子迁移环境有重要影响。
-
----
-
-### [Metal-Dielectric Bilayer Supported Nanoporous Silver Substrates for Ultrasensitive Surface-Enhanced Raman Scattering](http://arxiv.org/abs/2611.30536v1)
-- **作者:** Maryam Naseer, Anastasiia Sapunova, Ali Douaki, Vincenzo Caligiuri, Silvia Dante, Denis Garoli, Roman Krahne
-- **研究目的:** 开发一种新型的金属-介电双层支撑纳米多孔银基底（NPMoDM），以实现超灵敏的表面增强拉曼散射（SERS）。
-- **主要发现:** 通过在纳米多孔银膜下方集成薄介电层和金属背反射器，显著增强了拉曼信号，实现了飞摩尔浓度下分子的SERS检测，并能通过介电层厚度调节增强敏感光谱范围。
-
----
-
-### [1.2 dB Insertion Loss in a Monolithically Integrated Silicon Mach-Zehnder Optical Isolator Using Stoichiometric Ce:YIG](http://arxiv.org/abs/2611.30501v1)
-- **作者:** Zhenyuan Ren, Di Wu, Tianchi Zhang, Yizhi Chen, Junxian Wang, Zixuan Wei, Jun Qin, Lei Bi
-- **研究目的:** 通过优化化学计量比来提高硅基$Ce:YIG$磁光薄膜的品质因数（FoM），从而实现低插入损耗的单片集成硅马赫-曾德尔（MZI）光隔离器。
-- **主要发现:** 通过使用缺铁靶材制备了近化学计量比的$Ce:YIG$薄膜，消除了纳米团簇缺陷，使薄膜的FoM提高了1.7倍，并实现了创纪录的$1.2 \text{ dB}$插入损耗和$27.6 \text{ dB}$隔离度。
-
----
-
-### [Universal stabilizer correlations in chaotic eigenstates](http://arxiv.org/abs/2611.30485v1)
-- **作者:** Zhi-Han Liu, Hao-Yue Qi, Wei Zheng
-- **研究目的:** 探究混沌本征态中的稳定子关联，并确定其是否在不同对称性下呈现普遍常数。
-- **主要发现:** 混沌本征态的稳定子关联趋近于一个由对称性决定的普遍常数，例如在没有额外对称性时为$\log\_2 7$（GOE）和$\log\_2 4$（GUE），揭示了混沌本征态超越纠缠和非稳定性的特征结构。
-
----
-
-### [Self-gravitating dust clumps: linear theory sets the threshold, the onset time and the spacing of their formation, then slow coarsening erases this pattern](http://arxiv.org/abs/2611.31327v1)
-- **作者:** Yohann Trivino
-- **研究目的:** 预测行星形成过程中自引力尘埃团块的形成时间、间距，并研究其后续的演化过程。
-- **主要发现:** 线性稳定性理论能准确预测尘埃团块的形成起始时间$t\_{on} \simeq 3.0/\sigma^*$和主导波长，随后团块会经历缓慢的粗化过程，且团块形成的面积分数等于平均体积分数$\rho\_b$。
-
----
-
-### [Liouvillian Quasiparticle Spectroscopy](http://arxiv.org/abs/2611.30441v1)
-- **作者:** Kai Li, Masahito Ueda
-- **研究目的:** 将准粒子概念扩展到开放量子系统，引入相干和非相干Liouvillian准粒子，并提出相应的光谱学协议来测量其复数准粒子能量。
-- **主要发现:** 成功定义了相干和非相干Liouvillian准粒子，并证明了它们在具有Liouvillian趋肤效应的系统中可以沿相反方向传播，同时在$U(1)$自发对称破缺模型中揭示了无能隙的Nambu-Goldstone模式。
-
----
-
-### [Scanning nanowire quantum dot with radio-frequency read-out](http://arxiv.org/abs/2611.30427v1)
-- **作者:** Aurèle Kamber, Luca Forrer, Valentina Zannier, Fabio Beltram, Lucia Sorba, Martino Poggio, Floris Braakman
-- **研究目的:** 开发一种结合非接触原子力显微镜（NC-AFM）的扫描纳米线量子点（NW QD）单电子晶体管（SET），并实现射频（rf）读出，以克服传统扫描SET在高度控制和带宽方面的限制。
-- **主要发现:** 成功构建了集成在NC-AFM悬臂尖端的NW QD SET，实现了地形成像和局部电测量，并通过射频反射测量技术实现了高带宽读出，为高带宽扫描电测量提供了新途径。
-
----
-
-### [Neutron Spin Resonance as Probe of Triplet Pair Density Waves in CeCoIn$\_5$](http://arxiv.org/abs/2611.30395v1)
-- **作者:** David W. Tam, Ilaria Maccari, Stéphane Raymond, Barry Winn, Paul Steffens, Arno Hiess, Jacques Ollivier, Dariusz Jakub Gawryluk, Ekaterina Pomjakushina, Aline Ramires, Michel Kenzelmann
-- **研究目的:** 利用非弹性中子散射和对称性分析，研究重费米子超导体$CeCoIn\_5$中自旋共振模式在面内磁场下的演化，以揭示其微观起源。
-- **主要发现:** 在高磁场下发现了第三种共振模式，并证明这些共振模式可被解释为涉及向激发超导态跃迁的超导凝聚体集体模式，首次直接证据表明自旋共振模式与超导体的单重态-三重态激发相关。
-
----
-
-### [Gyroidal Magnetic Order with Weyl Magnons](http://arxiv.org/abs/2611.30374v1)
-- **作者:** Kiyu Fukui, Yukitoshi Motome
-- **研究目的:** 在超八边形晶格上引入手性磁序，并探索其磁振子谱中的拓扑特性。
-- **主要发现:** 成功构建了手性磁序，其中每个磁矩沿局部$C\_3$轴指向，形成了手性几何的直接磁性印记；其磁振子谱中存在对称性强制的赝自旋-1和赝自旋-1/2外尔点，这些外尔点在对称性允许的扰动下依然存在。
-
----
-
-### [Critical Topology: A New Perspective for Phase Transitions](http://arxiv.org/abs/2611.30368v1)
-- **作者:** Xue-Jia Yu
-- **研究目的:** 综述并探讨临界拓扑这一超越朗道范式的新型量子临界现象，并指出其在理论和实验方面仍面临的挑战和未来发展方向。
-- **主要发现:** 临界拓扑作为一种新的量子临界形式，通过引入拓扑性质为相变分类提供了新视角，并在人工声学超材料中得到了实验验证，预示着在多体临界拓扑及其在量子系统中的实现方面有巨大潜力。
-
----
-
-### [Manipulation of Ferroelectric Polarization Under Near-Gap Light](http://arxiv.org/abs/2611.30359v1)
-- **作者:** Hanli Cui, Jian Zhou
-- **研究目的:** 探究近带隙光照如何通过诱导结构依赖的光激发载流子密度来调控铁电（FE）序，并揭示其与传统热力学相变的差异。
-- **主要发现:** 在近带隙光照下，可以诱导中心对称非极性（NP）相向铁电相的转变，这种转变在传统温度-压力相图中无法通过热力学实现，为可逆光稳定极性相提供了一种新途径。
-
----
-
-### [Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$\_3$ from Machine-Learned Molecular Dynamics](http://arxiv.org/abs/2611.30348v1)
-- **作者:** Daan Holleman, Luuk Klein Nagelvoort, Monica Morales-Masis, Linn Leppert
-- **研究目的:** 利用机器学习力场分子动力学模拟，研究甲基铵铅碘（$MAPbI\_3$）钙钛矿在室温下受外延应变作用时的结构和光电响应，特别是四方相到立方相的转变。
-- **主要发现:** 模拟预测$MAPbI\_3$在约$0.5\%$的拉伸应变下会发生四方相到立方相的转变，且应变诱导的立方相中MA阳离子仍保持择优取向，同时带隙在拉伸应变下蓝移，与实验结果一致。
-
----
-
-### [High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials](http://arxiv.org/abs/2611.30344v1)
-- **作者:** Mohammad Bagheri, Kameyab Raza Abidi, Pekka Koskinen
-- **研究目的:** 利用机器学习原子间势进行高通量筛选，以识别具有声子带隙的实验材料，并探究其在热应用中的潜力。
-- **主要发现:** 在筛选的42,347种材料中，发现了11,176种具有声子带隙的材料，包括10,960种具有光学-光学带隙和270种具有声学-光学带隙的材料，并确定了具有低热导率的潜在候选材料。
-
----
-
-### [Edge-asymmetric magnetism in semi-Dirac quantum dots](http://arxiv.org/abs/2611.30343v1)
-- **作者:** Mustafa Polat
-- **研究目的:** 研究半狄拉克量子点（QDs）中从狄拉克极限到半狄拉克极限过渡过程中的电子和磁性性质，特别是边缘不对称磁性。
-- **主要发现:** 在三角形半狄拉克量子点中，电子相互作用导致边缘不对称磁性的形成，其中锯齿形三角形量子点表现出边缘不对称铁磁基态，而扶手椅形和六边形量子点则表现出边缘不对称反铁磁基态。
-
----
-
-### [Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys](http://arxiv.org/abs/2611.30330v1)
-- **作者:** Xiang Meng, Shuhei Shinzato, Zhiqiang Zhao, Linfeng Yu, Jian Guo, Liangli Chu, Kepeng Ouyang, Shigenobu Ogata, Zhuhua Zhang
-- **研究目的:** 深入理解硼（B）微合金化在TiAl合金中缺陷介导的再分布机制，以及这些相互作用如何影响其高温强化行为。
-- **主要发现:** 硼在TiAl合金中倾向于在富Ti八面体位点被捕获，并在铝空位附近演变为替代掺杂剂；硼的富集会阻碍位错滑移并抑制形变孪生，从而显著提高合金在高温下的流变应力，为高性能合金设计提供了原子尺度的见解。
-
----
-
-### [Spin-controlled thermophase and noise-optimized thermometry in multiorbital quantum dots](http://arxiv.org/abs/2611.30315v1)
-- **作者:** Markus Plautz, Jeroen Danon, Jacob Linder
-- **研究目的:** 研究在具有Rashba自旋轨道耦合和塞曼分裂的多轨道量子点约瑟夫结中，自旋如何调控热相效应，并优化其作为基于相位的测温计的噪声性能。
-- **主要发现:** 塞曼分裂通过抑制配对输运增强了热相效应，而自旋轨道杂化可以改变轨道共振并反转响应符号；通过噪声预算分析，该量子点结可实现$10\,μ\mathrm{K}/\sqrt{\mathrm{Hz}}$量级的噪声等效温度，为亚开尔文温度下的超导电路测温提供了新途径。
-
----
-
-### [Anatomy of orbital and spin responses in GaAs and Si: Hall, inverse Faraday, and magneto-optical Kerr effects](http://arxiv.org/abs/2611.30297v1)
-- **作者:** Sanaz Alikhah, Daegeun Jo, Peter M. Oppeneer
-- **研究目的:** 通过密度泛函理论和线性响应理论，计算并分析电子掺杂的GaAs和Si中霍尔效应、逆法拉第效应和磁光克尔效应中的轨道和自旋贡献。
-- **主要发现:** 在电子掺杂的GaAs和Si中，轨道霍尔电导率和光致磁化中的轨道贡献显著大于自旋贡献，且磁光克尔旋转对轨道矩的敏感度远高于自旋矩，表明非磁性半导体中的磁光信号主要由轨道效应主导。
-
----
-
-### [Apparent thermal conductivity governed by interface-injected phonon spectra](http://arxiv.org/abs/2611.30276v1)
-- **作者:** D. G. Jeong, Terumasa Tadano, J. S. Lee
-- **研究目的:** 探究界面注入声子谱如何影响热反射技术测得的表观热导率，并阐明导致表观热导率增强或减小的光谱特性。
-- **主要发现:** 短平均自由程（$\Lambda\_\omega$）加权的声子注入会提高表面温度，而长平均自由程加权的注入则会降低表面温度，这表明表观热导率不仅反映了衬底的热性能，还受到通过换能器界面注入的声子谱的强烈影响。
-
----
-
-### [A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to GW, GW+SOSEX, and GF2](http://arxiv.org/abs/2611.30263v1)
-- **作者:** Ajith Perera, Pierre-François Loos
-- **研究目的:** 构建一种基于运动方程耦合簇理论（EOM-CCSD）的频率依赖单粒子关联自能，并研究其与$GW$、$GW+SOSEX$和$GF2$等近似方法的联系。
-- **主要发现:** 通过对外部相互作用顶点的不同选择，可以从EOM-CCSD响应中推导出三种自能近似，它们在裸态极限和随机相近似（RPA）响应下分别还原为$GF2$、$G\_0W\_0$和$G\_0W\_0+SOSEX$，揭示了在构建精确自能近似中平衡屏蔽和顶点修正的重要性。
-
----
-
-### [Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation](http://arxiv.org/abs/2611.30229v1)
-- **作者:** Ruiqi Dong, Haotian Huang, Yubin Hu, Guixiang Zeng
-- **研究目的:** 提出一种名为“蒸馏驱动的师生协同演化”（DICE）的新方法，旨在通过学生驱动的探索和可靠性感知蒸馏来加速原子间势的开发。
-- **主要发现:** DICE方法通过让快速学生模型加速构型探索，并结合基于表示的支持评估算法来指导高支持度构型进行教师标记和低支持度构型进行DFT计算，显著减少了所需DFT参考构型数量和计算时间，成功为多种材料开发了可靠且紧凑的原子间势。
-
----
-
-### [Quantum Geometry Effects in Lattice Dynamics](http://arxiv.org/abs/2611.30210v1)
-- **作者:** Haoshu Li, Hao Chen, Qian Niu
-- **研究目的:** 探究量子几何效应，特别是量子度规，在晶格动力学中的作用，并识别其对晶格电子响应的贡献。
-- **主要发现:** 在磁性拓扑半金属$EuB\_6$中，存在手性分裂和非手性分裂的声子模式共存，其中手性分裂源于贝里曲率，而非手性分裂则纯粹源于量子度规，且贝里曲率贡献被晶体对称性禁止。
-
----
-
-### [Strain-driven terahertz phase modulation in piezoelectric and nonlinear optical crystals: mechanisms, material developments, and modulation strategies](http://arxiv.org/abs/2611.30194v1)
-- **作者:** Aarifa Muhammed Ashraf, Rajaboopathi Mani
-- **研究目的:** 综述压电和非线性光学晶体中应变驱动太赫兹（THz）相调制机制、材料发展和调制策略。
-- **主要发现:** 强调了非中心对称压电材料中应变驱动THz调制通过压电共振实现THz波与晶格振动之间的强耦合，并评估了多种非线性光学晶体在THz调制方面的潜力，为高性能THz调制器的开发提供了指导。
-
----
-
-### [Quantum simulation of low-temperature impurity models](http://arxiv.org/abs/2611.30187v1)
-- **作者:** Jiaqing Jiang, Nathan Ju
-- **研究目的:** 开发高效的量子算法，用于在低温和高精度下模拟量子杂质模型。
-- **主要发现:** 提出了能在$\mathrm{poly}(n,\beta,\log(1/\delta))$时间内制备热态的量子算法，首次实现了在逆温度$\beta$上多项式级和在精度$\delta$上多对数级的缩放，并通过全局跳跃算子避免了传统量子吉布斯采样器常见的$\exp(\beta)$开销，使其在低温下也能高效运行。
-
----
-### [Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves](http://arxiv.org/abs/2611.30160v1)
-- **作者:** Yuan Xu, Maxim V. Shugaev, Leonid V. Zhigilei
-- **研究目的:** 揭示非线性瑞利波在Pt中诱导位错生成、演化以及非热退火的机制。
-- **主要发现:** 强非线性表面声波（SAWs）可在Pt(111)表面引发位错发射、复杂位错结构形成，并能通过重复作用实现位错密度的非热退火和原子级表面改性。
-
----
-
-### [A Unified Energy-Density Framework for Moiré Interface Energetics and Mechanics](http://arxiv.org/abs/2611.30152v1)
-- **作者:** Zhangke Lei, Weidong Yan, Zhicheng Feng, Wengen Ouyang
-- **研究目的:** 建立一个统一的能量密度框架，以分析范德华莫尔界面的能量学和力学响应，同时保留离散晶格信息。
-- **主要发现:** 该框架通过倒空间中的配对势和原子密度，成功连接了微观相互作用与有限接触的能量学，并推导了圆形和规则多边形薄片的明确表达式，揭示了边界依赖项和莫尔波长、薄片尺寸、边数之间的关系。
-
----
-
-### [Projecting Fermions into Exact Scar Towers: Local Protection across Phase Transitions](http://arxiv.org/abs/2611.30143v1)
-- **作者:** Wenjie Wei, Kun Jiang, Hui-Ke Jin
-- **研究目的:** 通过Gutzwiller投影方法在$SO(n)$ ($n\ge3$) 自旋链中构建精确的疤痕塔，并研究其在相变中的局部保护特性。
-- **主要发现:** 构建了由$n$味平带Kitaev链Gutzwiller投影得到的精确疤痕塔，并发现这些疤痕态在对称性保护拓扑相到铁磁相的一阶相变过程中，即使在无能隙点，其波函数和绝对能量也能保持不变。
-
----
-
-### [Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4](http://arxiv.org/abs/2611.30121v1)
-- **作者:** Hidefumi Takahashi, Yuki Umewaka, Kiichiro Yoshida, Ritsuto Nakamura, Akitoshi Nakano, Takao Matsumura, Daiki Sekine, Masakazu Matsubara, Masayuki Ochi, Shintaro Ishiwata
-- **研究目的:** 实验证明在电荷密度波（CDW）半导体EuTe$\_4$中通过机械压痕诱导极性畴重构。
-- **主要发现:** 在室温下，通过局部压痕成功实现了导电CDW半导体EuTe$\_4$中极性畴的重构，产生了楔形区域的写入/擦除式变化，这可能涉及铁弹性类和挠电机制。
-
----
-
-### [Soliton Propagation of Zero Sound in Superfluid $^3$He-B](http://arxiv.org/abs/2611.30108v1)
-- **作者:** J. A. Sauls
-- **研究目的:** 导出零声与B相集体模式相互作用的非线性方程，并讨论其孤子解。
-- **主要发现:** 将超流体$^3$He-B视为双能级“分子”（库珀对）介质，推导了零声传播的非线性方程，并在与Polturak等人实验相关的背景下讨论了孤子解。
-
----
-
-### [Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr$\_3$Ni$\_2$O$\_5$Cl$\_2$](http://arxiv.org/abs/2611.30088v1)
-- **作者:** Ryota Goban, Daiki Ootsuki, Kenichi Ozawa, Akira Yasui, Masayuki Ochi, Kazuhiko Kuroki, Ryo Matsumoto, Kensei Terashima, Yoshihiko Takano, Yuji Muraoka, Takayoshi Yokoya
-- **研究目的:** 通过光电子能谱（PES）研究常压镍酸盐超导体候选材料Sr$\_3$Ni$\_2$O$\_5$Cl$\_2$的电子结构，包括价带、电子关联和费米能级($E\_F$)附近的温度依赖性变化。
-- **主要发现:** Sr$\_3$Ni$\_2$O$\_5$Cl$\_2$的价带光谱与DFT+U ($U=3$ eV) 计算结果吻合，表明存在显著的电子关联，并且费米能级($E\_F$)附近的电子结构表现出明显的温度依赖性。
-
----
-
-### [NEP-Spin: A spin-dependent neuroevolution potential for large-scale spin--lattice simulations](http://arxiv.org/abs/2611.30076v1)
-- **作者:** Chengbing Chen, Zheyong Fan, Ben Xu
-- **研究目的:** 开发一种自旋依赖的神经演化势（NEP-Spin），用于大规模自旋-晶格耦合模拟。
-- **主要发现:** NEP-Spin能够准确预测铁磁性、反铁磁性材料的能量、原子力和磁力，并在多铁性BiFeO$\_3$中成功模拟了磁性回旋结构及其在电场下的演化，展现了在大规模模拟中的高效性和准确性。
-
----
-
-### [Stable but Hidden: Identifiability and Experimental Design under Missing Compositional Support](http://arxiv.org/abs/2611.30070v1)
-- **作者:** Harry Sevi, Joonatan E. M. Laulainen
-- **研究目的:** 研究在材料发现中，当相关组分被单独观察但从未联合观察时，机器学习模型在预测缺失组合时的结构性失效问题（可识别性），并探讨实验设计。
-- **主要发现:** 识别出未解决方向的“不可见子空间”，并发现即使模型在已知数据上一致，也可能在缺失组合上存在显著分歧；通过优化实验设计，特别是在电催化和Materials Project数据集上的验证，表明了解决这种歧义的重要性。
-
----
-
-### [Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery](http://arxiv.org/abs/2611.30066v1)
-- **作者:** Harry Sevi, Joonatan E. M. Laulainen
-- **研究目的:** 探讨在AI引导的材料发现中，机器学习原子间势（MLIPs）的诊断准确性与部署价值之间的不匹配问题，并提出决策对齐的可靠性评估方法。
-- **主要发现:** 传统可靠性指标（如不确定性、校准、新颖性、排名准确性）的成功并不必然转化为更好的下游筛选决策，强调可靠性应根据其支持的决策来评估。
-
----
-
-### [Solids activated by multi-body nonreciprocity](http://arxiv.org/abs/2611.30058v1)
-- **作者:** Brady Wu, Daniel S. Seara, Qinghao Mao, Vincenzo Vitelli, Heinrich M. Jaeger
-- **研究目的:** 探索多体非互易性如何将活性注入固体，尤其是在由声学悬浮微球组成的二维密排筏中。
-- **主要发现:** 实验观察到晶体筏表现出持续的循环运动和大的泊松比，表明剪切柔软性；通过粗粒度微观模型，揭示了晶格对称性掩盖了体内的微观非互易性，但在位错和筏边缘处，非互易相互作用作为局部活性生成器。
-
----
-
-### [Domain advantage in two-dimensional quantum-device design with multi-modal agentic harness](http://arxiv.org/abs/2611.30043v1)
-- **作者:** Shenhao Miao, Yizhou Li, Liqiao Xia, Ruihao Liu, Dingke Wang, Pablo Jarillo-Herrero, Eli Zeldov, Jiaqi Cai
-- **研究目的:** 评估语言模型代理在二维量子器件设计中，能否将显微镜图像和实验要求转化为适合样本的器件布局，以减少人工操作。
-- **主要发现:** 引入的多模态代理工具qlaybot通过连接图像解释和设计工具，显著提高了代理在基准任务中的通过率（从24.1%提升至81.5%），凸显了在二维量子器件制造中将科学解释与几何设计相结合的重要性。
-
----
-
-### [Geometric Polarization-Virial Theorems for Field-Induced Dipolar Interactions and Force Reversal](http://arxiv.org/abs/2611.30039v1)
-- **作者:** Shuze Zhu
-- **研究目的:** 揭示电场诱导偶极相互作用的完整角机械结构，特别是吸引力转变为排斥力的机制。
-- **主要发现:** 发现了熵状的几何结构：立方加权的相互作用自由能$r^3 F(r)$在物理膨胀下非递减，并统一了两个精确的极化-维里定理，解释了力反转的机制和能量与力零点的严格顺序。
-
----
-
-### [Nonmonotonic In-Plane Thermal Transport in Metal-Embedded Graphitic Carbon Nitride](http://arxiv.org/abs/2611.30015v1)
-- **作者:** Wenwu Jiang, Hekai Bu, Wei Qiu, Yong Ni
-- **研究目的:** 研究金属原子嵌入石墨氮化碳（g-C$\_3$N$\_4$）的固有空腔后，其面内热输运性质的变化。
-- **主要发现:** Cu嵌入g-C$\_3$N$\_4$的热导率表现出显著的非单调依赖性，在中间占有率时降低，而在接近完全占有率时部分恢复，这源于低频和高频声子贡献之间的竞争。
-
----
-
-### [Pseudo-Altermagnetism in Non-Hermitian Systems](http://arxiv.org/abs/2611.29976v1)
-- **作者:** Chang-Yin Ji, Runze Li, Zhi-Ming Yu, Yugui Yao
-- **研究目的:** 引入非厄米系统中的伪交错磁性概念，并研究其独特的非厄米性质和能带结构。
-- **主要发现:** 伪交错磁性不仅导致动量依赖的增益和损耗分布，类似于交错磁体的动量依赖自旋劈裂，而且$C\_{4z}\mathcal{T}$不变的非厄米系统能带具有可移动但不可消除的节点结构，包括孤立带中的厄米谱线和配对带中的节点网络。
-
----
-
-### [Pyroelectric Harvesting from Steady Heat Sources via Active Piezoelectric Thermal Switching](http://arxiv.org/abs/2611.29928v1)
-- **作者:** Jun Usami, Yuki Okamoto, Shimpei Saito, Saeko Tachikawa, Soumei Baba, Takeshi Fujii, Sucheta Gorwadkar, Natsumi Makimoto, Takeshi Kobayashi
-- **研究目的:** 演示通过PZT/Si双压电悬臂梁中的主动压电热开关，从稳定热源进行热释电能量收集。
-- **主要发现:** 实验证明了在高达110 Hz的频率和低至5 K的温差下，可实现热释电能量收集，并发现动态界面传热是限制高频操作的关键因素。
-
----
-
-### [Unveiling the Complex high-pressure phases of Sodium at the Melting Curve Minimum via Data-Drive Crystal Structure Prediction](http://arxiv.org/abs/2611.29889v1)
-- **作者:** Zhenyu Wang, Chengqian Zhang, Xiaoyang Wang, Haiyang Niu, Jian Lv, Han Wang
-- **研究目的:** 结合CALYPSO晶体结构预测和深度势能模型，探索钠在熔化曲线最小值附近的复杂高压相结构。
-- **主要发现:** 成功识别了$tI50$的结构，并为实验观察到的$oC120$和$aP90$提出了候选原子排列，同时发现了三个新的低焓结构，揭示了这些结构之间以及与已知钠相之间的竞争关系。
-
----
-
-### [Sondheimer oscillations in Weyl semimetal films](http://arxiv.org/abs/2611.29875v1)
-- **作者:** Lucas Méchet, Louis-Thomas Gendron, Ion Garate
-- **研究目的:** 将Sondheimer振荡的半经典玻尔兹曼描述扩展到I型外尔半金属薄膜，以研究其对贝里曲率的依赖性。
-- **主要发现:** 贝里曲率和轨道磁矩在外尔半金属薄膜的Sondheimer振荡中产生了拍频和啁啾效应，揭示了电子能带拓扑与边界散射在磁输运中的相互作用。
-
----
-
-### [Electric polarizabilities with phaseless auxiliary-field quantum Monte Carlo](http://arxiv.org/abs/2611.29858v1)
-- **作者:** Leon Otis, Jo Kurian, James Shee
-- **研究目的:** 演示如何使用无相辅助场量子蒙特卡罗方法，结合关联采样有限差分策略，高效计算电（静态）极化率张量。
-- **主要发现:** 该方法能够高效且准确地计算一系列小分子、多并苯和二茂铁的电极化率，并且对于强关联电子态也表现出鲁棒性，为计算其他二阶分子性质提供了途径。
-
----
-
-### [Mixed-State Magnetotransport Below $T\_c$ in Type-II Superconducting NbN Thin Films](http://arxiv.org/abs/2611.29817v1)
-- **作者:** Sai Vaishnavi Kanduri, Danilo Bürger, Zichao Li, Mario Ziegler, Detlef Born, Sahitya V. Vegesna, Heidemarie Krüger
-- **研究目的:** 研究NbN薄膜在超导转变温度$T\_c$以下混合态的磁输运性质，包括场依赖的薄层电阻($R^M\_{xx}$)和霍尔电阻($R^M\_{xy}$)。
-- **主要发现:** 通过电流分配模型分析，估算了场依赖的超导电流以及霍尔效应导出的有效耗散载流子密度和迁移率，并观察到与驱动电流强相关的偶场横向信号，可能涉及阿布里科索夫涡旋的磁性和超流纹理。
-
----
-
-### [Inferring Experimental Objectives in Microscopy Experiments from Decision Traces](http://arxiv.org/abs/2611.29814v1)
-- **作者:** Kamyar Barakati, Boris N. Slautin, Aditya Raghavan, Babita Babita, Surya Prakash Reddy, Jordan Marshall, Munireach Nannory, Stephen Puplampu, Alla Slautina, Faith M. Hines, Newsha Javanmardi, Sergei V. Kalinin
-- **研究目的:** 探索是否可以从显微镜操作员的决策历史中学习奖励函数，以实现显微镜实验的自动化。
-- **主要发现:** 提出了多种框架，通过分析操作员在测量位置选择上的偏好来重建奖励函数，并成功地从受控序列中恢复了隐藏的优先级切换和渐进漂移，为未来自动化显微镜实验提供了候选目标。
-
----
-
-### [Exact many-body scars of generic spin models from singlet covers](http://arxiv.org/abs/2611.29754v1)
-- **作者:** Camilla Polvara, William Witczak-Krempa
-- **研究目的:** 探索在横向场伊辛模型中，如何从单线态覆盖生成精确的多体疤痕态，并研究其在不同晶格和自旋模型中的普遍性。
-- **主要发现:** 发现方格横向场伊辛模型在任何场强下都存在精确的零能量本征态，这些态由交替方格对角线上的单线态乘积构成，并且该机制适用于多种自旋、各向异性交换、键无序和某些三自旋项。
-
----
-
-### [Giant magnetic anisotropy in layered polar metal Sr$\_3$Co$\_2$O$\_7$ from Charge-disproportionation orbital unquenching](http://arxiv.org/abs/2611.29742v1)
-- **作者:** Houssam Sabri, Hong-Fei Huang, Jie-Xiang Yu, Jiadong Zang
-- **研究目的:** 识别并解释层状极性金属Sr$\_3$Co$\_2$O$\_7$中巨大的磁各向异性来源。
-- **主要发现:** 第一性原理计算揭示了电荷歧化和相关的极性位移重建了局部钴晶体场，使得轨道角动量在面内磁化时得到恢复，从而产生了巨大的磁晶各向异性。
-
----
-
-### [A Theoretical Investigation of Magnetic Susceptibility Measurement of Diamagnetic Liquids Using a Michelson Interferometer](http://arxiv.org/abs/2611.29671v1)
-- **作者:** David Shulman
-- **研究目的:** 理论研究使用迈克尔逊干涉仪，通过磁场诱导的表面形变来推断抗磁性液体的磁化率。
-- **主要发现:** 推导了在局部重力近似和考虑表面张力的情况下，磁化率的反演关系，并明确了位移符号、磁化率对比度以及校准和不确定性要求。
-
----
-
-### [Kinetic inductance of two-dimensional viscous electron fluid](http://arxiv.org/abs/2611.29645v1)
-- **作者:** A. A. Grigorev, A. N. Afanasiev
-- **研究目的:** 研究二维粘性电子流体在狭窄通道几何中的线性无功交流响应，特别是其动能电感。
-- **主要发现:** 动能电感因非均匀流速分布而增强，并且与扩散输运不同，在碰撞机制下通过粘性趋肤效应主导电学阻抗，预示了高迁移率二维电子系统在微波频率下作为高频电子材料的应用潜力。
-
----
-
-### [MagPot: A magnetoelastic potential generator for molecular dynamics simulations](http://arxiv.org/abs/2611.29574v1)
-- **作者:** P. Nieves, I. Korniienko, S. Arapan, A. Fraile, R. Iglesias, D. Legut
-- **研究目的:** 开发一个名为MagPot的Python程序，用于为自旋-晶格分子动力学模拟生成Bethe-Slater参数集，以模拟磁弹性现象。
-- **主要发现:** MagPot程序能够从一组紧凑的材料属性中确定描述海森堡交换和双离子Néel相互作用的径向函数，并支持多种晶格和磁性配置，通过自动化磁性贡献的构建，为大规模磁弹性模拟提供了便捷和可重复的途径。
-
+论文 1：
+标题：The transverse spin-gradient approximation in noncollinear spin density functional theory
+作者：Mihály A. Csirik
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34301v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 2：
+标题：Magnetization, susceptibility, and entanglement entropy in antiferromagnetic star-shaped homometallic tetranuclear and pentanuclear Cu(II) complexes
+作者：Gor Mirzoyan, Vladimir V. Papoyan, Andrea Trombettoni, Nikita Titov, Lev Ananikyan, Nerses Ananikian
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34281v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 3：
+标题：Anisotropic magnetic-field modulation of hysteretic sheet resistance in few-layer ferroelectric WTe2
+作者：Arpan Manna, Soumik Mukhopadhyay
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34259v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 4：
+标题：Fractional Chern Insulator in a Finite-Range One-Band Model
+作者：Tong Liu, Hoi Chun Po
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34255v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 5：
+标题：Hidden f-wave TIVC and Quantum Phase Transitions in Metallic States of Twisted Bilayer Graphene
+作者：Arindam Pramanik, Unmesh Ghorai, Rajdeep Sensarma
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34225v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 6：
+标题：Quantum-centric assessment of saturated ferromagnetism beyond the flat-band limit
+作者：Kosuke Nogaki, Tomonori Shirakawa, Seiji Yunoki, Ryotaro Arita
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34204v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 7：
+标题：Foundation interatomic potentials capture structural disorder in metallic glasses
+作者：Dario Massa, Luca Leoni, Antoni Wadowski, Kacper Cybinski, Anshul D. S. Parmar, Carmine Autieri, Cesare Franchini, Jan Wrobel, Silvia Bonfanti, Piotr Sankowski
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34156v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 8：
+标题：When High Capacity Becomes Undeployable: Pore-Filling Constraints for Multi-Objective Optimization of Direct Air Capture Sorbents
+作者：Yujie Liu, Xuehua Shen, Zuotai Zhang
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34154v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 9：
+标题：Nontrivial criticality and weakly first-order transitions in the frustrated spin-1 chain with single-ion anisotropy
+作者：Qiang Luo, Shijie Hu, Jize Zhao, Sebastian Eggert, Xiaoqun Wang
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34145v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 10：
+标题：Quantum Metric Connects Bond Delocalization to Phonon Softening
+作者：Tianqi Deng, Tiejun Zhu
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34118v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 11：
+标题：Tunable quantum metric driven nonlinear valley Hall effect in the PT-symmetric sliding antiferroelectric MoS$\_2$
+作者：Wen-Xin Jiang, Zhen-Hao Gong, Zhigang Gui, M. Umar Farooq, Li Huang
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34116v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 12：
+标题：Quantum Geometric Origin of Néel-Order-Driven Magneto-Optical Response in MnTe
+作者：Suman Rooj, M. S. Mrudul, Daegeun Jo, Peter M. Oppeneer
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34076v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 13：
+标题：Toward a quantum resistance standard above liquid nitrogen temperature
+作者：Kaining Yang, Changwei Zhai, Naijie Ren, Kai Zhao, Chengyuan Li, Changhao Zhao, Yunfeng Lu, Yaning Wang, Jianting Zhao, Zheng Vitto Han
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34069v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 14：
+标题：On the level lines of bilayer potentials with a finite number of harmonics
+作者：A. Ya. Maltsev
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34033v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 15：
+标题：Wannier-Based Low-Energy Electronic Structure Analysis of $λ$-(STF)$\_2$GaCl$\_4$
+作者：Arifa D. Agustin, Aulia A. Firdaus, Fathan M. Santana, Shuhei Fukuoka, Atsushi Kawamoto, Muhammad R. Ramadhan, Isao Watanabe, Dita P. Sari, Yasuyuki Ishii
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.34000v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 16：
+标题：Unified preparation of exact and asymptotic quantum many-body scars from Dicke states
+作者：Yuki Asari, Masaya Kunimi, Tetsuro Nikuni
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33987v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 17：
+标题：Transport Layer-Driven Optimization of Color and Efficiency in TADF OLEDs for Large-Area Applications
+作者：Manish Kumar, Jawid Nikan, Luiz Pereira
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33933v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 18：
+标题：Revisiting the Schottky-Mott Relation for Metal/ Transition Metal Dichalcogenide Interfaces: The Role of Interface Dipoles
+作者：Chih-Piao Chuu, Shu-Jui Chang, Yu-Miin Sheu, Zih-Syuan Huang, Wei-Tung Liu, Po-Wei Chen, Sui-An Chou, Yu-Tung Lin, Chih-I Wu, Wen-Hao Chang, Chun-Liang Lin, H. -S. Philip Wong, Iuliana P. Radu
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33929v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 19：
+标题：PerovAgent: Autonomous Ligand Design for Halide Perovskite Nanocrystals
+作者：Seungjun Cha, Yoo Jae Jeong, Amanda Conde Del Moral, Juan-Pablo Correa-Baena, Seth R. Marder, David S. Ginger, Victor Fung, Guoxiang Hu
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33913v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 20：
+标题：Phono3GPU: GPU-Accelerated Linear Tetrahedron Integration for Phonon Thermal Transport
+作者：Jinhyeong Jo, Sungwoo Kang, Byungju Lee, Jung-Hoon Lee, Seugchul Kim
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33912v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 21：
+标题：Cascading LO-phonon-mediated resonant energy transfer from excitons to Eu3+ for ultrahigh color purity red luminescence in europium-doped GaN
+作者：Shizhao Fan, Yue Xu, Yuhao Yin, Shitao Dong, Shaoqiang Chen, Xueyuan Chen, Zhan Su, Datao Tu, Qian Sun, Hui Yang
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33891v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 22：
+标题：Structural Anisotropy in Bi$\_2$Se$\_3$/$λ$-(BETS)$\_2$GaCl$\_4$ Topological Insulator/Superconductor Bilayer
+作者：Fathan M. Santana, Arifa D. Agustin, Aulia A. Firdaus, Malik A. Baqiya, Darminto Darminto, Muhammad K. Nuryadin, Takahiko Sasaki, Isao Watanabe, Takuya Kobayashi, Hiromi Taniguchi, Yasuyuki Ishii, Pasquale Marra, Paolo Mele, Dita P. Sari
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33869v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 23：
+标题：Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN/GaN Heterostructures
+作者：Yuhao Yin, Shizhao Fan
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33868v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 24：
+标题：Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail
+作者：Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Diantong Li, Junhong Chen, Yuxin Chen
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33830v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 25：
+标题：Spin-vibronic order in Ba$\_2$MgReO$\_6$
+作者：Zhishuo Huang, Takumi Gengo, Teruki Matsuzaki, Liviu F. Chibotaru, Naoya Iwahara
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33814v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 26：
+标题：Controlling truncation errors in loop tensor network renormalization
+作者：Rikuto Fushio, Kokin Cho, Yuta Yamamoto, Akira Otsuki, Masahito Yamazaki
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33807v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 27：
+标题：Superconductivity from a Cooper surface instability in a nodal Bose metal
+作者：Jian-Jian Miao, Cui Ding
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33803v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 28：
+标题：Exact subtraction of electron self-interaction from the Kohn-Sham equations
+作者：J. E. Ingall, Alister J. Page
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33795v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 29：
+标题：Solvent-Mediated Disintegration of a Vitrimer Network
+作者：Manoj K Patel, Tarak K Patra
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33770v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 30：
+标题：Superconductivity from the Berry connection from many-electron wave functions: $U(1)$ gauge fluctuation, gauge invariance, and superconductivity
+作者：Hiroyasu Koizumi
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33723v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 31：
+标题：Crystal-Symmetry-Dependent Field-Free Superconducting Diode Effect in CoPt/Nb Heterostructures
+作者：He Yu, Jiaxin Chen, Yi Zhang, Gan Zhao, Yizhen Shao, Jiaxu Li, Yu He, Qiusha Wang, Yuanliang Zhu, Bin Han, Junda Qu, Haochang Lyu, Bowen Dong, Jie Qi, Dapeng Zhu, Daoqian Zhu, Yunchi Zhao, Liang Liu, Shouguo Wang, Weisheng Zhao, Guang Yang
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33717v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 32：
+标题：Electron exchange matters in electron spectroscopy
+作者：Michael J. Landry, Chuhang Liu, Ashley S. Dale, L. Dagny Davis, Griffin M. Haisman, Lijun Wu, Ray F. Egerton, Yimei Zhu, Mingda Li
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33637v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 33：
+标题：Graphical Rules for Zero-energy Quantum-Interference Patterns in Bipartite Lattices
+作者：Xinhao Fan, Shunbo Hu, Jingzhe Chen
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33630v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 34：
+标题：A scalable dense silicon qubit architecture with logical operations
+作者：Masahiro Tadokoro, Tetsuo Kodera
+发布日期：2026-11-25
+arXiv链接：https://arxiv.org/pdf/2611.33590v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 35：
+标题：Machine-Learning Spin-Fermion Models for Strongly Disordered Magnets: Sb-Doped MnTe
+作者：Do Hoon Kiem, Parul R. Raghuvanshi, David S. Parker, Lucas Lindsay, Valentino R. Cooper, Tom Berlijn
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33544v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 36：
+标题：Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$\_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells
+作者：Chiyoung Kim, Ryan Jacobs, Jun Meng, Jack H. Duffy, Kyle S. Brinkman, Yueh-Lin Lee, Harry W. Abernathy, Dane Morgan
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33543v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 37：
+标题：ILMlip: fast and universal machine-learning interatomic potentials
+作者：Jonas Hänseroth, Christian Dreßler
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33538v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 38：
+标题：Low-barrier-height Hf$\_\text{1-x}$Zr$\_\text{x}$O$\_2$ ferroelectric tunnel junctions with large ON-state currents
+作者：Shaoqing Ding, Jinyuan Yao, Eknath Sarkar, Emmanuel Quezada, Thomas N. Jackson, Susan Trolier-McKinstry, Suman Datta, Ying Liu
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33495v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 39：
+标题：Infrared-absorption magnetometry in a diamond nanocavity: demonstration and limits at the nanoscale
+作者：Nicholas J. Sorensen, Elham Zohari, Chris Coutts, Sean McNaney, Matteo Feder, Hadi Zadeh-Haghighi, Sigurd Flågan, Vinaya K. Kavatamane, Christoph Simon, Paul E. Barclay
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33481v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 40：
+标题：Electron--phonon interactions in a pseudo--atomic orbital basis: superconductivity, transport, spectroscopy and thermal emission from one interpolated vertex
+作者：Marco Buongiorno Nardelli
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33473v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 41：
+标题：Exact high-order spectral moments and moment-based reconstruction of polaron spectra at finite temperature for arbitrary linear electron-phonon coupling
+作者：Jeet Shannigrahi, Mona Berciu
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33431v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 42：
+标题：Spectroscopic Signatures of Polaronic Density Wave Fluctuations in Superconducting Bismuthates
+作者：Wojciech R. Pudełko, Muntaser Naamneh, Philip M. Dee, Hang Li, Eduardo B. Guedes, Dariusz J. Gawryluk, Anna Krztoń-Maziopa, Vahid Sazgari, Yona Soh, Ming Shi, Milan Radović, Johan Chang, Steven Johnston, Nicholas C. Plumb
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33422v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 43：
+标题：Large-deformation constitutive modeling of viscoelastic foams: Application to an open-cell foam material
+作者：Jialiang Tao, Alexander K. Landauer, Zicheng Yan, Xiuqi Li, Christian Franck, David L Henann
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33416v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 44：
+标题：Unveiling ferroelectricity in wafer-scale beta-phase In$\_2$Se$\_3$
+作者：Kyungmin Yang, Hyunmin Cho, Jihwan Jeon, Tae Hyeon Park, Seojeong Ro, Hye Jung Kim, Jung-Hoon Lee, Jaewon Wang, Hyeon Suk Shin, Young-Min Kim, Chang Woo Myung, Roy H. Olsson, Seunguk Song, Deep Jariwala
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33405v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 45：
+标题：Magnetically Guided Sequential Multi-Filler Alignment Enables Anisotropic Heat Pathways in Stretchable Composites for Soft Electronics
+作者：Altynay Kaidarova, Viktor Naenen, Isidro Florenciano, Ruben Windey, Xiaoyan Qing, Laurens Snels, Juhyung Park, Tom Van der Donck, Jeroen Soete, David Seveno, Francisco Molina-Lopez
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33381v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 46：
+标题：Nitrogen-Vacancy Nuclear Magnetic Resonance Spectroscopy of $^{15}$N Spins in Potassium Nitrite Solution
+作者：Sehrish Iqbal, Jitender Kumar, Suvechhya Lamichhane, Rupak Timalsina, Sy-Hwang Liou, Abdelghani Laraoui
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33360v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 47：
+标题：Identifying Renormalization Group Interfaces of Massless WZW Flows $\widehat{\mathfrak{su}}(2)\_k \to \widehat{\mathfrak{su}}(2)\_1$
+作者：Yuma Furuta, Yuya Kusuki, Toshiki Onagi, Yin Tang
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33354v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 48：
+标题：On the binding and stability of CeO2 molecules on low-index Au surfaces
+作者：Ying-Cheng Chen, Ahmad Ahmad, Anter El-Azab
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33338v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 49：
+标题：Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics
+作者：Asadullah Bhuiyan, Haining Pan, Chao-Ming Jian
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33328v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 50：
+标题：Spin-Wave Excitations in $\mathrm{La\_3Ni\_2O\_7}$: A Dynamical Mean-Field Theory and Bethe-Salpeter Equation Study
+作者：Zhihui Luo, Zhong-Yi Xie, Cui-Qun Chen, Wéi Wú, Dao-Xin Yao
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33298v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 51：
+标题：Spin superfluid transport of magnons in altermagnetic insulators
+作者：Dele Li, Meng-Han Zhang, Dao-Xin Yao
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33294v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 52：
+标题：Spontaneous Time-Reversal-Symmetry-Breaking State in Proximity-Induced Superconductivity
+作者：Jonathan Schirmer, Wei Pan, Javad Shabani, Enrico Rossi
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33288v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 53：
+标题：Can the chemical potential and the many-body correlated phases of a two-dimensional dipolar fluid be approximated analytically? A Quantum Monte-Carlo study of a universal behavior of dipolar excitons
+作者：Yotam Mazuz-Harpaz, Michal Zimmerman, Snir Gazit, Ronen Rapaport
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33289v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 54：
+标题：Pairing from anti-Hund's coupling under infinite Hubbard repulsion
+作者：Donggyu Kim, Ya-Hui Zhang
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33286v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 55：
+标题：Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum
+作者：Taras Palasyuk, Ashutosh S. Wadge, Eduard E. Zubov, Igor Antoniazzi,  Gayatri, Andrzej Wiśniewski, Wojciech Szuszkiewicz, Daniel Jastrzebski, Ryszard Diduszko, Adam Babiński, Maciej R. Molas, Michał Wierzbicki, Cezariusz Jastrzebski
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33156v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 56：
+标题：Topological insulators on site-eliminated, projected, and patterned fractal lattices
+作者：Aiden Mains, Danile Salib, Christopher Leong, Bitan Roy
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33155v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 57：
+标题：Compositionally Tunable Synthesis of High-Entropy Transition Metal Dichalcogenides Exhibiting Above-Room-Temperature Magnetism
+作者：Chen Zhang, Xiahua Zhong, Dejia Kong, Wenhu Wang, Christopher T. Nelson, Mingfeng Chen, Xiaoqing He, Benjamin J. Lawrie, Hsin-Yun Chao, Alex L. Melendez, Peixin Liu, Benjamin G. Gibson, Xiaodong Yan, Xi Wang, Liangbo Liang, Zheng Gai, Huan Zhao, Yingchao Yang
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33115v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 58：
+标题：Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer
+作者：Anand Kamlapure, Lucas Hak, Kishore Kumar Thiyagarajan, Hozanna Miro, Marc Beekman, Matvey Finkel, Leonardo DiCarlo
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33112v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 59：
+标题：A model colloidal gel former for the measurement of inter-particle forces
+作者：Rui Cheng, Kristian Thijssen, Abraham Mauleon Amieva, Tanniemola B. Liverpool, Malcolm A. Faers, Robert L. Jack, C. Patrick Royall
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33091v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 60：
+标题：Anharmonic enhancement of thermal conductivity in amorphous Ge$\_2$Sb$\_2$Te$\_5$: A consistent picture from molecular dynamics and Wigner transport
+作者：Luiz Felipe C. Pereira, Kamil Iwanowski, Michele Simoncelli, Omar Abou El Kheir, Marco Bernasconi, Riccardo Mazzarello, Francesco Mauri
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33089v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 61：
+标题：Signatures of Kitaev quantum spin liquid states in $α$-RuCl$\_3$ revealed by nitrogen-vacancy spin-noise spectroscopy
+作者：Jitender Kumar, Sehrish Iqbal, Himani Saraswat, Benjamin Hammons, Tianlin Li, Ariel Smooha, Rupak Timalsina, Arnab K. Pariari, Sy-Hwang Liou, Xia Hong, Markus Hücker, Amit Finkler, Abdelghani Laraoui
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33085v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 62：
+标题：Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects
+作者：Barsha Bhattacharjee, Emilia Olsson
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33060v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 63：
+标题：Multistable Thermoelectric Josephson Automata
+作者：Filippo Antola, Margherita Cervi, Angelo Greco, Alessandro Braggio, Giorgio De Simoni, Francesco Giazotto
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.33041v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 64：
+标题：Topological Anderson Superconductor in Landau Levels
+作者：Uddalok Nag, Koji Kudo, J. K. Jain
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32988v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 65：
+标题：Nanoparticles with a BANG: Detonation-Driven Synthesis of Metals and Metal Oxides
+作者：Jan Maurycy Uszko, Robert Matyáš, Naoto Shirahata, Stephen J. Eichhorn, Avinash J. Patil, Simon R. Hall
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32985v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 66：
+标题：Investigating competing order in the Kanamori-Hubbard model with the multiorbital multichannel fluctuating field theory
+作者：Laura Torchia, Erik Linnér, Massimo Capone
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32983v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 67：
+标题：Local Thermodynamic Reconstruction of Impurity Entropy
+作者：Hang Su
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32974v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 68：
+标题：Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions
+作者：Sascha H. Hauck, Nis-Luca van Hülst, Matthias Kabel, Dieter Jaksch, Nicolas R. Gauger
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32968v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 69：
+标题：From Fermions to Vortices: Microscopic Simulations of Phase Ordering in a d-Wave Superconductor
+作者：Ali Rayat, Gia-Wei Chern
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32916v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 70：
+标题：Dirac Propagation for Simulating Fermionic Observables under Particle-Number-Conserving Unitaries
+作者：G Arnav Naidu, Matteo D'Anna, Adrián Pérez-Salinas, Jannes Nys, Juan Carrasquilla
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32902v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 71：
+标题：Zone-folded Goldstone mode of the field-induced spin supersolid in the square-lattice $S=1$ antiferromagnet
+作者：Sibin Yang, Pinaki Sengupta
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32798v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 72：
+标题：Packing the Bragg sphere: complete three-dimensional photonic band gaps at the refractive index of polymers (1.55)
+作者：Alexander Itin
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32789v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 73：
+标题：Recovery of Extended Modes from the Non-Hermitian Skin Effect Due to Local Nonlinearity on a Boundary
+作者：Kazuki Sone, Tomonari Mizoguchi, Yasuhiro Hatsugai
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32783v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 74：
+标题：Space-Time Point Defects as Probes of Criticality: Application to the Gross-Neveu-Heisenberg Transition
+作者：Jakob Väth, Luis Thremer, Francesco Parisen Toldin, Fakher F. Assaad
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32775v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 75：
+标题：Lattice Thermal Conductivity of MgO and the MgSiO$\_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials
+作者：Amrendra Kumar Tiwari, Sandro Jahn
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32761v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 76：
+标题：Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates
+作者：Jeff Armstrong, Hamish Cavaye, Pankaj Sharma, Matthew E. Potter
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32739v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 77：
+标题：Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures
+作者：Anastasiia Nihei, Rico Friedrich
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32723v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 78：
+标题：Intrinsic longitudinal Hall effect in ferroaxial metals with high-order rotation axes
+作者：Eleni Chatzikyriakou, Stepan Tsirkin, Fernando Peñaranda, Oscar Pozo, Ivo Souza, Fernando de Juan
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32709v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 79：
+标题：Reversible Self-Assembly of a P-Ir(100)-P Trilayer on Ir(111)
+作者：M. Bassotti, J. Sivianes, J. Dai, M. Tallarida, P. Angulo-Portugal, A. A. Makarova, J. Ibañez-Azpiroz, D. Yu. Usachov, A. Verdini, F. Schiller
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32706v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 80：
+标题：A macroscopic-atom spectral theory of grain-boundary segregation in multicomponent alloys
+作者：Dennis Boakye, Chuang Deng
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32701v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 81：
+标题：Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential
+作者：Yoyo Hinuma, Taisuke Hasegawa
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32659v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 82：
+标题：Constrained Allen-Cahn phase-field topology optimization of flexoelectric devices
+作者：Hao Zhen, Sheng Mao
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32620v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 83：
+标题：Electrons in a hard-wall cylinder with helicoidal metric: time-reversal pairing, cubic anticrossings, and twist-activated dipole transitions
+作者：Humberto Belich, Edilberto O. Silva
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32619v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 84：
+标题：Spin-Group versus Magnetic-Group Selection Rules for Nonlinear Photocurrents in Compensated Ferrimagnets
+作者：Fu Li, Vikrant Chaudhary, Weiyi Pan, Hongbin Zhang, Harish K. Singh
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32618v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 85：
+标题：Modulations of the photoswitching performances of azobenzene-based molecular devices by the π-conjugated spacers
+作者：Laurette-Apolline Jerro, Imen Hnid, Imane Arbouch, Ali Yassin, David Guérin, Alexis Elias, Colin van Dyck, Lionel Sanguinet, Jérôme Cornil, Stéphane Lenfant, Philippe Blanchard, Dominique Vuillaume
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32611v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 86：
+标题：Thermodynamics of complex crystals from a generalized mean-field bond model
+作者：Raynol Dsouza, Thomas D. Swinburne, Jörg Neugebauer
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32609v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 87：
+标题：Topological terahertz fields from tunable vectorial currents
+作者：Jacob Pettine, Tae Gwan Park, Yanhe Lyu, Wangke Yu, John B. Maier, Matthew Yeung, Rujuta Sane, Chun-Chieh Chang, Nuh Gedik, Yijie Shen, Hou-Tong Chen
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32586v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 88：
+标题：Reconfigurable Chiral Phonons and Their Selection in Asymmetrically Stacked Graphene MoirMoiré Superlattices
+作者：Yi-Fei Zhang, Ting-Ting Wang, Zhong-Jie Wang, Miao-Ling Lin, Yue Wang, Zi-Jian Zhong, Xue-Lu Liu, Heng Wu, Lin-Shang Chen, Yan-Meng Shi, Jin-Yang Lou, Lin-Han Li, Jia-Liang Xie, Rui Mei, Ti-Ying Zhu, Li-Fa Zhang, Jiang-Bin Wu, Ping-Heng Tan
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32466v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 89：
+标题：Electron spin relaxation and coherence times of silicon vacancies in 4H-SiC
+作者：Irene Donà, Michele Segantini, Gianluca Marcozzi, Nguyen Tien Son, Takeshi Ohshima, Ha Duong Ngo, Boris Naydenov
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32451v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 90：
+标题：Continuum model for disconnection structures of hetero-interfaces
+作者：Luchan Zhang, Xiaoxue Qin, Dongsong Tao, Jian Han, David J. Srolovitz, Yang Xiang
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32412v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 91：
+标题：Contribution to the GdTe$\_3$ magnetic phase diagram from electronic transport measurements
+作者：A. A. Sinchenko, P. D. Grigoriev, A. Hadj-Azzem, E. Pachoud, E. Lorenzo, P. Monceau
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32401v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 92：
+标题：Magnetoelectric response to a Néel domain wall in spin-orbit coupled superconducting films: Spontaneous currents, vortex pinning, and vortex-antivortex nucleation
+作者：P. J. F. Cavalcanti, M. D. Croitoru, A. I. Buzdin
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32379v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 93：
+标题：AI-assisted formal proofs for static and time-dependent density functional theory on lattices
+作者：Miguel A. L. Marques, Irene D'Amico, Stefano Pittalis
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32370v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 94：
+标题：Angular Momentum Hall Effect of Axial Ferrons in Ferroelectrics
+作者：Xiyin Ye, Tao Yu
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32331v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 95：
+标题：A recursive self-improvement framework for electron microscopy analysis
+作者：Yaotian Yang, Sijia Tao, Yuping Zhang, Jiangjie Qiu, Qinghua Zhang, Xiao Chen, Fei Wei
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32325v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 96：
+标题：Curvilinear nanomagnets of non-trivial geometric topology
+作者：Vagson L. Carvalho-Santos, Luke A. Turnbull, Naëmi Leo, Oleksandr V. Pylypovskyi
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32306v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 97：
+标题：Covalent Welding of Two-Dimensional Molecular Sheets into Ultra-Stiff, Super-Tough Polymeric Networks
+作者：Xiaoli Gong, Guohu Luo, Jiaxin Wu, Jiayu Chen, Zhengqiao Yin, Zhipeng Yan, Jingran Chen, Bowen Tang, Le Tang, Yuxiao Wu, Guanling Wu, Li Peng, Qihang Wang, Yinglong Hu, Yue Zhu, Yuan Yu, Keyan Liu, Xiaozhou Liu, Huanhuan Wu, Yakai Lin, Yifei Xu, Zhiliang Pan, Hao Ma, Man Li, Hongjun Zhang, Dacheng Wei, Youpeng Zhang, Yao Fu, Yongxiang Hu, Yuwen Zeng
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32291v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 98：
+标题：Periodic and quasiperiodic structures produced by microphase separation in one-component simple liquids with competing interactions
+作者：Lorenzo Agosta, Alfredo Metere, Mikhail Dzugutov
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32273v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 99：
+标题：First-principles phase diagram of monolayer CrS$\_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter
+作者：Rashmi Ranjan Routaray, Ali Ghojavand, Eric Bousquet
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32265v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 100：
+标题：Symmetry-dependent field-induced elastic renormalization in the quantum-critical medium-entropy alloy NiCoCr$\_{0.8}$
+作者：Tadataka Watanabe, Mai Watanabe, Brian C. Sales
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32254v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 101：
+标题：Topological Narrow Bands in Twisted Rhombohedral Multilayer Graphene
+作者：Alejandro Jimeno-Pozo, Danna Liu, Francisco Guinea, Pierre A. Pantaleón
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32229v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 102：
+标题：Entanglement between distant spins in a polarized magnet forms a $d$-wave clover
+作者：Alan Zhang, Ye Zhou
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32190v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 103：
+标题：Emission regimes and characteristic energy scales in reverse-biased 4H-SiC Schottky barriers: unified field-emission formulas and energy-dependent tunneling effective mass
+作者：Tetsuo Hatakeyama
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32146v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 104：
+标题：Towards determination of intrinsic spin properties in MAPbI$\_3$ crystals using spin noise spectroscopy
+作者：M. Vladimirova, S. Cronenberger, L. Doyenette, D. R. Yakovlev, B. Turedi, M. V. Kovalenko
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32115v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 105：
+标题：Emergent Electric-Field-Tunable $p$-Wave Magnetism in Twisted Bilayer NiPS$\_3$
+作者：Jiaran Su, Jin-Xin Hu, Qi Sun, Dante M. Kennes, Yuhao Fu, Lede Xian, Lijun Zhang
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32103v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 106：
+标题：From Weighted Frontier d-States to Geometric Descriptors for Atomically Dispersed Catalysts at the Molecule-Solid Crossover
+作者：Yuqi Li, Zewen Wu, Longling Pang, Zhidan Li, Xianghua Kong
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32059v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 107：
+标题：Environmentally assisted transport in a diamond chain
+作者：Pavel S. Muraev, Andrey R. Kolovsky, Dmitrii N. Maksimov
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.32027v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 108：
+标题：Antiferroelectric Fluids with Hierarchical Polar Organization
+作者：Hiroya Nishikawa, Hina Saito, Tetsu Katayama, Atsuko Nihonyanagi, Dennis Kwaria, Hiroyuki Inuzuka, Junxi Liu, Go Watanabe, Fumito Araoka
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31959v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 109：
+标题：Moiré-Induced Interlayer Electron-Phonon Coupling in Graphene/hBN Superlattices
+作者：Dasol Kim, Zhengguang Lu, Tonghang Han, Guorui Chen, Tianyi Han, Jixiang Yang, Bing Cheng, Zhenxian Liu, Christopher Homes, G. L. Carr, Jeong Min Park, Qihang Zhang, Lili Jiang, Hongyuan Li, Kenji Watanabe, Takashi Taniguchi, Pablo Jarillo-Herrero, Feng Wang, Long Ju
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31896v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 110：
+标题：Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion
+作者：Jaekyun Yoo, Suyeon Ju
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31865v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 111：
+标题：Superconductivity with valley-imbalanced Fermi surfaces in thick rhombohedral graphene
+作者：Le Liu, Jian Zhao, Cheng Xu, Kenji Watanabe, Takashi Taniguchi, Yang Zhang, Weibo Gao
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31861v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 112：
+标题：Interface and film engineering for improved spin-charge interconversion in sputtered GeTe nanodevices
+作者：S. Teresi, T. Frottier, M. Culot, W. Savero-Torres, P. Sgarro, M. Wissmann, A. Kandazoglou, F. Osana, J. Lagrave, D. Térébénec, J. Paterson, A. Oysel Mestre, O. J. Mouawad, E. Chevilley, N. Bernier, P. Noé, M. Bibes, F. Hippert, J. -P. Attané, L. Vila, M. Cosset-Chéneau
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31816v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 113：
+标题：Magic-layer scenario for predicting non-van der Waals two-dimensional materials: The case of double-layer honeycomb structures
+作者：Shota Ono
+发布日期：2026-11-24
+arXiv链接：https://arxiv.org/pdf/2611.31748v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 114：
+标题：Photocatalytic Water Splitting in GeC/ReS$\_2$ van der Waals Heterostructures
+作者：Parisa Beyranvand, Ismaeil Abdolhosseini Sarsari, Noejung Park
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31672v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 115：
+标题：Universal spectrum of weakly coupled quantum critical Ising chains
+作者：Hansen S. Wu, Ribhu K. Kaul
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31655v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 116：
+标题：Adaptive ghost Gutzwiller dynamics of Hubbard model quenches across coupling strengths over extended times
+作者：Yong-Xin Yao
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31631v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 117：
+标题：Majorana flat bands from mirror-particle-hole antisymmetry
+作者：Justin Schirmann, Martin Rodriguez-Vega, Alexander Cerjan
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31597v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 118：
+标题：Spin Hamiltonian, magnetic anisotropy and excitation spectrum in altermagnetic $α$-MnTe from first principles
+作者：Matteo Costa, Dario Fiore Mosca, Cesare Franchini, Leonid V. Pourovskii
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31548v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 119：
+标题：Density-dependent photocarrier recombination in $γ$-InSe
+作者：Vivek Jain, Salman Ahsanullah, Neema Rafizadeh, Gbenga S. Agunbiade, Hui Zhao
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31537v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 120：
+标题：Eigenvalue-based computation of Richardson pairing spectra and finite-size thermodynamics
+作者：Grzegorz Biskowski, Marcin R. Piatek, Franco Ferrari
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31531v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 121：
+标题：Excess noise and electron-phonon energy transfer in Au wires: Length and temperature effects
+作者：Yuxin Wan, Dale T. Lowder, Liyang Chen, Manasi Mandal, Gavin Joyce, Douglas Natelson
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31519v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 122：
+标题：Electrical Degradation of Vertical $β$-Ga$\_2$O$\_3$ Schottky Barrier Diodes Under Au-Ion Irradiation to a Fluence of $1.3 \times 10^7$ cm$^{-2}$
+作者：Botong Li, Imteaz Rahaman, Bingcheng Da, Houqiang Fu, Michael A. Scarpulla, Kai Fu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31512v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 123：
+标题：Strong Co-O exchange interaction in $P4/nmm$ KCoO$\_2$ and its effect on spin wave and Néel temperature
+作者：Ilteris K. Turan, Walter R. L. Lambrecht, Jerome Jackson
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31504v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 124：
+标题：Translation Method Bounds for 3D Isotropic Conductivity--Shear Modulus and the Search for Attaining Microstructures
+作者：Justin Tahmassebpur, Tomás Arias
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31503v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 125：
+标题：A fermionic framework for quantum machine learning benchmarks
+作者：Jérémie Gince, Ayana Sarkar, Stefanos Kourtis
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31458v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
 ---
 
 论文 126：
-标题：Ballistic propagation-mediated super-resolution light-element imaging: in-situ tracking dynamic hydrogen migration
-作者：Zhiyao Liang, Feng Liu, Linyuan Chen, Zhiwei Lv, Shiya Chen, Xinyu Liao, Yuzhou He, Yi Wang, Pengpeng Liu, Hua Bing Tao, Nianpeng Lu, Changlin Zheng, Yang Sun, Qinghua Zhang, Rafal E. Dunin-Borkowski, Xian-Kui Wei
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29563v1
+标题：High-density correlation energy of the electron gas
+作者：Miguel A. L. Marques, Paulo R. Pires, Stefano Pittalis
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31426v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -911,10 +2916,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29563v1
 ---
 
 论文 127：
-标题：AmorphGen: A Python package for amorphous structure generation with machine-learning and classical interatomic potentials
-作者：Chaiyawat Kaewmeechai, Louie Slocombe, Alexis G. Manche, David O. Scanlon
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29539v1
+标题：Moiré-enabled polariton control in large-angle twisted bilayer graphene
+作者：Bogdan Borodin, Xuanpu Zhang, Christopher Yang, Kenji Watanabe, Takashi Taniguchi, Cyprian Lewandowski, Petr Stepanov
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31423v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -934,10 +2939,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29539v1
 ---
 
 论文 128：
-标题：Engineering strategies for high-performance self-powered zinc oxide (ZnO) ultraviolet photodetectors: a design-oriented review
-作者：Eka Nurfani, Keysya C. A. Putri, Tarmizi Taher, Aditya Rianjanu, Muhamad F. Arif
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29515v1
+标题：Strain-enabled dynamical magnetoelectric coupling in BaFe$\_{12}$O$\_{19}$
+作者：ChanJu You, Jayanti Higgins, Zhiren He, Yilin Evan Li, Harikrishnan KP, Sören Buchenau, Christo Guguschev, Mario Brützam, Jiaqiang Yan, David Mandrus, David A. Muller, Darrell G. Schlom, Guru Khalsa, Ankit S. Disa
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31413v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -957,10 +2962,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29515v1
 ---
 
 论文 129：
-标题：FlakeForge: automated lithography-ready device layout from optical images of exfoliated van der Waals flakes
-作者：Or Berman, Ilay Mangel
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29509v1
+标题：Ground state and thermal phase diagrams of the magnetized spin-$1/2$ XXZ antiferromagnet on the triangular lattice
+作者：Owan Cho, Seungho Lee, Hyun-Yong Lee, SungBin Lee
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31412v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -980,10 +2985,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29509v1
 ---
 
 论文 130：
-标题：Ground-State Manifold Curvature and Phase Transitions in the Kitaev Honeycomb Model
-作者：Omid Yahyayi Monem, Setare Bashari, Hosein Mohammadzadeh
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29495v1
+标题：Origin of quadrupolar order in the 5d$^1$ double perovskite Ba$\_2$MgReO$\_6$
+作者：Dario Fiore Mosca, Leonid V. Pourovskii
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31395v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1003,10 +3008,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29495v1
 ---
 
 论文 131：
-标题：Population of spin orbit-split-electron branches in semimetallic HgTe quantum wells
-作者：G. M. Minkov, O. E. Rut, A. A. Sherstobitov, A. V. Germanenko, S. A. Dvoretski, N. N. Mikhailov
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29487v1
+标题：Non-integer high harmonic generation from many-body nonadiabatic gating
+作者：Mingyao Guo, Luting Wang, Murali Suganya, Biqiong Yu, Martin Greven, Sritharan Krishnamoorthi, Raman Sankar, Yao Wang, David Hsieh
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31383v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1026,10 +3031,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29487v1
 ---
 
 论文 132：
-标题：Fully solid-state all-2D micro-supercapacitors for on-chip energy storage
-作者：Bar Favelukis, Andreas Furchner, Barak Ratzker, Yiftach Kushnir, Asaf Nitsan, Rebeca Miyar, Yugal Rathod, Alexander Upcher, Nitzan Maman, Pini Shekhter, Varun Natu, Maxim Sokol
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29476v1
+标题：Tunable first-order transitions and magnetic hysteresis in Bernal pentalayer graphene
+作者：Wentian Zheng, Jiawei Hu, Yuxuan Yao, Fang Xie, Zihan Wang, Kenji Watanabe, Takashi Taniguchi, Qimiao Si, Yonglong Xie
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31376v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1049,10 +3054,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29476v1
 ---
 
 论文 133：
-标题：Scaling of phase rigidity without eigenstate coalescence
-作者：Shang-En Xie, Li-Mei Chen, Yao Zhou, Peng Ye
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29463v1
+标题：Tunneling signatures of the Lifshitz transition in a superconducting vortex
+作者：Alex Levchenko
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31371v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1072,10 +3077,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29463v1
 ---
 
 论文 134：
-标题：Auditing a superconducting database built by a large language model
-作者：Wenjian Lu
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29445v1
+标题：Locality from Nonlocality: Symmetry Relocalization and Gauging of Lattice Dirac Fermions
+作者：Lei Su
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31366v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1095,10 +3100,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29445v1
 ---
 
 论文 135：
-标题：Nonempirical Determination of the Optimal TAO-DFT Fictitious Temperature for Molecular Systems in the Lowest Singlet State
-作者：Bing-Ying Li, Jeng-Da Chai
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29414v1
+标题：Band-Selective Coupling to Charge Density Wave Fluctuations in Kagome Superconductors AV3Sb5
+作者：Peter C. Moen, T. G. H. Blank, C. Le, S. Smit, N. Heinsdorf, S. Sarkar, C. C. Au-Yeung, V. Zimmermann, J. Kraan, C. S. B. Pang, M. Tuniz, M. Bluschke, A. A. Haghighirad, I. Rajput, A. C. Salinas, S. Gorovikov, P. Dosanjh, J. I. Dadap, A. K. Mills, S. Zhdanovich, M. Michiardi, G. Levy, I. S. Elfimov, S. D. Wilson, M. Le Tacon, D. J. Jones, X. Wu, A. Damascelli
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31362v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1118,10 +3123,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29414v1
 ---
 
 论文 136：
-标题：Collineations of particles as a tool to study nucleation and crystallization processes in liquids
-作者：V. A. Levashov
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29360v2
+标题：Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band
+作者：Ya-Hui Zhang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31242v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1141,10 +3146,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29360v2
 ---
 
 论文 137：
-标题：Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides
-作者：Rafael R. Del Grande, David A. Strubbe
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29349v1
+标题：A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality
+作者：Fa-Jie Wang, Yang Qi, Zhi-Da Song
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31234v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1164,10 +3169,10 @@ arXiv链接：https://arxiv.org/pdf/2611.29349v1
 ---
 
 论文 138：
-标题：Quantum-Metric-Driven Hollow Wigner Crystals
-作者：Zekun Zhuang
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29317v1
+标题：Solute-Aware Stochastic Korhonen Model of Electromigration in Wide vs Near-Bamboo Al-Cu Lines
+作者：Narahara Chari Dingari, David R. Heskett
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31206v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
@@ -1187,10 +3192,2913 @@ arXiv链接：https://arxiv.org/pdf/2611.29317v1
 ---
 
 论文 139：
-标题：AgenticMM: A Material-Centered Multi-Agent Architecture for Scalable First-Principles Materials Modeling
-作者：Zhenkun Yuan, Geoffroy Hautier
-发布日期：2026-11-22
-arXiv链接：https://arxiv.org/pdf/2611.29248v1
+标题：Protected Charge Readout Scheme Utilizing Nonlinear Resonators
+作者：Andrea Cicovic, Harald Havir, Pierre Glidic, Samuel Andersson, Sebastian Lehmann, Kimberly A. Dick, Claes Thelander, Ville F. Maisi
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31144v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 140：
+标题：Anomalous Field-induced Coherence beyond Single-ion Kondo Physics
+作者： Arushi, Konstantin Semeniuk, Manuel Brando, Javier F. Landaeta, Elena Hassinger, Christoph Geibel
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31137v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 141：
+标题：Lincege.jl: LINked Cluster Expansions on a GEneral GEometry
+作者：Pranav Seetharaman, Francisco Correia, Ehsan Khatami
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31102v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 142：
+标题：Quantum and classical transport in the underscreened Kondo lattice
+作者：Leo Pintar, Don Rolih, Rok Žitko
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31093v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 143：
+标题：LeIFF: A localized-electron and ion force field for coupled nuclear and electronic dynamics
+作者：Anthony Mannino, Isidro Losada, Simon Divilov, Michelle Fritz, Younos Hashem, Ashraf Mrabet, Paula Mori Sánchez, Javier Junquera, Mariví Fernández-Serra, Jose M. Soler
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31029v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 144：
+标题：Self-consistent Floquet theory of steady-state ordering in driven open systems
+作者：Srinjoy Ghosh, Babak Seradjeh, Arijit Kundu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30996v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 145：
+标题：Terahertz detection of magnon chirality in polycrystalline CsCuCl$\_3$
+作者：Juan S. Rodríguez-Hernández, Gabriel F. Freitas, Nicolas M. Kawahala, Rafael S. Freitas, Felix G. G. Hernandez
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30992v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 146：
+标题：Interface-Engineered Piezoelectricity and Electromechanical Coupling in Two-Dimensional van der Waals Heterostructures
+作者：Shivanand Yadav, Raihan Ahammed, Umer Ali, B. S. Bhadoria, Yogesh S. Chauhan, Amit Agarwal, Somnath Bhowmick
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30974v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 147：
+标题：Magneto-ARPES as a direct probe of Berry Curvature and the Orbital Magnetic Moment
+作者：Seohyun Kong, Bernd Braunecker, Luke C. Rhodes
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30968v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 148：
+标题：Generalized dielectric-dependent hybrid functional combining Gaussian and Yukawa screening
+作者：Alexey Tal, Fabien Tran, Wei Chen, Stefan Riemelmoser, Alfredo Pasquarello
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30930v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 149：
+标题：Dirac-like bands and weak-field transverse transport in ABA trilayer graphene
+作者：Agustin Montemurro, Fujia Lu, Ellis R. Huntley, Vladimir Fal'ko
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30924v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 150：
+标题：Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods
+作者：Antonio Lorenzo Mariano, Jacopo Lupi, Emilio Lorini, Matteo Briganti
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30917v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 151：
+标题：Interaction-driven ordering of multiple pseudospins and anomalous Hall metals in Bernal-stacked graphene
+作者：Jeonghyeon Suh, Kyungjin Shin, Hongki Min
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30906v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 152：
+标题：Exponential advantage in quantum observation with one extra qubit
+作者：Zhenyu Du, Xiongfeng Ma, Vlatko Vedral, Jinzhao Sun
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30876v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 153：
+标题：Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure
+作者：Ilteris K. Turan, Jonathan Agrinya, Walter R. L. Lambrecht
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30865v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 154：
+标题：Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices
+作者：Peter Jacobson
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30809v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 155：
+标题：Multipartite entanglement structure of crystal quenches
+作者：Paul Gaudin, Clément Berthière
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30795v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 156：
+标题：Perfect Spin-to-Charge Signal Conversion via Inverse Spin Hall Effect in a Superconductor
+作者：Rodrigo de las Heras, Ilya V. Tokatly, F. Sebastian Bergeret
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30781v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 157：
+标题：Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides
+作者：Valentina Barreca, Giorgio Sangiovanni, Giovanni Cantele, Ludovica Zullo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30767v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 158：
+标题：Aharonov-Bohm oscillations in transport through interacting quantum dots
+作者：Oliver Oing, Alexander Hahn, Jürgen König, Alfred Hucht
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30753v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 159：
+标题：Two-dimensional Thyristor
+作者：Purbasha Ray, Rupali Verma, Biswajeet Nayak, Suman Kumar Chakraborty, Mayank Shrivastava, Prasana Kumar Sahoo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30748v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 160：
+标题：All-in-one Spintronic Sensory Neurons for Magnetic Edge Intelligence
+作者：Jiajia Jian, Bin Rong, Jiaxin Liu, Fangyi Zhao, Kai Li, Tao Huang, Xue Zhou, Xin Yue, Zeyu Ma, Xuefeng Zheng, Weidong Zhang, Jian Fu Zhang, Yumeng Yang, Zheng Chai
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30740v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 161：
+标题：The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6
+作者：Grzegorz Krasucki, Katarzyna Olkowska-Pucko, Tomasz Woźniak, Mihai I. Sturza, Holger Kohlmann, Adam Babiński, Maciej R. Molas
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30688v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 162：
+标题：Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$\_3$ thin films
+作者：Aditya Mehta, Soumyakanta Panda, Pratik Sahu, Amit Chauhan, Dibyajyoti Sahoo, Shwetha G Bhat, Rohit Soni, Goutam Tripathy, Niharika Mohapatra, B. R. K. Nanda, D. Samal
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30681v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 163：
+标题：Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$\_3$
+作者：Divyanshi Tyagi, Saswata Bhattacharya
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30649v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 164：
+标题：Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multiferroic Hetero-structure
+作者：Subho Saha, Sourav Chowdhury, Suryakanta Mondal, Kartick Biswas, Deepak Prajapat, Andrei Gloskovskii, Suresh Bharadwaj, Mukul Gupta, Pavan Nukala, Bhagwati Prasad, Ram Janay Choudhary
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30598v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 165：
+标题：Asymmetrical transport distribution function: skewness as a key to enhance thermoelectric performance
+作者：Jin-Cheng Zheng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30565v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 166：
+标题：Femtosecond laser-controlled production of functional titanium niobate layers from TiO$\_{2}$/Nb$\_{2}$O$\_{5}$ powders
+作者：Gonzalo Gomez-Munoz, Aarón Calvo-Villoslada, Inmaculada Álvarez-Serrano, María Luisa López, Paloma Fernández, Javier Solis, Belén Sotillo
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30549v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 167：
+标题：Correlated chemical and displacive disorder in a lithium-rich disordered rocksalt revealed by electron diffuse scattering
+作者：Sam Y. Thompson, Kristoffer A. H. Støckler, Nikolaos Zacharakis, Rebekka Klemmt, Ella M. Schmidt, Sandro Wieser, Nico Unglert, Jørgen Skibsted, Espen D. Bøjesen, Georg K. H. Madsen, Bo B. Iversen, Dorthe B. Ravnsbæk
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30537v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 168：
+标题：Metal-Dielectric Bilayer Supported Nanoporous Silver Substrates for Ultrasensitive Surface-Enhanced Raman Scattering
+作者：Maryam Naseer, Anastasiia Sapunova, Ali Douaki, Vincenzo Caligiuri, Silvia Dante, Denis Garoli, Roman Krahne
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30536v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 169：
+标题：1.2 dB Insertion Loss in a Monolithically Integrated Silicon Mach-Zehnder Optical Isolator Using Stoichiometric Ce:YIG
+作者：Zhenyuan Ren, Di Wu, Tianchi Zhang, Yizhi Chen, Junxian Wang, Zixuan Wei, Jun Qin, Lei Bi
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30501v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 170：
+标题：Universal stabilizer correlations in chaotic eigenstates
+作者：Zhi-Han Liu, Hao-Yue Qi, Wei Zheng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30485v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 171：
+标题：Self-gravitating dust clumps: linear theory sets the threshold, the onset time and the spacing of their formation, then slow coarsening erases this pattern
+作者：Yohann Trivino
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.31327v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 172：
+标题：Liouvillian Quasiparticle Spectroscopy
+作者：Kai Li, Masahito Ueda
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30441v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 173：
+标题：Scanning nanowire quantum dot with radio-frequency read-out
+作者：Aurèle Kamber, Luca Forrer, Valentina Zannier, Fabio Beltram, Lucia Sorba, Martino Poggio, Floris Braakman
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30427v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 174：
+标题：Neutron Spin Resonance as Probe of Triplet Pair Density Waves in CeCoIn$\_5$
+作者：David W. Tam, Ilaria Maccari, Stéphane Raymond, Barry Winn, Paul Steffens, Arno Hiess, Jacques Ollivier, Dariusz Jakub Gawryluk, Ekaterina Pomjakushina, Aline Ramires, Michel Kenzelmann
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30395v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 175：
+标题：Gyroidal Magnetic Order with Weyl Magnons
+作者：Kiyu Fukui, Yukitoshi Motome
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30374v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 3h54m57.260425889s.",
+    "status": "RESOURCE\_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://aistudio.google.com/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "description": "Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.",
+            "quotaMetric": "generativelanguage.googleapis.com/generate\_content\_free\_tier\_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "14097s"
+      }
+    ]
+  }
+}
+]
+---
+
+论文 176：
+标题：Critical Topology: A New Perspective for Phase Transitions
+作者：Xue-Jia Yu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30368v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 177：
+标题：Manipulation of Ferroelectric Polarization Under Near-Gap Light
+作者：Hanli Cui, Jian Zhou
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30359v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 178：
+标题：Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$\_3$ from Machine-Learned Molecular Dynamics
+作者：Daan Holleman, Luuk Klein Nagelvoort, Monica Morales-Masis, Linn Leppert
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30348v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 179：
+标题：High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials
+作者：Mohammad Bagheri, Kameyab Raza Abidi, Pekka Koskinen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30344v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 180：
+标题：Edge-asymmetric magnetism in semi-Dirac quantum dots
+作者：Mustafa Polat
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30343v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 181：
+标题：Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys
+作者：Xiang Meng, Shuhei Shinzato, Zhiqiang Zhao, Linfeng Yu, Jian Guo, Liangli Chu, Kepeng Ouyang, Shigenobu Ogata, Zhuhua Zhang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30330v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 182：
+标题：Spin-controlled thermophase and noise-optimized thermometry in multiorbital quantum dots
+作者：Markus Plautz, Jeroen Danon, Jacob Linder
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30315v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 183：
+标题：Anatomy of orbital and spin responses in GaAs and Si: Hall, inverse Faraday, and magneto-optical Kerr effects
+作者：Sanaz Alikhah, Daegeun Jo, Peter M. Oppeneer
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30297v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 184：
+标题：Apparent thermal conductivity governed by interface-injected phonon spectra
+作者：D. G. Jeong, Terumasa Tadano, J. S. Lee
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30276v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 185：
+标题：A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to GW, GW+SOSEX, and GF2
+作者：Ajith Perera, Pierre-François Loos
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30263v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 186：
+标题：Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation
+作者：Ruiqi Dong, Haotian Huang, Yubin Hu, Guixiang Zeng
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30229v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 187：
+标题：Quantum Geometry Effects in Lattice Dynamics
+作者：Haoshu Li, Hao Chen, Qian Niu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30210v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 188：
+标题：Strain-driven terahertz phase modulation in piezoelectric and nonlinear optical crystals: mechanisms, material developments, and modulation strategies
+作者：Aarifa Muhammed Ashraf, Rajaboopathi Mani
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30194v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 189：
+标题：Quantum simulation of low-temperature impurity models
+作者：Jiaqing Jiang, Nathan Ju
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30187v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 190：
+标题：Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves
+作者：Yuan Xu, Maxim V. Shugaev, Leonid V. Zhigilei
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30160v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 191：
+标题：A Unified Energy-Density Framework for Moiré Interface Energetics and Mechanics
+作者：Zhangke Lei, Weidong Yan, Zhicheng Feng, Wengen Ouyang
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30152v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 192：
+标题：Projecting Fermions into Exact Scar Towers: Local Protection across Phase Transitions
+作者：Wenjie Wei, Kun Jiang, Hui-Ke Jin
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30143v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 193：
+标题：Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4
+作者：Hidefumi Takahashi, Yuki Umewaka, Kiichiro Yoshida, Ritsuto Nakamura, Akitoshi Nakano, Takao Matsumura, Daiki Sekine, Masakazu Matsubara, Masayuki Ochi, Shintaro Ishiwata
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30121v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 194：
+标题：Soliton Propagation of Zero Sound in Superfluid $^3$He-B
+作者：J. A. Sauls
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30108v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 195：
+标题：Classification of spin space groups and crystal magnetic orders
+作者：Zheng Zhang, Peiyuan Wang, Y. X. Zhao
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.33099v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 196：
+标题：Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E\_F$ of a candidate of ambient-pressure nickelate superconductors Sr$\_3$Ni$\_2$O$\_5$Cl$\_2$
+作者：Ryota Goban, Daiki Ootsuki, Kenichi Ozawa, Akira Yasui, Masayuki Ochi, Kazuhiko Kuroki, Ryo Matsumoto, Kensei Terashima, Yoshihiko Takano, Yuji Muraoka, Takayoshi Yokoya
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30088v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 197：
+标题：NEP-Spin: A spin-dependent neuroevolution potential for large-scale spin--lattice simulations
+作者：Chengbing Chen, Zheyong Fan, Ben Xu
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30076v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 198：
+标题：Stable but Hidden: Identifiability and Experimental Design under Missing Compositional Support
+作者：Harry Sevi, Joonatan E. M. Laulainen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30070v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 199：
+标题：Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery
+作者：Harry Sevi, Joonatan E. M. Laulainen
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30066v1
+研究目的：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+主要发现：[生成失败: API 调用失败: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+---
+
+论文 200：
+标题：Solids activated by multi-body nonreciprocity
+作者：Brady Wu, Daniel S. Seara, Qinghao Mao, Vincenzo Vitelli, Heinrich M. Jaeger
+发布日期：2026-11-23
+arXiv链接：https://arxiv.org/pdf/2611.30058v1
 研究目的：[生成失败: API 调用失败: {
   "error": {
     "code": 503,
